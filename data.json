@@ -1,14 +1,381 @@
 {
-  "generated_at": "",
-  "generated_at_beijing": "尚未更新",
-  "window_start": "",
-  "window_end": "",
-  "method": "等待首次自动采集；数据均来自媒体RSS，非权威热榜。",
-  "warning": "首次上传至GitHub后，手动运行工作流以生成新闻。",
+  "version": 2,
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T05:55:20.291730+00:00",
+  "generated_at_beijing": "2026-11-12 13:55",
+  "window_start": "2026-11-11 09:00",
+  "window_end": "2026-11-12 09:00",
+  "method": "多来源RSS + 相似事件合并 + 不同媒体覆盖度 + 事件影响力 + 少量时效加权（非官方热搜）",
+  "warning": "排名是启发式编辑排序；媒体多源报道不等于事实已核实。部分RSS源可能不可用，无法保证全球前十无遗漏。",
   "stats": {
-    "cn": {"candidate_count": 0, "feeds_available": 0, "feed_count": 5, "selected_count": 0},
-    "world": {"candidate_count": 0, "feeds_available": 0, "feed_count": 3, "selected_count": 0},
-    "ent": {"candidate_count": 0, "feeds_available": 0, "feed_count": 4, "selected_count": 0}
+    "cn": {
+      "candidate_count": 59,
+      "feeds_available": 7,
+      "feed_count": 7,
+      "publishers_seen": 19,
+      "events_found": 59,
+      "selected_count": 10
+    },
+    "world": {
+      "candidate_count": 158,
+      "feeds_available": 8,
+      "feed_count": 8,
+      "publishers_seen": 44,
+      "events_found": 143,
+      "selected_count": 10
+    },
+    "ent": {
+      "candidate_count": 65,
+      "feeds_available": 6,
+      "feed_count": 6,
+      "publishers_seen": 17,
+      "events_found": 60,
+      "selected_count": 10
+    }
   },
-  "sections": {"cn": [], "world": [], "ent": []}
+  "source_errors": [],
+  "sections": {
+    "cn": [
+      {
+        "title": "外交部副部长苗得雨出席阿尔及利亚国庆招待会",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3UkNtekRGamoxT2pqbWZoRkpjOExyWEtNckQxN1J6dXQxTDc4Q2Z5aUp3cVpjWFVVU01YRklMZDBKMUxDY2doQzFZUzZvWHRPd1lsZHdHNjdDNGp1RnlQMGtlWjItN2EwVzVXWVlHYTVUQQ?oc=5",
+        "source": "中华人民共和国外交部",
+        "published": "2026-11-11T14:20:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "中华人民共和国外交部"
+        ],
+        "score": 5.322
+      },
+      {
+        "title": "2026年11月11日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHVzdpeFVUYzZRYXJIaDFpRk9KemMxSFEyY1l0ZmROeEZXZ2RKMjVhVzdnakowX3pyWjl5bkJvdk1ZQ0U1MDUxTTRuZk9HQklycENCRU02aDJ2RjY3VFV4ZzY3Qjgxa2NRb3ZlU0luNlp1eHNQMUE?oc=5",
+        "source": "中华人民共和国外交部",
+        "published": "2026-11-11T10:20:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "中华人民共和国外交部"
+        ],
+        "score": 5.256
+      },
+      {
+        "title": "中国汽车工业协会：10月份新能源重卡渗透率突破50%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-12/10730586.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-11T23:33:28+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 5.193
+      },
+      {
+        "title": "我国新能源汽车销量占比持续走高",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730082.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-11T06:03:48+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 5.051
+      },
+      {
+        "title": "印度官员称印美继续磋商双边贸易协议",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-11/10730069.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-11T05:51:08+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 5.008
+      },
+      {
+        "title": "中国（内蒙古）自由贸易试验区法治研究中心揭牌",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-11/10730546.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-11T13:58:34+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 5.006
+      },
+      {
+        "title": "王毅同美国国务卿鲁比奥通电话",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-12/10730581.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-11T23:39:22+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 4.664
+      },
+      {
+        "title": "美国老人柏大卫跨越太平洋的中国乡愁",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5BbEVic040VS1ERXV0VFRodmpiTnltY0lDVlRJQkxzM0RLQnUzOWw3b0xPTWpZaUtJN25Cam5DSXRKNGdvN3IxRUpqTlM4eUs1REhfYTRiMnpUTHFSVEVnRkR3UTg1R01KU1l0YlMtcEp3NDY5dE5DZmZmcngxMkE?oc=5",
+        "source": "新华网",
+        "published": "2026-11-11T23:59:48+00:00",
+        "source_count": 1,
+        "sources": [
+          "新华网"
+        ],
+        "score": 4.47
+      },
+      {
+        "title": "“区域经济一体化至关重要”（APEC中国年：开放创新合作） --国际",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HQjBMWmRCb3U1WGllVGdsNkdteExVSUxYWVZEM0lBYm1mWGNtMmRhZDJ1WWd0T0NEcVFwMVBNNE5nSVBwQTV5SUkya2JhVnZpTktFOXd0S0FsQVJVOWNjOTZhdERLNmZsMVZ3?oc=5",
+        "source": "人民网",
+        "published": "2026-11-11T21:58:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "人民网"
+        ],
+        "score": 4.463
+      },
+      {
+        "title": "数智时代人文社会科学创新的双重命题",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hV28yWmd2OXBzNzk3dExfOFlHdHBxSEhtUl9fQ0lPakgyU0RzX01VUF95eUgyVWJ0QnZydEhvVjRaU1E2SXFSUGlsWFhZaXRUcjdWR3FlTVhHamJXXzQzZ0VyRW5GVFRXNHpaZk4tSEZ0T3c?oc=5",
+        "source": "潮新闻客户端",
+        "published": "2026-11-12T00:20:37+00:00",
+        "source_count": 1,
+        "sources": [
+          "潮新闻客户端"
+        ],
+        "score": 4.462
+      }
+    ],
+    "world": [
+      {
+        "title": "Protesters gather in Spain for first general strike in 14 years",
+        "url": "https://www.bbc.co.uk/news/videos/cwj0587gde88o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "published": "2026-11-11T16:12:12+00:00",
+        "source_count": 2,
+        "sources": [
+          "BBC",
+          "The Guardian"
+        ],
+        "score": 8.048
+      },
+      {
+        "title": "Spain's workers hold a general strike over housing costs before national election",
+        "url": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
+        "source": "NPR",
+        "published": "2026-11-11T09:54:54+00:00",
+        "source_count": 1,
+        "sources": [
+          "NPR"
+        ],
+        "score": 7.995
+      },
+      {
+        "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
+        "url": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
+        "source": "NPR",
+        "published": "2026-11-11T13:30:00+00:00",
+        "source_count": 2,
+        "sources": [
+          "AP News",
+          "NPR"
+        ],
+        "score": 7.499
+      },
+      {
+        "title": "俄罗斯总统普京12日将会见美方谈判代表",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-12/10730585.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-11T23:28:39+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 7.448
+      },
+      {
+        "title": "The election climate diplomats can’t stop talking about. It's not the midterms.",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWUdiaExXWTNlV21iSDd2RW13d1NQWUNJV1FVUGI3STJpZlhwajc3SUJBbXA3TFE3VjR4Y194cXBpSDZGMkxXbW82NklaOV9zUnA2OXh4dGMtRGlCb1NTUDBNQXo1TVlMYWlxSmJWVUQ3Vl83UjRLME9IWGFlMHdpVWdtdi03NS14bVQ5SV9B?oc=5",
+        "source": "Politico",
+        "published": "2026-11-11T21:43:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "Politico"
+        ],
+        "score": 7.402
+      },
+      {
+        "title": "Turkey’s president calls the war in Gaza an ‘ecocide’ at the UN climate summit",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZkdOdVozVS1Oak1FZ0RqdG5kS1NyLW1tclF5c0RybDN6bzRWTmNCU0lwQVN0ZWdoUUVSeGdHQ3AyNmtMZ084NGRDUkxlNkpxWTNCdWxpSEVaSktvZkdwY2MzblJVSnRBdUkzQ3d6VTlHY05WMXJfdkpaeVREODRZeWQ5SVRQZ0hLQ2xYd21iYkhtcWt0WU9PWE5B?oc=5",
+        "source": "AP News",
+        "published": "2026-11-11T22:46:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "AP News"
+        ],
+        "score": 7.233
+      },
+      {
+        "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+        "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "published": "2026-11-11T18:04:58+00:00",
+        "source_count": 1,
+        "sources": [
+          "BBC"
+        ],
+        "score": 7.131
+      },
+      {
+        "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+        "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "published": "2026-11-11T20:00:54+00:00",
+        "source_count": 1,
+        "sources": [
+          "BBC"
+        ],
+        "score": 7.03
+      },
+      {
+        "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "published": "2026-11-12T00:36:11+00:00",
+        "source_count": 1,
+        "sources": [
+          "BBC"
+        ],
+        "score": 6.96
+      },
+      {
+        "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+        "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC",
+        "published": "2026-11-11T16:59:34+00:00",
+        "source_count": 1,
+        "sources": [
+          "BBC"
+        ],
+        "score": 6.927
+      }
+    ],
+    "ent": [
+      {
+        "title": "第22届中美电影节和电视节在洛杉矶开幕",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMWpwOENycHZuaDJoLTZCR3BLcWJNMDQ1R3lzUHlwd1htSDd4Xzc2MzBUNUJYY2ZYQ21tREVxZVNBU2xWQmRMbW9fcFpsbnBPeWY2SGpETlhqd1hVSDZ6dWZGcXQ5Y3Vqcm5HWTlpX3pYZjBwQ3BaanItWWtYRy15dk5WeTlIQQ?oc=5",
+        "source": "新华网",
+        "published": "2026-11-11T21:30:07+00:00",
+        "source_count": 3,
+        "sources": [
+          "中国新闻网",
+          "新华网",
+          "新浪财经"
+        ],
+        "score": 10.04
+      },
+      {
+        "title": "我在古巴看电影",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlYyaVpISnJjWGZYX2xzTFZwVW96MHpqa21GUFZKcFc5S0FIR1hnVk5wcFJDSjV1TTMzbXNYR2dtWWU3cFFQbTlxdWd6bF9NOGFLQlNzbF9TcWE2NW83emNUVDdqWWNXQU5KbTdvb3FiWnJ6RzZRYUI2cVpHNVllY25xYWhtYko2?oc=5",
+        "source": "Sohu",
+        "published": "2026-11-12T00:57:00+00:00",
+        "source_count": 2,
+        "sources": [
+          "Sohu",
+          "新华网"
+        ],
+        "score": 7.913
+      },
+      {
+        "title": "《小城良方》等影视剧热播引发岛内“东北话听力挑战”，国台办回应",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ubHdhdHlnWC16ZE1YX1ctTURmd28zMXdJY0lTNi11cHRabEcxZ3NFTnczRzdFZHZJVjhRZ3liTm4ybU1IeWdrM2g4T2NINXZ1RzNxWHlZZXVYeThmWkJoTw?oc=5",
+        "source": "ThePaper.cn",
+        "published": "2026-11-11T04:53:05+00:00",
+        "source_count": 2,
+        "sources": [
+          "ThePaper.cn",
+          "中国新闻网"
+        ],
+        "score": 7.021
+      },
+      {
+        "title": "聚焦宁国龙窑制陶技艺的非遗微电影《寻龙》上线",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sR083bElFTlJjSUFDeG93VzU1Y21iNk5GNWZzWEdSU0s5MUc4dzk2eTh2VVVzRjRObHBscFhmRW5XR2xWUUliVzZNNkNuMVNxYm56X09JeUg5UTFXbkNLLXNVY2NrSzc4OTg0?oc=5",
+        "source": "央广网",
+        "published": "2026-11-12T00:45:04+00:00",
+        "source_count": 1,
+        "sources": [
+          "央广网"
+        ],
+        "score": 5.856
+      },
+      {
+        "title": "不如《牛来》，谁在期待AI电影？",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2S2UxbU9hUkU4WnVYQ3dqbW1Ndy1Ud2ZMNzhEa0o3THFHdGVNVnhEVk9SSU5tUFdPVjVmWGx2Z254cjVGUVZUbTcxQXJ6N1hXMVl6cGZGSXBRSVFlX1E2Ng?oc=5",
+        "source": "ThePaper.cn",
+        "published": "2026-11-11T23:36:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "ThePaper.cn"
+        ],
+        "score": 5.823
+      },
+      {
+        "title": "冷湖亮相2026中国金鸡百花电影节",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zMHo5N1Itckp3cnBaX1hGN2NvWEp0VkZTakNERHNqM09nanRZVEVNakZUNnA4Z3FyMmhDQzdCdXRlYTJ2cU9zSDN4V0ZiVkFLR3NxRmRSZjVCQWNLQS1WZ2RFMEZ2VkROOEVNQTNoVEwyVmtB?oc=5",
+        "source": "青海新闻网",
+        "published": "2026-11-12T00:47:03+00:00",
+        "source_count": 1,
+        "sources": [
+          "青海新闻网"
+        ],
+        "score": 5.75
+      },
+      {
+        "title": "空军发布AI微电影《明日之翼》",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zekZfTmQ2TndFTUFrbW1EUThqV0libE1fTlNkZVVDcW92ekRyVm9QcU5FRTVMQ0YtV2xYX1c4RXhScTZ1UDE4WjhyZWNWOU43dkNUOHR6MFp6SndsbjB3cmhXZXBsM0tqTXF4ZWxfaHE?oc=5",
+        "source": "央广网",
+        "published": "2026-11-11T03:26:52+00:00",
+        "source_count": 1,
+        "sources": [
+          "央广网"
+        ],
+        "score": 5.741
+      },
+      {
+        "title": "新的电影力量在崛起——第39届中国电影金鸡奖获奖名单观察",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQTdJcTM2OEZlbUtuNXlzdWs0R0ZkY1hIVmFQS1g1dGppWjNwYnhvWWxqdUJkMnJ4VWFTREt4Z3J1S090SkZyRjVMOVM1NVBFc0JGYml6OUVXNXhqT1RpWDJHbnBnU1FtWU9qRUF0ZEVHRDBIMFJoUDRsZGZSM1kxTDlnRQ?oc=5",
+        "source": "新华网",
+        "published": "2026-11-11T13:11:24+00:00",
+        "source_count": 1,
+        "sources": [
+          "新华网"
+        ],
+        "score": 5.676
+      },
+      {
+        "title": "张艺谋的AI困惑背后：院线电影拿什么留住观众",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRTS15VTVlaWVtUmFJZVFGNVo3SGFTN0sxNlhzQ0pZS1d0ZTdheDZPdzJWUk0zb0E2RGVzMWgwRnMzR0pic3NWRXpkV2pFNkpnb1l3a1AxZHFYLUdrQk42YmRSR0ZSOHZQRmpfUTBkNWZQT0ZRM1R1eQ?oc=5",
+        "source": "新浪财经",
+        "published": "2026-11-11T23:50:14+00:00",
+        "source_count": 1,
+        "sources": [
+          "新浪财经"
+        ],
+        "score": 5.654
+      },
+      {
+        "title": "斩获多项荣誉！宁波电影力量亮相金鸡舞台",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBXemRZN0VHSHpsN2tYTWNJcGFGcGk1MDBzWm1nQlhoSUtiR19OSlppUkY2SFBPMTJSbW40c01Lcy1WWDEyUy14dmNn?oc=5",
+        "source": "凤凰网",
+        "published": "2026-11-11T22:31:34+00:00",
+        "source_count": 1,
+        "sources": [
+          "凤凰网"
+        ],
+        "score": 5.605
+      }
+    ]
+  }
 }
