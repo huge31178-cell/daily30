@@ -1,0 +1,14 @@
+{
+  "generated_at": "",
+  "generated_at_beijing": "尚未更新",
+  "window_start": "",
+  "window_end": "",
+  "method": "等待首次自动采集；数据均来自媒体RSS，非权威热榜。",
+  "warning": "首次上传至GitHub后，手动运行工作流以生成新闻。",
+  "stats": {
+    "cn": {"candidate_count": 0, "feeds_available": 0, "feed_count": 5, "selected_count": 0},
+    "world": {"candidate_count": 0, "feeds_available": 0, "feed_count": 3, "selected_count": 0},
+    "ent": {"candidate_count": 0, "feeds_available": 0, "feed_count": 4, "selected_count": 0}
+  },
+  "sections": {"cn": [], "world": [], "ent": []}
+}
