@@ -2,9 +2,9 @@
   'use strict';
   const $ = s => document.querySelector(s);
   const config = {
-    cn: { label: '中国十大热点', eng: 'CHINA TOP 10', color: '#286ce6', icon: '🇨🇳' },
-    world: { label: '全球十大热点', eng: 'WORLD TOP 10', color: '#e67c32', icon: '🌐' },
-    ent: { label: '中国十大娱乐热点', eng: 'ENTERTAINMENT TOP 10', color: '#e54e83', icon: '🎬' }
+    cn: { label: '中国十大热点', eng: '国家政策 · 经济民生 · 社会大事', color: '#286ce6', icon: '🇨🇳' },
+    world: { label: '全球十大热点', eng: '国际政治 · 战争外交 · 重大事件', color: '#e67c32', icon: '🌐' },
+    ent: { label: '中国十大娱乐热点', eng: '影视剧集 · 明星动态 · 音乐综艺', color: '#e54e83', icon: '🎬' }
   };
   const empty = () => ({ sections: { cn: [], world: [], ent: [] } });
   let data = empty();
@@ -51,14 +51,15 @@
         const item = el('article', 'news'), rank = el('span', 'rank', String(raw.indexOf(story) + 1).padStart(2, '0'));
         const content = el('div','story'), a = el('a', '', story.title);
         a.href = story.url; a.target = '_blank'; a.rel = 'noopener noreferrer';
-        const src = el('div','source', `${story.source} · ${dateFrom(story.published)}`);
+        const src = el('div','source', `${story.source} · ${dateFrom(story.published)}${story.topic ? ' · ' + story.topic : ''}`);
+        if (story.editorial_reference) src.append(el('span','editorial-tag',' · 精选日报同题'));
         if (story.source_count > 1) src.append(el('span','covered', ` · ${story.source_count}家媒体涉及`));
         content.append(a, src); item.append(rank,content); grid.append(item);
       }
       section.append(grid); container.append(section);
     }
     const count = Object.values(data.sections || {}).reduce((n, a) => n + a.length, 0);
-    $('#notice').textContent = noticeOverride || `${data.method || '新闻索引'} · ${count}/30条。${data.warning || '请点击标题阅读来源原文。'}`;
+    $('#notice').textContent = noticeOverride || `${data.method || '新闻索引'} · 本期收录${count}条。${data.warning || '请点击标题阅读来源原文。'}`;
     $('#stamp').textContent = data.generated_at_beijing
       ? `北京时间 · ${data.generated_at_beijing} 生成` : '正在等待首次采集';
     $('#window').textContent = data.window_start
@@ -68,6 +69,16 @@
     $('#latest').classList.toggle('active', selectedDay === latestDate);
     $('#previous').classList.toggle('active', !!selectedDay && !!latestDate && selectedDay === dayBefore(latestDate));
     $('#historySelect').value = days.some(x => x.date === selectedDay) ? selectedDay : '';
+    const reference = $('#referenceLine');
+    reference.replaceChildren();
+    if (data.reference?.available) {
+      reference.append(el('span', '', `筛选参考：每天60秒读懂世界 · 已对照本期精选报道 · ${data.reference.matching_articles || 0}条同题`));
+      if (data.reference.url && /^https:\/\//.test(data.reference.url)) {
+        const link = el('a', '', '查看参考日报');
+        link.href = data.reference.url; link.target = '_blank'; link.rel = 'noopener noreferrer'; reference.append(link);
+      }
+    } else if (data.version >= 3) reference.append(el('span', '', '精选日报暂时不可用，已按新闻媒体报道独立筛选。'));
+    else reference.append(el('span', '', '本期沿用旧版数据；新版筛选需要运行一次新闻更新。'));
   }
   function archiveWarning(message) {
     noticeOverride = message;
@@ -163,7 +174,9 @@
         ctx.fillText(String(i+1).padStart(2,'0'),pad+14,y+29);
         ctx.fillStyle = '#283347'; ctx.font = 'bold 21px "Microsoft YaHei", sans-serif';
         const text = r.title.length > 42 ? r.title.slice(0,41) + '…' : r.title;
-        ctx.fillText(text, pad+65, y+29);
+        let visible = text;
+        while (ctx.measureText(visible).width > W - pad*2 - 96 && visible.length > 3) visible = visible.slice(0,-2) + '…';
+        ctx.fillText(visible, pad+65, y+29);
         ctx.fillStyle = '#929aab'; ctx.font = '14px "Microsoft YaHei", sans-serif';
         ctx.fillText(`${r.source || ''}${r.source_count > 1 ? ` · ${r.source_count}家媒体` : ''}`, pad+65, y+53);
         y += rowHeight;
@@ -171,7 +184,7 @@
       y += gap;
     }
     ctx.fillStyle = '#9a9da4'; ctx.font = '16px "Microsoft YaHei", sans-serif';
-    ctx.fillText('仅供个人阅读 · RSS标题索引 · 非官方热点榜，不保证无遗漏',pad,y+32);
+    ctx.fillText('仅供个人阅读 · 新闻标题索引 · 非官方热点榜，不保证无遗漏',pad,y+32);
     canvas.toBlob(blob => {
       if (!blob) return;
       const link = document.createElement('a');

@@ -12,15 +12,15 @@
 <body>
  <main class="wrap">
   <header class="top">
-    <div class="kicker"><span class="spark">✦</span> YOUR DAILY BRIEF <span class="slash">/</span> 每日新闻精选</div>
+    <div class="kicker"><span class="spark">✦</span> 每天读懂重要新闻 <span class="slash">/</span> 精选新闻·快速阅读</div>
     <div class="hero-row">
       <div><h1>每日<span class="accent">30</span>条<span class="under">热点速览</span></h1><p class="tagline">中国大事 · 全球焦点 · 娱乐热搜 <span>一页读完今天</span></p></div>
       <div class="earth" aria-hidden="true">◉<span>✷</span></div>
     </div>
-    <div class="meta"><div><span class="dot"></span><span id="stamp">新闻更新中…</span></div><span id="window"></span></div>
+    <div class="meta"><div><span class="dot"></span><span id="stamp">正在读取日报…</span></div><span id="window"></span></div>
   </header>
   <div class="datebar" aria-label="切换历史日报">
-    <div class="dateheading"><span class="calendar-icon" aria-hidden="true">▦</span><span id="edition">每日09:00截稿 · 北京时间</span></div>
+    <div class="dateheading"><span class="calendar-icon" aria-hidden="true">▦</span><span id="edition">每天北京时间09:00截稿</span></div>
     <div class="datecontrols">
       <button type="button" id="latest" class="date-btn active">最新一期</button>
       <button type="button" id="previous" class="date-btn">昨天</button>
@@ -29,6 +29,7 @@
     </div>
   </div>
   <div id="archiveMessage" class="archive-message" hidden></div>
+  <div id="referenceLine" class="reference-line" aria-live="polite"></div>
   <div class="toolbar">
     <div class="tabs" role="tablist" aria-label="筛选分类">
       <button class="tab active" data-tab="all" aria-selected="true">全部 30 条</button>
@@ -39,8 +40,9 @@
     <div class="tools"><input id="search" type="search" placeholder="搜索标题 / 来源" aria-label="搜索新闻" /><button id="download" title="将当前30条新闻导出为PNG长图">↓ 导出长图</button></div>
   </div>
   <div id="notice" class="notice" aria-live="polite">正在加载最新新闻…</div>
+  <details class="method-explainer"><summary>新闻如何筛选？</summary><p>优先考虑国家政策、经济民生、重大社会事件、国际局势；参考每日精选日报作为重要性线索，再从媒体报道中筛选具体新闻。多家媒体报道会增加关注权重，但并不代表已完成独立事实核查。娱乐新闻单独筛选，普通资讯降权；没有符合条件的报道时不会凑数。</p></details>
   <div class="sections" id="sections"></div>
-  <footer><span>数据为公开 RSS 标题索引 · 保留原媒体链接 · 仅供个人阅读 · 历史日报按日期单独存档</span><span>算法估算重要性，并非官方热搜榜 · 不保证全网覆盖</span></footer>
+  <footer><span>公开新闻标题索引 · 点击标题查看媒体报道 · 仅供个人阅读 · 日报按日期保存</span><span>精选参考＋报道覆盖度排序 · 不是官方热点排名 · 不保证全网覆盖</span></footer>
  </main>
 </body>
 </html>
