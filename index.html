@@ -4,7 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <meta name="theme-color" content="#f8f6f0" />
-  <meta name="description" content="每天一页，快速阅读中国、全球和中文娱乐热点。新闻标题来源媒体RSS，点击查看原文。" />
+  <meta name="description" content="每天一页，快速阅读中国、全球和中文娱乐热点。固定北京时间09:00截稿，支持查询昨天及历史日报；新闻标题来源媒体RSS，点击查看原文。" />
   <title>每日30条 · 新闻速览</title>
   <link rel="stylesheet" href="./style.css" />
   <script src="./app.js" defer></script>
@@ -19,6 +19,16 @@
     </div>
     <div class="meta"><div><span class="dot"></span><span id="stamp">新闻更新中…</span></div><span id="window"></span></div>
   </header>
+  <div class="datebar" aria-label="切换历史日报">
+    <div class="dateheading"><span class="calendar-icon" aria-hidden="true">▦</span><span id="edition">每日09:00截稿 · 北京时间</span></div>
+    <div class="datecontrols">
+      <button type="button" id="latest" class="date-btn active">最新一期</button>
+      <button type="button" id="previous" class="date-btn">昨天</button>
+      <label for="historySelect" class="history-label">历史日期</label>
+      <select id="historySelect" aria-label="选择历史日报"><option value="">加载历史…</option></select>
+    </div>
+  </div>
+  <div id="archiveMessage" class="archive-message" hidden></div>
   <div class="toolbar">
     <div class="tabs" role="tablist" aria-label="筛选分类">
       <button class="tab active" data-tab="all" aria-selected="true">全部 30 条</button>
@@ -30,7 +40,7 @@
   </div>
   <div id="notice" class="notice" aria-live="polite">正在加载最新新闻…</div>
   <div class="sections" id="sections"></div>
-  <footer><span>数据为公开 RSS 标题索引 · 保留原媒体链接 · 仅供个人阅读</span><span>算法初排，非官方热搜榜 · 不保证覆盖全部重大新闻</span></footer>
+  <footer><span>数据为公开 RSS 标题索引 · 保留原媒体链接 · 仅供个人阅读 · 历史日报按日期单独存档</span><span>算法估算重要性，并非官方热搜榜 · 不保证全网覆盖</span></footer>
  </main>
 </body>
 </html>
