@@ -1,42 +1,42 @@
 {
   "version": 3,
-  "date": "2026-11-14",
-  "generated_at": "2026-11-14T02:12:51.064014+00:00",
-  "generated_at_beijing": "2026-11-14 10:12",
-  "window_start": "2026-11-13 09:00",
-  "window_end": "2026-11-14 09:00",
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T02:15:03.937684+00:00",
+  "generated_at_beijing": "2026-11-15 10:15",
+  "window_start": "2026-11-14 09:00",
+  "window_end": "2026-11-15 09:00",
   "method": "精选日报重要性参考 + 新闻媒体独立报道 + 政策民生和重大事件优先 + 同题去重与领域均衡",
   "warning": "个人新闻索引；相关媒体多并不代表事实已独立核实。精选日报只作排名参考，不会直接复制其全部新闻。",
   "reference": {
     "available": true,
     "source": "每天60秒读懂世界",
-    "date": "2026-11-14",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDE4NDQ0Nw==&mid=2247499013&idx=1&sn=1867f0b7fb28be26c04262f78a8ad6da&chksm=c0f9dc2e33cb97e925c8960799e4a87fa61a27727f0ab39dd37ef91d9adc03a39339aa2b24a0#rd",
-    "matching_articles": 4
+    "date": "2026-11-15",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDE4NDQ0Nw==&mid=2247499014&idx=1&sn=8e66e759964329d2025b2c24e2b69e6c&chksm=c0f3cc0c77a7c98f3532fe26dc97469095df1ed8184ba74b4425228865d317ef6719ed13917a#rd",
+    "matching_articles": 5
   },
   "stats": {
     "cn": {
-      "candidate_count": 339,
+      "candidate_count": 318,
       "feeds_available": 10,
       "feed_count": 10,
-      "publishers_seen": 95,
-      "events_found": 292,
+      "publishers_seen": 83,
+      "events_found": 281,
       "selected_count": 10
     },
     "world": {
-      "candidate_count": 289,
+      "candidate_count": 244,
       "feeds_available": 10,
       "feed_count": 10,
-      "publishers_seen": 84,
-      "events_found": 206,
+      "publishers_seen": 71,
+      "events_found": 176,
       "selected_count": 10
     },
     "ent": {
-      "candidate_count": 152,
+      "candidate_count": 90,
       "feeds_available": 7,
       "feed_count": 7,
-      "publishers_seen": 27,
-      "events_found": 99,
+      "publishers_seen": 19,
+      "events_found": 71,
       "selected_count": 10
     }
   },
@@ -44,415 +44,411 @@
   "sections": {
     "cn": [
       {
-        "title": "宏观市场 | 企业贷款利率与房贷利率走势分化——货币政策执行报告解读",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VNlowSVBidHFUbFQ3U1RERzVrRFhUcVpQNVdRdWNHMUhYN0tmaE5hejZyOFFSaExQandhalpfdlB1U2NmVHkzbkZvTmoxY1lEazVzVUh4TVE5QTNZU2tqTjU0VEItOERqMG4tY2l2eTF4UQ?oc=5",
-        "source": "手机新浪网",
-        "published": "2026-11-14T00:52:00+00:00",
-        "source_count": 1,
-        "sources": [
-          "手机新浪网"
-        ],
-        "score": 8.098,
-        "topic": "政策政务",
-        "editorial_reference": false
-      },
-      {
-        "title": "第七届中国人工智能大赛成果发布会在厦举办",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1aZVhUcExWVjF0bDlOOUZTMzNMX2RoVS00RFBKVWFMcE9NRG5kbnlGZG8tQVVwNk9Na0h6NlZicXZvMGlObWZqUGNUcTJIa3Q2T2txVlpiZ05EOGdxUkE?oc=5",
-        "source": "投资厦门",
-        "published": "2026-11-13T08:49:43+00:00",
-        "source_count": 3,
-        "sources": [
-          "中国新闻网",
-          "投资厦门",
-          "海外媒体"
-        ],
-        "score": 7.855,
-        "topic": "科技产业",
-        "editorial_reference": false
-      },
-      {
-        "title": "国务院任免国家工作人员",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731693.shtml",
+        "title": "再创新高 51个一类新药进入新版国家医保药品目录",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731912.shtml",
         "source": "中国新闻网",
-        "published": "2026-11-13T11:40:04+00:00",
+        "published": "2026-11-14T02:44:35+00:00",
         "source_count": 2,
         "sources": [
           "中国新闻网",
+          "新华网"
+        ],
+        "score": 9.501,
+        "topic": "经济民生",
+        "editorial_reference": true
+      },
+      {
+        "title": "2026年版国家基本医保药品目录发布 新增107种药品",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QVW9hc0lLX2dHQTZDQzhqQlg2MzBSNUhnR0Z6REp3ZHZOeWJkdzVyV21xZTEtUDhLcC1yanRfUFI1V1NFaDFzUFUtejhxbmRRc25WWEFoMUQ2YmRpdUVLeUlvMjJpQjUzVG9sd2NwbEhoRlpWME1MVQ?oc=5",
+        "source": "新浪财经",
+        "published": "2026-11-14T15:10:14+00:00",
+        "source_count": 1,
+        "sources": [
+          "新浪财经"
+        ],
+        "score": 9.257,
+        "topic": "经济民生",
+        "editorial_reference": true
+      },
+      {
+        "title": "B站宣布免费送所有人大会员，英雄联盟S16全球总决赛中国战队BLG夺冠",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9EY1ViUEZvMFk4dVNWRzNYUy1Vd0ZEOGpZSVJTUHdNeUd3NDFrblFnY29TUmN5R1ptR0FUb0VhMW1URUt5S2tINGctMUM?oc=5",
+        "source": "凤凰网科技",
+        "published": "2026-11-15T00:41:08+00:00",
+        "source_count": 6,
+        "sources": [
+          "凤凰网科技",
+          "川观新闻",
+          "海外媒体",
+          "第一财经"
+        ],
+        "score": 8.247,
+        "topic": "其他要闻",
+        "editorial_reference": false
+      },
+      {
+        "title": "好消息！51个一类新药进医保",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSS04YUFzNWJibEstZVk4OWF5YkNxbnhsbERIakFLM0pRYWc2V25vdGpXeWw3aUF6V1ZITjRTZzNGeldSQkg5YXZ0WEZLX3BZWVBhNWRRLUk3QkFPdThxYUs0dzgyV1VrRWptUEtiZEZXVFM2YVNJVDJ6UG5QSnpYeHBB?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-14T18:33:10+00:00",
+        "source_count": 3,
+        "sources": [
+          "手机新浪网",
+          "新浪财经",
           "海外媒体"
         ],
-        "score": 7.659,
+        "score": 8.869,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "中信建投2027黄金展望：利率压制有限、央行购金托底，金价中枢有望震荡向上 提供者 智通财经",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzNXVYblhNbUE2VzhaUEdyc0xnZHFCdVF3a1RuSVlzNUJJOWQ0MTZjMjQzYng0bGNYYkVCOGVDUG1tQWNvZGgwYm82VnZsQlpSdGIxa1VVQTJwUFFoUWF3c3dHcXc3RVdueWpUNjVPclg?oc=5",
+        "source": "英为财情 Investing.com",
+        "published": "2026-11-14T23:51:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "英为财情 Investing.com"
+        ],
+        "score": 7.813,
         "topic": "政策政务",
         "editorial_reference": false
       },
       {
-        "title": "2027年全国硕士研究生招生考试报名人数为347万",
-        "url": "https://www.chinanews.com.cn/edu/2026/11-13/10731392.shtml",
+        "title": "10:55:13【百万级CAR-T抗癌药首次纳入基本医保 患者自付降至10万元以内】",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3Y3M0cVd2U3pPTWVFUmN5RVAzMHJqN2FTMlJBclgtVHQxY0M1b2dMWE05ZEFyY2RMdDdmM195MFFib2ZFUDJoLQ?oc=5",
+        "source": "财联社",
+        "published": "2026-11-14T03:09:02+00:00",
+        "source_count": 1,
+        "sources": [
+          "财联社"
+        ],
+        "score": 8.506,
+        "topic": "经济民生",
+        "editorial_reference": true
+      },
+      {
+        "title": "对话中国首位奥运冠军许海峰：国家安全体现在各行各业，要时刻有保密观念",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sbmhJQnFrM2ZLSm56OEdHZ0ROVXFLRXZlRmJ0UjR6LXhsUUtqQkpFWGNqRFpYamExcDZLa3J1RnpKcnlucWU5RlJDdGhoUG54M2dYYmVsTFlkTDZFYTFpMWpOZXBvZ2JxcmhKYms5SlIzWWluN1E?oc=5",
         "source": "中国新闻网",
-        "published": "2026-11-13T03:33:37+00:00",
+        "published": "2026-11-15T00:06:00+00:00",
         "source_count": 1,
         "sources": [
           "中国新闻网"
         ],
-        "score": 7.167,
+        "score": 6.037,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "医保目录新增107种药，百万级抗癌药首次纳入基本医保",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiaHVqUkVmYWMxay0xaEJPdW52X0NqaF9hVHFjY1JDejZyRFN5RmRuMHB2ai1vbGFFeHpLVC1uY0JJbExYODV6RUJVZkFiWDdNeEowQ2NOb252aFVHLVVKOThZWlZhZGpPZ3c?oc=5",
+        "source": "紫牛新闻",
+        "published": "2026-11-14T23:00:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "紫牛新闻"
+        ],
+        "score": 7.899,
+        "topic": "经济民生",
+        "editorial_reference": true
+      },
+      {
+        "title": "中国10吨级电动商用飞机完成首次有人驾驶智能飞行",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-14/10732009.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-14T07:35:13+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 5.578,
         "topic": "其他要闻",
         "editorial_reference": true
       },
       {
-        "title": "江西鹰潭余江区：打通医保惠民 “最后一米”",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BN2Y3UG1lUVItNmJYQlEyVXZ1Z2htcXN2Ujg2YTVEWkNxR3poV3R1dnJUWF9aQ0lNYVBiUExuVVRwS2tVUDUteWZNX3djTzF4aktaR2JXNFViM1F4aTE5VmhyMjdncVRZ?oc=5",
-        "source": "央广网",
-        "published": "2026-11-13T08:30:52+00:00",
-        "source_count": 2,
+        "title": "国务院安委办约谈11个市级政府",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYUpCbURadFNUYldtT1FwQnU2UERNZFZnOFR5ODNXel9jcFU1MDBpekdBR2lsLWZ2R0dCSXJoTWtFbXZVUmhJMWZBTF9tenFXZnpwS3czM292aGt0QlN0VHJIdkxaSWlHLWthYlJQT2lWWGdYQlp1S2ZUOVAwbVA2Uml2X1kxOVVxbXQ4MnlZM2RVeVdQblU3UA?oc=5",
+        "source": "新浪财经",
+        "published": "2026-11-14T10:31:09+00:00",
+        "source_count": 1,
         "sources": [
-          "央广网",
-          "海外媒体"
+          "新浪财经"
         ],
-        "score": 7.12,
-        "topic": "经济民生",
-        "editorial_reference": false
-      },
-      {
-        "title": "李强抵达曼谷开始对泰国进行正式访问",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731686.shtml",
-        "source": "中国新闻网",
-        "published": "2026-11-13T11:39:22+00:00",
-        "source_count": 3,
-        "sources": [
-          "中华人民共和国外交部",
-          "中国共产党新闻网",
-          "中国新闻网"
-        ],
-        "score": 6.962,
-        "topic": "其他要闻",
-        "editorial_reference": false
-      },
-      {
-        "title": "2026年11月13日外交部发言人毛宁主持例行记者会",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPLU9hcks0Q0J3aVA3T0sxU1FEVGtuM1BWUk9jeWR6SEhSZ3ZUY1FsREJ3Zi1pWmoxRGhoREd6TTBDV2NCa1VjREJnVk5ES0k0bUU5SUVPeXU1cS12ZkRJeVBFU2drTUQ2VTMwdl9xTE0xVl9ZZ0E?oc=5",
-        "source": "驻马里大使馆",
-        "published": "2026-11-13T14:13:40+00:00",
-        "source_count": 2,
-        "sources": [
-          "驻巴哈马大使馆",
-          "驻马里大使馆"
-        ],
-        "score": 7.483,
-        "topic": "政策政务",
-        "editorial_reference": false
-      },
-      {
-        "title": "连续增长！历史新高！“数”读中国经济的澎湃动能",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zM3lhWE1kMUdwMFNSLTNQbWFfeEZlLXczS1ZCSjJmd21QY1RPTkwwZkNNQjdGY1JOaXk0dDFfNkt1b2R4R011T1RrQXZ4WW1lemc1MkladDh4MVM5VVpQTmY5LUxXSFRCWFhxWGZpQQ?oc=5",
-        "source": "浙江在线",
-        "published": "2026-11-14T00:44:37+00:00",
-        "source_count": 3,
-        "sources": [
-          "京报网",
-          "央视网",
-          "浙江在线"
-        ],
-        "score": 6.526,
-        "topic": "经济民生",
-        "editorial_reference": false
-      },
-      {
-        "title": "在里斯本，看中国科创拓宽人工智能边界",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQV0QxLVAxT00ySlROcVJGbHV3TkF4RkRnMEk1Q0Q2ZWwxNVBDeS1BUjJ1dnptWURXbk5jZkVsc3RJX3g5OVNuNlhvb2Qzcy1OMk9uWHd4ekFNTFVyQ0h4QmRQUmxEN0ljNWVNb0piRThkWGl3NkFnWVNrMnBZYXJDWnllX1NZQXpnZmlaa0xOSQ?oc=5",
-        "source": "海外媒体",
-        "published": "2026-11-13T23:07:00+00:00",
-        "source_count": 2,
-        "sources": [
-          "人民网",
-          "海外媒体"
-        ],
-        "score": 6.137,
-        "topic": "科技产业",
-        "editorial_reference": false
-      },
-      {
-        "title": "十四届全国人大环境与资源保护委员会副主任委员王忠林被查",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-13/10731691.shtml",
-        "source": "中国新闻网",
-        "published": "2026-11-13T11:42:06+00:00",
-        "source_count": 2,
-        "sources": [
-          "中国新闻网",
-          "中国日报网"
-        ],
-        "score": 7.609,
+        "score": 5.689,
         "topic": "政策政务",
         "editorial_reference": false
       }
     ],
     "world": [
       {
-        "title": "俄外交部：俄美会晤未讨论欧洲参与乌克兰问题谈判事宜",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JT1cya1hlU1VTYkdHcjVDYnNaRHZaSzFBamwxYzVKN2FqTzdNaW80ZFdhQkh5NzJUQzR3SnFCYmNlYnhxMmJNbVg0cUprQ1RTVHZSQVdEamlST3ZZRy1RZg?oc=5",
-        "source": "海外媒体",
-        "published": "2026-11-13T15:51:56+00:00",
-        "source_count": 2,
-        "sources": [
-          "海外媒体"
-        ],
-        "score": 10.399,
-        "topic": "国际政治",
-        "editorial_reference": true
-      },
-      {
-        "title": "科斯塔：欧洲五国及欧盟机构将参与下一轮乌克兰问题谈判",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731873.shtml",
+        "title": "联合国教科文组织前总干事：对APEC深圳会议充满期待",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1qRm9jc2kyMEdYM1p6LWZ3OVU4aER1ZXp1YU42VXoyUVJ6U2R2WXNxdjhwaTlybUh6dVBGVVhWakRjVVh6aWNlQTk1WG5lUzlsWUhvZVI2WUdmWlF0cElPNEItWHpyY1M1OFg3M09RZFFJRGc0eEE?oc=5",
         "source": "中国新闻网",
-        "published": "2026-11-13T22:32:49+00:00",
-        "source_count": 1,
+        "published": "2026-11-14T12:22:00+00:00",
+        "source_count": 3,
         "sources": [
-          "中国新闻网"
+          "中国新闻网",
+          "中工网",
+          "红星新闻"
         ],
-        "score": 8.548,
-        "topic": "其他要闻",
-        "editorial_reference": true
-      },
-      {
-        "title": "俄罗斯称尚未同意让欧洲参与乌克兰问题谈判",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-13/10731784.shtml",
-        "source": "中国新闻网",
-        "published": "2026-11-13T13:17:03+00:00",
-        "source_count": 1,
-        "sources": [
-          "中国新闻网"
-        ],
-        "score": 8.305,
-        "topic": "其他要闻",
-        "editorial_reference": true
-      },
-      {
-        "title": "俄乌多边谈判临近 欧洲敲定组团“入局” 俄方尚未同意",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWlJSalNPQU8wb2JEblhtMjhCWV9zcGdtVHZ5ODFKRHVkcC15dFlpaUIzTlR2OTBkZWVKTFY0aUdPWnFCZGtfTHNJUEllRjJmeXBwLUFnTTc4NGxSYm9ENkxLd1hnQ25qNG4wQWhtcllxRnNwVXQ4RE1WTWNBdlZ0NXNVa1RqaUpVRm5Rdw?oc=5",
-        "source": "海外媒体",
-        "published": "2026-11-13T23:01:16+00:00",
-        "source_count": 2,
-        "sources": [
-          "中国青年网",
-          "海外媒体"
-        ],
-        "score": 7.601,
-        "topic": "冲突与安全",
-        "editorial_reference": false
-      },
-      {
-        "title": "乌尔第三王朝的战争、外交与贸易",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VM2c0bzFjcVVpa3BfSkRMb2lsM3BTWGt3YmU3cUdBa0ZyS1l4bzV1VGlIMS1GbnhGbDNLZERSUzJRUzRlMTBnbTV4aEhRNzduWXNIektWRFhNV01mYzhnNHhVdHRDTDVkZDUwRk9pSFRicncyY1FVUQ?oc=5",
-        "source": "新浪财经_金融信息服务商",
-        "published": "2026-11-13T12:33:47+00:00",
-        "source_count": 1,
-        "sources": [
-          "新浪财经_金融信息服务商"
-        ],
-        "score": 7.489,
-        "topic": "冲突与安全",
-        "editorial_reference": false
-      },
-      {
-        "title": "中国政府中东问题特使翟隽会见沙特外交大臣费萨尔",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQU2QtZXZ6UEQtYUJ6bG4yV1B5bFlNVmVySFR3UE5GdVhNSFFtbFpCSDE0bDR0UEFLbFhvNE1VVTZxQ0Y0RGhDNXZ2dTVqd2Yyd0VNNDR2QTlwekFzVlRVb3kyQ2Z5VFhGd3MwQ09RSzNMRU4waXdyUGdPekVqT2NKVVB6OUU?oc=5",
-        "source": "中华人民共和国外交部",
-        "published": "2026-11-13T03:05:00+00:00",
-        "source_count": 1,
-        "sources": [
-          "中华人民共和国外交部"
-        ],
-        "score": 7.18,
+        "score": 8.146,
         "topic": "国际政治",
         "editorial_reference": false
       },
       {
-        "title": "开启美伊战争，大搞关税，特朗普这两年执政与拜登相比很差吗？",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGZRWW1weWdlM3VTYTdLUG4xMER1UmpwQTY4TlFGczNHcmlvLUZJdGFPazQ4RHBXLWtIZW44eXprbnlrMlFYNUxodC1MdGZaNU96SU42cC1OY3VVYzN2YWtOU2R3UG1jYkJlRGg1SkpDcm05eS04VV9qQVBOM19PSkV1RTc4VTFXOTBvVA?oc=5",
+        "title": "联合国警告！地球气候系统失衡持续加剧",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPa3B2dkxhcVVaT2x6enZUMXlkMjI4Zl81bzJUandaMFNzeE5XQks5OXFOX3RqY1I5LThwUHlpb1lfNFdpYkRPTHBWWXlEeUtSZG1CRzNFTTFXT21CeURHT3E4SVExVlhJendOaDlBcGY1WWdFMUpURno0VnVVeEdfdDVFbVJ6T2t5?oc=5",
         "source": "海外媒体",
-        "published": "2026-11-14T00:09:00+00:00",
-        "source_count": 1,
+        "published": "2026-11-14T14:10:33+00:00",
+        "source_count": 2,
         "sources": [
+          "京报网",
           "海外媒体"
         ],
-        "score": 7.488,
+        "score": 7.872,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "欧洲五国要入席 俄乌和谈前景难料",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hMkpvdDFZaEIwcFZzM0lpTkFPcDVBbFh6SklndVNzS2hPLTNremM0M2lyblBiUEtZQ0x3ellra3ZoT2RmWDBOeTh2YlhhMU05cnVvcWJ2SC1TZC10YnB1R2NEOVZJNkFpR2txWVFwRTUwZlBrVE53?oc=5",
+        "source": "新华网",
+        "published": "2026-11-14T07:50:13+00:00",
+        "source_count": 2,
+        "sources": [
+          "新华网",
+          "海外媒体"
+        ],
+        "score": 7.54,
         "topic": "冲突与安全",
         "editorial_reference": false
       },
       {
-        "title": "黄金或创六月来最大单周跌幅，美联储加息押注升温施压贵金属",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQTRBNmxWVERKdmZnMlJMYVlyelE4SXpLTXRFUkt5WUJwcWNXU3RnWGhuR3ZueUVsYXNqY2hfZUxnWkxkaFlwQzNVeE1weDdsbWhOWEtmNW1kY25NcEh5NE1OT21icHhZZ0Y0UHJBV1VGZVpoQXQteDgya2txaDNZcnpqb3pSRzAybjJ0ZEZPMTVLZElJS3BTdmh3MUpDZw?oc=5",
-        "source": "富途牛牛",
-        "published": "2026-11-13T21:59:51+00:00",
-        "source_count": 2,
+        "title": "伊朗通报4艘油轮触雷起火 联合国通报134起商船袭击事件",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732056.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-14T09:13:42+00:00",
+        "source_count": 1,
         "sources": [
-          "富途牛牛",
-          "海外媒体"
+          "中国新闻网"
         ],
-        "score": 6.536,
-        "topic": "国际经济",
+        "score": 7.44,
+        "topic": "冲突与安全",
         "editorial_reference": false
       },
       {
-        "title": "美联储金融稳定报告：AI热情推动美股估值虚高，网络安全风险上升",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHk5NmttS0tHdGp6UG10YTZJV3hxMm1hYjNCWHEtX3FZbGtBQkV4UDhTWC1jRXotMWtfdzdxUFNGQnJPMGw0M2htOGRSWWtfRk9MUHlrT2VuU0NCVElQUXg1NUljekVHNkE1ZkFlZHREbEk5RDBRalN5bHphbXMySFUzWXVFYVJuZXJhR3laODVVcDRNRFlNdmtPc0ZVOHUzZ3JMRUx3T2o0cXNDRWphelM5Y1pDT3ZrMnFKRQ?oc=5",
-        "source": "富途牛牛",
-        "published": "2026-11-13T21:58:10+00:00",
+        "title": "俄乌出现新交易设想：美国提出以乌方从顿巴斯撤军，换取乌克兰加入北约",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMnUyeUtrY2w1cndOb2l0YVNhZHpNdUFmWkQzX3NEdHB5bzJtLTJaeTZQSVBmSVBwS2xTTGd3MHVha1l4OGFJYWNHeUJBa3hHdUYwbURFMVRNaEFwbnItZkZhTXBfNlFnSmtyRWJqdUFHZGtSOTk5OUR4cWFtcmcxOVhR?oc=5",
+        "source": "网易新闻客户端",
+        "published": "2026-11-14T12:36:00+00:00",
         "source_count": 2,
         "sources": [
-          "富途牛牛",
-          "海外媒体"
+          "海外媒体",
+          "网易新闻客户端"
         ],
-        "score": 6.536,
-        "topic": "国际经济",
+        "score": 7.319,
+        "topic": "冲突与安全",
         "editorial_reference": false
       },
       {
-        "title": "美国自愿放弃气候大会主导权，却仍想影响全球规则，中方积极扛起全球大责任",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONHJETFlFc0I2Z05wM2NYZldaU2pKUUlWUXZQVVhFZkJyODBJR213eXFIamp2dElEUExoU2F0dzBEaEN4aUtLN2RxQ2xQQl93VVpPVDVzRW9mNktOeC01SkdfQzRmYTEyeUROR0FWaXhHTlEwd09pNURRaG05MkIyTVRkZ1pQWkhWc2ZXdw?oc=5",
+        "title": "黎巴嫩总统与联合国副秘书长举行会见 讨论联黎部队未来安排",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZUJBOGd2ZEw4cU55aFBPdkM2b0Z1ZmI3N3A3aEdvWkZReDV2ZHk4WmdUSW1fY200cGhpTUdycS1vZllCcEtCaEdaNmlZb2IxdTE4ZUp6YmFsM3FrMnhsMzFXd3FkaWxBY2JDeFdGMFVWa01QRnVkM2JuZWZxcVBFUC04R3FidkFIT2tfaA?oc=5",
         "source": "海外媒体",
-        "published": "2026-11-14T00:15:00+00:00",
+        "published": "2026-11-14T16:30:44+00:00",
         "source_count": 1,
         "sources": [
           "海外媒体"
         ],
-        "score": 6.409,
-        "topic": "全球社会",
+        "score": 7.206,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "美联储重磅报告：“AI热”正推高资产估值",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ZZ0JpSlc3U0M4ZFFXdDByUzdRSGtOLWJVUjhSMW9leVlPZGxfejZmVzRRTFVGbXZtMHpMc0RiZExfRFRLeWZpTFlSRzRuTTRY?oc=5",
+        "source": "凤凰网财经",
+        "published": "2026-11-14T06:17:13+00:00",
+        "source_count": 2,
+        "sources": [
+          "凤凰网财经",
+          "财联社"
+        ],
+        "score": 6.417,
+        "topic": "国际经济",
+        "editorial_reference": false
+      },
+      {
+        "title": "多方谴责以军空袭加沙医院 联合国等呼吁以方放行援助物资",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fU1B6NWl0XzVfSE5DamFZRkhtcTI3LU1FR1hnMXlyNWx2enFUbko4aS00RU1xbDJTOW9tM2JUUkNHUEM5UkxzUEZhV2Z4bHlTeUE?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-15T00:03:32+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 7.316,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "“为全球经济稳定发展作出积极贡献”（APEC中国年：开放 创新 合作）",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aeDdVZTJsWklMWFhOX2xrdHpRbWtZSEZRT01ZZlotRUtjVUgzT3JWMjlpVnFqcmFZdWsxVEwxempCTmduRmIwUF9vUGlGTXF1Zi1wcDJ4LUNUaFVyRTEzMXFCV2R4RDZpX1E?oc=5",
+        "source": "中国共产党新闻网",
+        "published": "2026-11-15T00:14:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国共产党新闻网"
+        ],
+        "score": 5.209,
+        "topic": "国际经济",
+        "editorial_reference": false
+      },
+      {
+        "title": "联合国警告：也门塔伊兹省面临人道主义危机",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-14/10732148.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-14T12:32:37+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 6.568,
+        "topic": "国际政治",
         "editorial_reference": false
       }
     ],
     "ent": [
       {
-        "title": "王俊凯个人演唱会纪录电影立项，“当·潮汐漫溢”将登陆院线",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jUFAtbmQxQ2ZWdXFOaU5pVUhsQ1dDVk5vMzdCQnZiNDZvb2JjMDdINGNDRUo3X2JZbkgwZFItWnBoc01QN3NaeDVSQTJGSmN5c09BUF8tTzE2eVNyQ1lDZzF0NHNPUVlTQm5iUmNPNE8?oc=5",
-        "source": "手机新浪网",
-        "published": "2026-11-13T16:50:32+00:00",
-        "source_count": 2,
-        "sources": [
-          "手机新浪网",
-          "紫牛新闻"
-        ],
-        "score": 7.431,
-        "topic": "电影与奖项",
-        "editorial_reference": false
-      },
-      {
-        "title": "三款影像旗舰演唱会实拍横评：OPPO Find X10长焦防抖稳，山顶也能出片",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE15NW1CNVZLQTVCM0VSczRlU0hhbDJISWJadUhHTXBQSUlYODZXOWZObjgtaFhERTVBS1h0MjlUSkFfWlhBMnhLQ19hcURGQkYtdHRYbVFodjBtQ1F3WGZJ?oc=5",
+        "title": "山顶座位也能拍清舞台：OPPO Find X10、vivo X500、小米18 Pro Max三款旗舰横评",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYd21xVmxsWm9wVkk4ajJfZlJBUlMtYmdPa3J0dldHVEZ0Y2lGczhWZVg1T2xQQ2tUNzVjX2xoaUxMc2wzYUZBdkRreU1GcVpuZDNyek0xZHFfNE00WTlN?oc=5",
         "source": "新浪新闻",
-        "published": "2026-11-13T21:23:58+00:00",
+        "published": "2026-11-15T00:01:50+00:00",
         "source_count": 2,
         "sources": [
           "手机新浪网",
           "新浪新闻"
         ],
-        "score": 6.637,
-        "topic": "音乐与演出",
+        "score": 6.546,
+        "topic": "其他娱乐",
         "editorial_reference": false
       },
       {
-        "title": "刘嘉玲揭秘：为什么很多香港演员不爱来综艺",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5oTjNGbFY2Q054emZRdTEwRHZtVHZYZ2lDNUN6d2x0a3FzTVgycEdlNURRMVZSVmlXeWQ0d0FyOFpFV0FlLVhsYnN0NEMzQk9wdmlLWm9Dcm1HYVl5azVsTk0xcGgyV1Npc19VRjR5UGFzd1E?oc=5",
-        "source": "手机新浪网",
-        "published": "2026-11-13T19:40:16+00:00",
+        "title": "金世佳回应拒上综艺：“演戏只是我的工作，我们在屏幕和剧场相见”",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rM0g3RXdPaHd3WFFNdE5sOHhwUDdYVGpPc0tqWEdyNmY3eGZ3V2lha0FlemVQMzJmSWFyWHlJSkpaenk0elRwbEd2T0JZRkRCdjhoMEZB?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-14T14:50:00+00:00",
         "source_count": 1,
         "sources": [
-          "手机新浪网"
+          "海外媒体"
         ],
-        "score": 6.052,
+        "score": 6.012,
         "topic": "剧集与综艺",
         "editorial_reference": false
       },
       {
-        "title": "王晶电影麻将女王上映一周票房4455元",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84Zk9HVlM5eTNsOTdNUWIxTlNhX0tVV0l4OGdnajVZVFRwN2NsWXVlbGdVU19RV042Z0pLRlV3RXpnRGNuVUxEa3VGc2hkaDBkM213RFVkTElNY3I4Vm80SkM1R1N3Rk40cGZDdW5zc0I?oc=5",
-        "source": "手机新浪网",
-        "published": "2026-11-13T13:28:24+00:00",
+        "title": "白敬亭王楚然有合作的电视剧吗？网传新剧进展解析",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOG1DalFoTG1DMkJMRmhSRU1oMDNxU3BONnhFc19kMEI3aUVjRDlqNXJIdVJnbnZkX2J6S2REYTg1cFpzbzBmUlVqbE11OW5fX2ZQX2V0QXUxSnlKY3dicTVUeFNyNlExNE9TVkxqVVNmaWg2UWNUUDdzWDc3VEc2eW1EVQ?oc=5",
+        "source": "新浪新闻",
+        "published": "2026-11-14T17:42:05+00:00",
+        "source_count": 1,
+        "sources": [
+          "新浪新闻"
+        ],
+        "score": 5.994,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      },
+      {
+        "title": "在长江路读懂半部金陵史，2026中国电影表演艺术周南京“读城”",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4tdnVuQ2RRQW9JS3FjV1h4TjA5V0pJY1BIWW1STGhheTBsUF8tbWpKQXdGbnhmV0Eyb08yd0RoQ2lCdUxkNVBzQTl0QmV1ZzdOTVl5TkM1aHo1Q09mU2tfSndrNnlYbXVY?oc=5",
+        "source": "紫牛新闻",
+        "published": "2026-11-14T06:35:00+00:00",
         "source_count": 2,
         "sources": [
-          "手机新浪网",
-          "新浪财经_金融信息服务商"
+          "中国新闻网",
+          "紫牛新闻"
         ],
-        "score": 5.999,
+        "score": 5.951,
         "topic": "电影与奖项",
         "editorial_reference": false
       },
       {
-        "title": "登陆CCTV-1！全程在青岛取景拍摄的电视剧《多喜一家人》，正式定档11月16日，蒋欣、梁冠华等出演",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZE5mSlJSQ003Y1g4UmwxeDRYTUo3MWowWjJ6N2hzRjY2NTBZTnpWNEpFbU1LN3pzSjR6eXRKTkpMVlFQZzRwY0VFR2xJTE1COFZfb05NV0d4a18wU1pBZTVUa3NoU0FSUVloZlJQSng3VjQyWDBiVkFhdjlSakkzeW1TWExZQQ?oc=5",
-        "source": "新浪财经_金融信息服务商",
-        "published": "2026-11-13T15:01:08+00:00",
+        "title": "王俊凯首部演唱会电影立项，以北京站为核心",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80QVo2T2lERzgtSkh0QnVLX010RXk0Z0dSNWpFNGlBVG05elB5eG9VY1NfNDNFa1VrNGVRNXdJQy1MLWMxR3hFTzJpV0JJaTM5OHlpSkI0V19pRWpLX2U0ZGNwUkNodHhSOU9iUTF1d1J2QQ?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-14T22:38:05+00:00",
         "source_count": 1,
         "sources": [
-          "新浪财经_金融信息服务商"
+          "手机新浪网"
         ],
-        "score": 5.944,
-        "topic": "剧集与综艺",
+        "score": 5.896,
+        "topic": "电影与奖项",
         "editorial_reference": false
       },
       {
-        "title": "歌手叶蒨文在南京档案馆找到家人户籍卡",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EbG5YQzlrZ01yMW9xZjZPX1JnWWZIM1FEdkNmQnJnNXUzYmVkdG11akVobkswRlN4clgzbkNiVHNxVkVYazBrT1JTOG43U3NDb1YzRWxmcW9fRVo1d0ZuMk5UWGhHZzhCdm0yXw?oc=5",
-        "source": "温州新闻",
-        "published": "2026-11-13T11:54:48+00:00",
-        "source_count": 2,
+        "title": "大批明星马上抵达广州，多场演唱会官宣王嘉尔、孙燕姿、周杰伦等",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB1Mzd6ZU5ZSEprY1NiZTRFNUVYMHZCMDdLaVEtdHJTaGFPZ1pSTXY3T1dPb01SWHRKZmdqWVlsYkxzMDNESW9Fa3FXR1ctSE1sdmNMekdMeXBvWVZocGg0UXpFNDlRM1h2cFVrdGs1T0ljZ01Kand1YTVQdzMzdw?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-14T06:53:41+00:00",
+        "source_count": 1,
         "sources": [
-          "手机新浪网",
-          "温州新闻"
+          "手机新浪网"
         ],
-        "score": 5.804,
+        "score": 5.806,
         "topic": "音乐与演出",
         "editorial_reference": false
       },
       {
-        "title": "美国歌手称综艺《后会友期》未付版权费？节目方尚未回应、律师解析争议焦点",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdFRMNjAzNzJwTnZrZERUV3V0SVpuYjFucF9tOGxJZVR1OEI3R2NVLV9IZ2VlM2dTQlJWZmNjVU5xWnF3cEpDeDdSR0pwSEg1aE5JQlNZSEgtVlI5VFVCS1VRWFNxZlV6enlwWHlWUFEwb0FkZHkycjE5bTZXWkNQamhJMFZmQTFjbDRWWTItOA?oc=5",
-        "source": "海外媒体",
-        "published": "2026-11-13T12:47:53+00:00",
+        "title": "歌手演唱会谁赢了？林俊杰雨中《江南》太震撼，张杰惊现万人蹦迪",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iTzdYZjNnTjBMNldRNEZKMzBJNThWMXV3OFA3ZXBoNnNFSExPTnB0Ny1YejR3SnhkX1ZDSVVpcWljUUJTNk9adkpOSjYzaHhyTDRiWGRfcDRJS0xNNl93Y1VyME9nYWJ5TnpqdV9KMmtCNXM?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-14T08:08:37+00:00",
         "source_count": 1,
         "sources": [
-          "海外媒体"
+          "手机新浪网"
         ],
-        "score": 5.722,
-        "topic": "剧集与综艺",
-        "editorial_reference": false
-      },
-      {
-        "title": "帮你鉴㉗｜双11刷到明星带货？当心是AI画的皮！",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBESjhLUEpkMjhPV1FQZ3RWV1BzOVMtNDI5d3k5YXZGdV82RE9oSTV2WGdFcGtpa3R5SHNmaHd4c0o3TmdpeC1ab0U5UjNVM2kwU1FSR3QyMUthTW1lVjMw?oc=5",
-        "source": "新湖南",
-        "published": "2026-11-14T00:55:50+00:00",
-        "source_count": 1,
-        "sources": [
-          "新湖南"
-        ],
-        "score": 4.629,
-        "topic": "明星动态",
-        "editorial_reference": false
-      },
-      {
-        "title": "演员田曦薇在长沙遭私生推挤拉扯，摔倒在地，现场一度失控",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVGFQeHpHX05iakxpTzliWmRRQjNheGpJVlM4ZXZIdHktMVZNeGROT2RhVUlMWUNsdVY5V01zZXZnRXllNVNjYnF4Tks4OXB1eDJZMWtjR05leF8wZDJOUHZIVGlVYjdTRG9McllvLXJSQ05SbFpYTlY2UTM1RVY5T0twNUgtVVNzOThvOQ?oc=5",
-        "source": "海外媒体",
-        "published": "2026-11-14T00:41:00+00:00",
-        "source_count": 1,
-        "sources": [
-          "海外媒体"
-        ],
-        "score": 4.585,
-        "topic": "明星动态",
-        "editorial_reference": false
-      },
-      {
-        "title": "初冬好戏连台！徐良、胡彦斌济南演唱会12月即将开演",
-        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mWFZ2bFppall1UlhEd3hLWU1EdERhLTRBT0xOYlF0Q3pTRDNSWklROWNkdXJ5dmFxYzRnVnJwOGZlTmRZNTdINXZB?oc=5",
-        "source": "凤凰网山东",
-        "published": "2026-11-13T22:53:10+00:00",
-        "source_count": 1,
-        "sources": [
-          "凤凰网山东"
-        ],
-        "score": 5.109,
+        "score": 5.654,
         "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "王俊凯“当·潮汐漫溢”演唱会纪录电影立项，首部个人巡演影像将登院线",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUSjdQTEtXeE9jeDNXTHUyYkNQM2JoZ092c1ZkR2ZxeFpXaEZhc3pkVU1CM2tMeERrcU5wcmdkV1ZYYW9lRFFPQUE3dUtSdzdINEhqS25OTFdvRTZ6LW5wdzhXTVRTV1VENHVEbnpTeFhlZw?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-14T14:52:42+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.832,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "“演员娜然被曝怀孕”冲上热搜，工作室晒健身照发声：分享自律美女本周健身照，拍戏之余也不忘运动",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkhJRmpkS0lMRVlRSVk0Tkt1VFlnNUdmeTU4Slp6WmlDOUJQNDZVVVAySHRYaV9McmhpMW1vU0g3YjZ6MW9lWGRDWkhKcWpZVFlNOTB5ZmcwbnNzSEo0NnhjcHA0RTJMLXJQc2JnRjZuaHgyWUllcWU2S2VLS2YybkRVS1dVWDVsMkpYLQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-14T22:55:52+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 4.56,
+        "topic": "明星动态",
+        "editorial_reference": false
+      },
+      {
+        "title": "新体育app下载时尚之夜收官：明星助阵，多车齐发震撼全场！",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wdlZnMkdUMUNsYlVwZEM4bUFuZlNaOTNJclBONUZpM040S2Utd2xjalFUSFAxUnZ4RkNnYWNxNFgtMzRLOTdWYWdXaWdmUWlJT2FkY2NSTW4?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-14T21:46:01+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 4.513,
+        "topic": "明星动态",
         "editorial_reference": false
       }
     ]
