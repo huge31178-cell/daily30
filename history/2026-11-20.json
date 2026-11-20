@@ -1,0 +1,466 @@
+{
+  "version": 3,
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T02:21:39.123256+00:00",
+  "generated_at_beijing": "2026-11-20 10:21",
+  "window_start": "2026-11-19 09:00",
+  "window_end": "2026-11-20 09:00",
+  "method": "精选日报重要性参考 + 新闻媒体独立报道 + 政策民生和重大事件优先 + 同题去重与领域均衡",
+  "warning": "个人新闻索引；相关媒体多并不代表事实已独立核实。精选日报只作排名参考，不会直接复制其全部新闻。",
+  "reference": {
+    "available": true,
+    "source": "每天60秒读懂世界",
+    "date": "2026-11-20",
+    "url": "https://mp.weixin.qq.com/s/Sl2Da-g_XZIN4YMwaUfx_g",
+    "matching_articles": 3
+  },
+  "stats": {
+    "cn": {
+      "candidate_count": 330,
+      "feeds_available": 10,
+      "feed_count": 10,
+      "publishers_seen": 117,
+      "events_found": 279,
+      "selected_count": 10
+    },
+    "world": {
+      "candidate_count": 272,
+      "feeds_available": 10,
+      "feed_count": 10,
+      "publishers_seen": 80,
+      "events_found": 168,
+      "selected_count": 10
+    },
+    "ent": {
+      "candidate_count": 50,
+      "feeds_available": 7,
+      "feed_count": 7,
+      "publishers_seen": 17,
+      "events_found": 31,
+      "selected_count": 10
+    }
+  },
+  "source_errors": [],
+  "sections": {
+    "cn": [
+      {
+        "title": "（APEC）中国外交部发布2026年亚太经合组织东道主75项成果清单",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43NENJeWl5TURpNk90UVUzQWo3b012eWRzekw5Y2h5MVJQWWtMZnVtaGpLWXZ1V3lCQ0F1N3NTMGhIRU4yaEJ6U3JvQ0NNRzNnYnVaZGt1dU5KRC1aNzd3eXFRMHhTaXhReWNOdUZHQjBFSkU?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-20T00:47:00+00:00",
+        "source_count": 4,
+        "sources": [
+          "中华人民共和国驻大韩民国大使馆",
+          "中国新闻网",
+          "新湖南",
+          "海外媒体"
+        ],
+        "score": 10.697,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "金正恩与特朗普是否有会晤安排？外交部回应",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBfRUtCTENPQ1Mzd0Y4cTkydVJPS25iTzJKcDRJQ3dFYWFIdnEySzJVaWQxSmN0SDg2OFFCSFVTbWpERjBRQjEzMVotTU8?oc=5",
+        "source": "凤凰网",
+        "published": "2026-11-19T07:11:22+00:00",
+        "source_count": 3,
+        "sources": [
+          "东方财富网",
+          "凤凰网",
+          "新浪新闻_手机新浪网"
+        ],
+        "score": 9.032,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "2026年11月19日外交部发言人郭嘉昆主持例行记者会",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41Rk1yNkZPTFZJcUZpMGJ5VEV6RGRCS2dmM3NLdWtxLXd0a2J0YW5oYVZuYWdfX3doM3JOZ1p5MTB2YWpvSHYxWGdLdkdVb004dmhIb2h6TzI1LWp5djBSWUdSQTQxZFhGZDNLUy1KRW1yYXU4SFhFa016ZTE?oc=5",
+        "source": "中华人民共和国驻大阪总领事馆",
+        "published": "2026-11-19T08:50:38+00:00",
+        "source_count": 3,
+        "sources": [
+          "中华人民共和国驻大阪总领事馆",
+          "驻新西兰大使馆",
+          "驻越南大使馆"
+        ],
+        "score": 8.995,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "“中国造”商品汽车出口专列累计开行1万列",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wakdJNWNkZGo2ZlZxWUVka19pV1UybXBFVEVvZFZkdktzaHlMUjE1LW4xZWQ4SVdjVklieTlVUXRfVF9OX0xxS01aX0dSdTd1QnNydEhqQXAyYzlmZ3pRS3hEaTI1b21GTG1zcDdra2RNZEtya25hTDZIT0Y4Zw?oc=5",
+        "source": "中国新闻网",
+        "published": "2026-11-19T23:27:00+00:00",
+        "source_count": 3,
+        "sources": [
+          "中国新闻网",
+          "中国经济网",
+          "央视网"
+        ],
+        "score": 7.86,
+        "topic": "科技产业",
+        "editorial_reference": false
+      },
+      {
+        "title": "深圳涉外税收服务持续推进",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWmVzX0hXak9FWUZUUC1TRUMyMjQzSjRXWFVqYmVlNVF6dkpPYVpfNk51d0xSTWZsZzNqSmF0a3BVWGtZNjNjcUpuYU83TjVzdG5XMHg1WUh2OHVLMTY0d2FYWGljZmFIc2loNW5sY0xUZHpsWjY1Q1J4Sk9RXzlWN3NWRGs0MzlGakxF?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-19T10:51:40+00:00",
+        "source_count": 2,
+        "sources": [
+          "海外媒体",
+          "经济观察网"
+        ],
+        "score": 7.044,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "被原单位欠缴社保91个月近15万元，26岁体操名将最新回应：已全部补缴",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnSlZGU2lTRmFFWHNqTF9oNzhWek93dG83QW9VMHVMbkdkSEtXZ3lZSUM4V1l0Skp6NFByOGx2ZmFlZGFZdFJXaFRVTFZrVnM3WWhYaVJGdVpaYkp5LUpKTWxKREh5dw?oc=5",
+        "source": "观察者网",
+        "published": "2026-11-19T05:10:00+00:00",
+        "source_count": 2,
+        "sources": [
+          "凤凰网",
+          "观察者网"
+        ],
+        "score": 7.042,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "10月中国企业信用指数稳步回升",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-19/10734899.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-19T13:01:02+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 7.034,
+        "topic": "其他要闻",
+        "editorial_reference": true
+      },
+      {
+        "title": "日本东京万人集会抗议高市政权政策",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcHhSb3o4ak5Na1FmcERWbVQ3VEkyQVNPXzRJX2ZLa2JmWmhqM0RQV19mQW1GX19uZ3RiMUJ0WWM3Y1RkMW51VnhzMVRyQVMybTNvb3B5MHMxdmtpdEQ2ODNhak1QRXRHQ2gyNGVLd2NnSFlmaFBVUkI5UzVHVzRtU3BBYV9pVmFu?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-19T21:50:00+00:00",
+        "source_count": 5,
+        "sources": [
+          "中华网",
+          "京报网",
+          "凤凰网",
+          "新华网",
+          "海外媒体"
+        ],
+        "score": 8.225,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "中国官方：2027届全国普通高校毕业生规模预计1299万人",
+        "url": "https://www.chinanews.com.cn/edu/2026/11-19/10734900.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-19T12:54:31+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 6.439,
+        "topic": "其他要闻",
+        "editorial_reference": true
+      },
+      {
+        "title": "美国芯片出口管制遇挑战 CNN称多所中国高校采购英伟达芯片",
+        "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxPRjNMSzYzaEkwNFFKTEQyek04RXNKQWEydWFGaEV5dW9vbzJnUU9oZUxaTUV5SVFkUXBrQVl2b1UyYndleGR6YVltaDFOeUt4Zkh0UUNWb2lxcWhoeWttaDhSeFE0WUZwQkpKczBWY2xtaTlJck43SUUzSlBNOUo2WEpuSkZpZGQzQzZtY2RiVUhxSXY3SEpHdEZEcG5XcVlCM3B3UWFsNzMzMFdEUTR3TnpqajQ0NWU4cGFldXkteFlocjBIZ3h4R2NoNmYxdHNJTEZ1SXp4ejhjSng4dnRiNkh4dzJJQi1wbTd0S2R5RHlGbjFyOW8zS2FWb2xSUTA4S1hvY3hKbTVLSmMzaktsZy0wbDRObUYxLUo2RWpMN2Y3ZVc1a2F3NWIyN2p1RDRjUndvSjVlOURxcldyTnFyUTZGdlV3Q2V2RF8wckdYbWNidHRVVmtSUk5ubmtLMm1STFU5aVc2YWRDTWduOUlaSmtLdV92am9DYkFGTjNhWkgyS3lES3JKSWkta1haY2Ex?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-19T18:59:20+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 5.392,
+        "topic": "科技产业",
+        "editorial_reference": false
+      }
+    ],
+    "world": [
+      {
+        "title": "习近平会见美国总统特朗普",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56S0R4SHFLU0VYZmg0R3Brd05oZUNKUlVaalQtOVRsUW85TEpqZDgyUjNUVklsWDh3THQ4TGYtajE4Q2stbGFtRnFjc3Z0VDE5RzFBeUdGV3ZPV3NROWNwcjZCdUNLSWlsR1F1c2h1MmxuRUxieWc?oc=5",
+        "source": "习近平外交思想和新时代中国外交",
+        "published": "2026-11-19T09:15:41+00:00",
+        "source_count": 5,
+        "sources": [
+          "习近平外交思想和新时代中国外交",
+          "军网",
+          "国家林业和草原局",
+          "央视网",
+          "新华网"
+        ],
+        "score": 10.41,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "美国总统特朗普：美国不支持“台独”",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1kMS1ONFdKXzNlcUlhRWptblRkc2hoVTREOE5QRFFkcjNSNUdmNW51alJFR0d2Z3lqZ1hWZ1B6ZElwclFMYkhqSjF2Zkg0UmlIdk9FMDZTVDNoQ081bW5iM2c5YTgxVjBBeTRLczdpUTM1dEhVMms0WTJRU2M?oc=5",
+        "source": "杭州新闻",
+        "published": "2026-11-19T23:50:00+00:00",
+        "source_count": 3,
+        "sources": [
+          "上观新闻",
+          "军网",
+          "杭州新闻"
+        ],
+        "score": 9.183,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "普京：克里米亚大桥遭袭后 不再讨论海上停火",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SWUdOZWk4Qk1VcHJwTF95bzNPdTctcnppaldDVVhOQ2syaTEtcXFjWDUzUVZzQVhWbFlaRV9ocFlqWGxPMEN1UnpOcF83dk40bTlrUzZrc1R1LThTREM0Um9JcEdQVlB1?oc=5",
+        "source": "中国新闻网",
+        "published": "2026-11-19T22:05:38+00:00",
+        "source_count": 2,
+        "sources": [
+          "中国新闻网",
+          "观察者网"
+        ],
+        "score": 7.731,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "特朗普、习近平和普京谴责核战争，中美俄历史性峰会落幕",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWdfYkdEVm9Cb1VpdlFvTXowQWpLUEJpbW5Ob1RqM3VScDBPazhLLUo5SmhpOFhITDRsLU9sZ3NoYzZpa1BMUTlJSGdCamFZMDBEMXFMQTd5OGRVVC1lTi1sdWlZc1NKSUVmWTByNWNKbXpqWTBTVkF3Y0VVMUZGRUFVQ0h1enU0MjdCU1k3RHd6NEdqVVFNN1ZPcFVtTUNjSkpTLUVn?oc=5",
+        "source": "华尔街日报中文网",
+        "published": "2026-11-19T23:40:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "华尔街日报中文网"
+        ],
+        "score": 7.721,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "参议院共和党人否决终止对伊朗战争的立法 提供者 Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5TUlJUNjBOMU54VmNjRjlmMDVIaGpFVUk2MFVLbXF6bF9BV2taQ0haLW5Ld3FzRnJmZTZIQ01VVC03YkdSc0ttSXhKMlJtZWFuMGZJVkh4dzA0QWdzdDRIa1FSX2NuWjVGZzZGd2NGTmFKcFpDZ09R?oc=5",
+        "source": "英为财情 Investing.com",
+        "published": "2026-11-20T00:12:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "英为财情 Investing.com"
+        ],
+        "score": 7.668,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "美联储副主席杰斐逊：目前AI热潮正推高通胀，未来生产率提升或推动物价下降",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYU8tQTBaSWxQT3lVanhra0ZoNmZ1MDNGMGNXVWlYLTdUeFpPYVFXNDI1Z2g0OGFzRkJYdnJnT2puM1A2azNDcmNGZ0JVNGVTZVVIdTF5WEtXWjYyYUZYV2dxcTJLMGpxSlJQcFZ6d2tEbGRsZTlreDNURnc5LVhVWE9lakhJc2VIZlJqbDZqRm93dFVzUmx3RTZRS0FYX2N2?oc=5",
+        "source": "富途牛牛",
+        "published": "2026-11-19T16:24:45+00:00",
+        "source_count": 2,
+        "sources": [
+          "华尔街见闻",
+          "富途牛牛"
+        ],
+        "score": 6.455,
+        "topic": "国际经济",
+        "editorial_reference": false
+      },
+      {
+        "title": "美中俄元首就核战争风险、增加石油供应以及联合国改革的必要性达成共识",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOT3VRYkFCdVlRTXFkT1pVX0hhMHdOSGxKLVc0UFNNLTdOUFA3aWFnUGdZUTktVTBTbkhseVRBTEloVmh2bXpyTllZaVVxSUd4ckpYdDRPUWdWUEVfNkdzVnZCZEVXaHhyVkduMlF6WnJwanRrZkI5TVY4LVFWQlpKS0tIYkhYeEVualBaazY1elloVng3V1dMQUV4MjhiZzg0ZHNoTWtfaWFkX2ZYRW9wZjRyV3dUaEZac2FfUDBPYW9Pc01Eb0N2Y0VScExLY3p2cWNQYTJ1eTlhWXozVFhRZEVhamZJOFpDY1ZscWtNejhVaGU2NVBySXZnRk9HUy05eUxydTBhYnlZOWvSAY4CQVVfeXFMUEUzazk5NnFoMnRKUTBRb0d5YjZnNUxoZk1RajRXNncwcFVrUmFwUGZENVRBajZZRVVoS0czYzNib1NZZkFPMGFZXzRETWd2eko5VFFhVE5KcjFkRG5vRWVPTkVpSHVwOVFOV0Y4bUFjRXY3SFpJT2VtbkNTOTRZdnJFTHExQTIyeDc2amJUYnUwZE5YWDJfc0hNTjdKbVY2amhsRl9qcDJJVks3RmVGLTgwakJZUy1ZVXhqZ3BSTVc1NTNFUXAxMHFSWFNoMzFoVlJBMjhPUHJJTm01TlRaMmlQQkgzVkJzTDhJNE50dE50QThmM3FaQzFYZGdtLUd6d0dNSDRrSm50eWJHTVln?oc=5",
+        "source": "美国之音",
+        "published": "2026-11-19T18:09:14+00:00",
+        "source_count": 1,
+        "sources": [
+          "美国之音"
+        ],
+        "score": 7.59,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "国际能源署：中东冲突很可能对能源市场构成持久影响",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734995.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-19T23:39:17+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 6.04,
+        "topic": "国际经济",
+        "editorial_reference": false
+      },
+      {
+        "title": "大国外交最前线丨从中俄美元首会晤 看如何答好关于“大国”的时代课题",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pcVEtTm9JRW11eHViYl9CaDVHWVNVRkc1Qmt0ODdqcTBXakIzeFdsQUJfYkpNOGp0cVRWUzhfTkNESzhySWFCTFhJMS1MWmpvQ21EeUN4NTN6Ti1YSTVOZFZpX3FaSjFyNWdkSHNyajNnWUY5aFE?oc=5",
+        "source": "央广网",
+        "published": "2026-11-19T13:08:32+00:00",
+        "source_count": 2,
+        "sources": [
+          "央广网",
+          "央视网"
+        ],
+        "score": 6.615,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "Anthropic上市 创史上最大IPO融资纪录",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-20/10734997.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-19T23:36:17+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 5.611,
+        "topic": "其他要闻",
+        "editorial_reference": true
+      }
+    ],
+    "ent": [
+      {
+        "title": "被迫“演”了无数部短剧，被偷脸的顶流女明星终于开始算总账",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1OajZwWGJDdGVSNXJBQ01lLWYzWWVfQzlwS2tBZzUxNnlDWUplTC1fZk53UzZuWi0zUGVoUGtMYjF5bEVWbWI3cDl1Unk?oc=5",
+        "source": "凤凰网",
+        "published": "2026-11-19T23:50:28+00:00",
+        "source_count": 1,
+        "sources": [
+          "凤凰网"
+        ],
+        "score": 6.243,
+        "topic": "明星动态",
+        "editorial_reference": false
+      },
+      {
+        "title": "金晨回应参加练武综艺，称开局就是练",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE02YTVGRFRxcXBRSEMtTE1IZ0hEM0NNWmVkdG56UGtrMlFESmZoRGhqVld1SFFWYUF0eUZkeWIwVzd0Wnc3T0lzZkQyMEFjaHRXZnRDekN5TzFEMThDYXpuX3ZpV2xXbGJTalJqbk05RzN4dw?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-19T14:32:17+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 6.007,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      },
+      {
+        "title": "电视剧《重器》研讨会在京举行",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CMjVyMGtpTW1aVzF2VXQwb2Q1WEVRY0k3Qk5qTXEtaW1HMG1HZlhBbzVJTGw2UlRhLTVWNHNMSUMwMFhiMlJzcXh3M2EwVmRGbVdCUERfbFVmR2lnLTBremx0QTNFZw?oc=5",
+        "source": "中国青年网",
+        "published": "2026-11-20T00:10:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国青年网"
+        ],
+        "score": 5.218,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      },
+      {
+        "title": "青岛首次跻身演唱会观众百万之城 直接拉动消费约65亿",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5T0NfRTUzMUdqcTZVaTJVTzBRQXVXMnI1b0lzVjk1TzF4SUViQUh4VWljbExHcHlPZlZRZ1Y3NmpqWGRUaHkwRFJHT09rc1lmV1BLTVlsbw?oc=5",
+        "source": "信网",
+        "published": "2026-11-19T23:46:20+00:00",
+        "source_count": 1,
+        "sources": [
+          "信网"
+        ],
+        "score": 5.162,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "演唱会、戏剧、电竞决赛，来成都一次看个够",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNjdpa2xpTTh2bUhneUZIMEhNR25Kb2FYN1p0Ym1OODh3REJnU0VOUnNaS2F2UmZMbTEtbUs2OEgzX0ZLaGRSbndhckZjNF8xdlItWWpTXzE3UHZ6TktaNWluZkdrZmI5OWtZWFJIY3ZSY1JPV3pZajZYbkFYUTQ5NndfR3pqS3FX?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-19T23:29:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 5.058,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "女演员蔡文静劝妈妈体检查出肺癌，医生：体检单上的“肺结节”，绝大多数是良性",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rUWFnbDI5MG1sejdBb3JkSm03a3hqTU1BNnJTMVNFLTZadzJObVNqNDE4aERlTUZNbmNTbF81VWJhWEtMQmVZdnZxenRlNzNvcXA0c1I5Nndrc2NVNE9zbkZZQXNEU2pQME12eW1n?oc=5",
+        "source": "杭州网",
+        "published": "2026-11-20T00:58:12+00:00",
+        "source_count": 1,
+        "sources": [
+          "杭州网"
+        ],
+        "score": 4.6,
+        "topic": "明星动态",
+        "editorial_reference": false
+      },
+      {
+        "title": "[中国电影报道]实惠价格+双重惊喜 《魔法秘境》宣传出奇招",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13LVhYWXdLTVZvMG9LcDE0NklJY09ZYjd2QTJ1VkJRUTA4ZGgwSW1tdU1Db01lblVlLW5hM2tMRjdkMzNLZ0VGcEpzaDlLVXBvWkZldEJNWmFWaGlXa1dJbThSS2tfM19lSm5TajZTVG83OVZwaXc?oc=5",
+        "source": "央视网",
+        "published": "2026-11-19T15:28:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "央视网"
+        ],
+        "score": 4.451,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "电视剧《两京十五日》看片会在宁举办",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EbnJfcS1OX1lvT0xWVjBqbkFjeWkwbkduMVdwbUZWWVZ0cHVzZjFUT2dRQU5wOGFXdjcwcS1vZmt0T0R5VHd6LTVPWGtWUmRWY1o5RnQyNjBITEl4QnBOSUZOS1F5eXBXN2FlZ2VhTUk?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-20T00:46:05+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.217,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      },
+      {
+        "title": "F FOREVER恒星之城·浩瀚同行上海限定场演唱会观演指南来了！",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWDVqYnJYb0xTczBDcFA0OGxOT2JiY2VJSF9EaGdDQTlrMDBlM3VaZlctVTk5VEJWNXJCZFk1TzN6QmR1Y09ZTUNTNmR0RG02S1lNNHI2dUZMakZUTHNubExINW5yN2wySUgwRlFaT1UzWUZzLU9qeGdrZGRKR3plRlZ6ZlhDaEJselE?oc=5",
+        "source": "上海市人民政府",
+        "published": "2026-11-19T09:14:55+00:00",
+        "source_count": 1,
+        "sources": [
+          "上海市人民政府"
+        ],
+        "score": 4.96,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "启明星 | 浩博医药程国锋：攻坚乙肝功能性治愈",
+        "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxPMEh2NGd0QnlJMmNhaEdQM2NfVWI5UlZXM2VDa0Q1QmwxaElfSFpGQTBwcXVYRHhfUDhyeW5vbUc5cWdSQjNFNFZTSnJJZ3dZWThwTHZQRmZFS0RfWW1UMXF1Q0dyenhZRi1IaF9ZZWQtYmNZQTF1dkZLbmFkTW9XZUNBLWNwbHZsSE1uUUctRndrSVJZS0J2UE1Uak85bWZaNTZGTU9uWlZXaFMyc0Z0bEM4dnNZXzlpdGcyenNXYWducG1lSFlSeXJ5T1NsM012VmxPYUdOdjdiQ0VzRERSN1BxX1Bhay04Y0VQcEF3ejdKU05wbF94TWRPQ19JQkVObHFhSHlVcGdIZjRXckdKS0dDdlhSU0Z0TWJrWXkxaVF0NjA2NllPVVZUUnAtMHBGMmZyb2tfeWRXQQ?oc=5",
+        "source": "启明创投",
+        "published": "2026-11-19T22:54:20+00:00",
+        "source_count": 1,
+        "sources": [
+          "启明创投"
+        ],
+        "score": 4.599,
+        "topic": "明星动态",
+        "editorial_reference": false
+      }
+    ]
+  }
+}
