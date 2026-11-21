@@ -1,0 +1,457 @@
+{
+  "version": 3,
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T02:17:55.349885+00:00",
+  "generated_at_beijing": "2026-11-21 10:17",
+  "window_start": "2026-11-20 09:00",
+  "window_end": "2026-11-21 09:00",
+  "method": "精选日报重要性参考 + 新闻媒体独立报道 + 政策民生和重大事件优先 + 同题去重与领域均衡",
+  "warning": "个人新闻索引；相关媒体多并不代表事实已独立核实。精选日报只作排名参考，不会直接复制其全部新闻。",
+  "reference": {
+    "available": true,
+    "source": "每天60秒读懂世界",
+    "date": "2026-11-21",
+    "url": "https://mp.weixin.qq.com/s/YSc0NxASTXwoQE3O8yjOTA",
+    "matching_articles": 6
+  },
+  "stats": {
+    "cn": {
+      "candidate_count": 353,
+      "feeds_available": 10,
+      "feed_count": 10,
+      "publishers_seen": 128,
+      "events_found": 306,
+      "selected_count": 10
+    },
+    "world": {
+      "candidate_count": 286,
+      "feeds_available": 10,
+      "feed_count": 10,
+      "publishers_seen": 86,
+      "events_found": 192,
+      "selected_count": 10
+    },
+    "ent": {
+      "candidate_count": 95,
+      "feeds_available": 7,
+      "feed_count": 7,
+      "publishers_seen": 28,
+      "events_found": 66,
+      "selected_count": 10
+    }
+  },
+  "source_errors": [],
+  "sections": {
+    "cn": [
+      {
+        "title": "外交部：日方应在台湾问题上尽快纠正错误言行",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb0tWRDhJOUoyRHU4X2JmenZYZjVWV1RZVlV2cWFRVVNjeXZqQWR6ckhUUGFyQTI0czBiU0czZk9vSnJja2s1SWtXdnktVHNRa0YxNHI1ZVoxME1uQnFZNnNlaVY4TDh2V2tQZFNVQzFwVHZfS1hPdkk5WlVGdGFfa0paVTBOeUh4QVkteDE0YnVZRG5ES3BfbzZ3?oc=5",
+        "source": "新华网客户端",
+        "published": "2026-11-20T07:49:29+00:00",
+        "source_count": 4,
+        "sources": [
+          "中国科技网",
+          "新华网",
+          "新华网客户端",
+          "新浪新闻_手机新浪网"
+        ],
+        "score": 10.636,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "央行定于11月27日发行2027中国丁未（羊）年贵金属纪念币一套",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735364.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-20T09:50:14+00:00",
+        "source_count": 2,
+        "sources": [
+          "中国新闻网",
+          "新华网"
+        ],
+        "score": 9.302,
+        "topic": "政策政务",
+        "editorial_reference": true
+      },
+      {
+        "title": "中国摄影著作权协会撤销447个首席代表处",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9sOElZNUhTWHFZS0FHZndIZDR4cUx2T0NoVUlUVTBnN3Jqczl4eEdmUVE1ZzdIdDJob1ZMbTBoWWE2T3cyNVVXbm4wRXhMVUdRbmF6dDhpUHo1c0R0MXc?oc=5",
+        "source": "京报网",
+        "published": "2026-11-20T23:43:36+00:00",
+        "source_count": 2,
+        "sources": [
+          "上观新闻",
+          "京报网"
+        ],
+        "score": 8.671,
+        "topic": "其他要闻",
+        "editorial_reference": true
+      },
+      {
+        "title": "财政部：今年1—10月全国一般公共预算收入195671亿元",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735377.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-20T09:54:22+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 7.64,
+        "topic": "经济民生",
+        "editorial_reference": true
+      },
+      {
+        "title": "财政部：前10月税收收入162622亿元增6% 非税收入降0.2%",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5tQ2xsZUQtT0UxU3Q4TTRvNmVld1dzRk1jbVdpcS1BTHBXZzR3Z0dTQXMwLWdlbVhINmUtM0J5SHdSMExVT3ZkRTllN29sckxsYUVfVVdsdEpiT1BMQlFfOQ?oc=5",
+        "source": "观点网",
+        "published": "2026-11-20T10:07:41+00:00",
+        "source_count": 1,
+        "sources": [
+          "观点网"
+        ],
+        "score": 7.275,
+        "topic": "经济民生",
+        "editorial_reference": true
+      },
+      {
+        "title": "外交部：对第三届兰花奖获奖国际友人表示祝贺",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSm1sbjVkenlIOEI3VzBNTzd6U21POUpQN0dpZm5xVHhvaEhjWlNFTTd6OVJ3OGNXR3lSSEUwRmFzanM0N2NTZzg0SV9VNVBhN3VTSTF1VVVub3NVXzgwd1pXcXFaNHFsZHNLcFhDWXc2SjVwdThDNlNvUUxzd1RnLTNKYmFORU1pZ2d2V2xtLW1yc3VlbzhtSktR?oc=5",
+        "source": "新华网客户端",
+        "published": "2026-11-20T14:11:36+00:00",
+        "source_count": 2,
+        "sources": [
+          "新华网",
+          "新华网客户端"
+        ],
+        "score": 7.462,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "U17世界杯 中国队首战不敌西班牙队",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9HVHZnNXhNWUVFT1hCdl9aTWNGcTF0R1loaXZGQ29XOHNyYkJib2t3OTRBMEZ1UmVCMXpiX1Fpcl9TMmRLTEZaRnk2cjJmQXJhVlE4WTJiVVFFVVZVTGJjOVRCRFYtYi0wb1dueGN1dw?oc=5",
+        "source": "央广网",
+        "published": "2026-11-20T23:37:05+00:00",
+        "source_count": 3,
+        "sources": [
+          "中国新闻网",
+          "央广网",
+          "观察者网"
+        ],
+        "score": 6.71,
+        "topic": "其他要闻",
+        "editorial_reference": false
+      },
+      {
+        "title": "今年1-10月中国财政收入同比增长4.9%",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-20/10735509.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-20T12:34:31+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 7.177,
+        "topic": "经济民生",
+        "editorial_reference": true
+      },
+      {
+        "title": "中国信通院人工智能研究所声明：未授权机构开展AI数据质量评估",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DekdXa3Zzb09tRGZ2UHFyTUd0M1FFVlNONXFVZFMyRlpOdnVvX19IMDdvbnhVYUV0VmdGU3p1QzZXNUJPT1VaZzV1V1RZUQ?oc=5",
+        "source": "观点网",
+        "published": "2026-11-20T08:48:40+00:00",
+        "source_count": 2,
+        "sources": [
+          "海外媒体",
+          "观点网"
+        ],
+        "score": 5.944,
+        "topic": "科技产业",
+        "editorial_reference": false
+      },
+      {
+        "title": "视频丨《深圳展望》引发国际社会热议 外交部介绍有关情况",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Ma2dJVjBBR1lQdzBkc1FVUC12ei1NZkMzV2R2WVdEa3ZmZFlQSXB5MXNUS2EwanVHQ2hMOGdaSzhYNWRYR0p2VDRPMy0xQmdzblh2bkVPOW1TQU5kSHc0aXFn?oc=5",
+        "source": "光明网",
+        "published": "2026-11-20T13:32:58+00:00",
+        "source_count": 2,
+        "sources": [
+          "中国日报",
+          "光明网"
+        ],
+        "score": 7.383,
+        "topic": "政策政务",
+        "editorial_reference": false
+      }
+    ],
+    "world": [
+      {
+        "title": "安理会举行联合国秘书长遴选第九轮意向性投票",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735607.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-20T22:07:58+00:00",
+        "source_count": 3,
+        "sources": [
+          "中国新闻网",
+          "海外媒体",
+          "腾讯新闻"
+        ],
+        "score": 10.967,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "泗阳绿美实践亮相联合国气候变化大会",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ia2c3dlplbzlfUGl3NGZHdmFlZ0M1U0M4M1Z0ZU94aURoNWczRXptM3pQTDdsSlBnaHZCdWpCTTkzVWN1WEZnNENlanBrTTltVGlGU2ZFb1NvVERXMUo1aGJxcy1WaTdPWnhxUnJjODRDV2k5?oc=5",
+        "source": "新华网江苏频道",
+        "published": "2026-11-20T12:20:19+00:00",
+        "source_count": 2,
+        "sources": [
+          "中国日报网",
+          "新华网江苏频道"
+        ],
+        "score": 7.855,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "伊朗：仍希望通过外交途径 结束同美国战争",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSlVGQ3VPVkR1RUoyaHNmazZNOU5Zd21ENk5CZzZkU0JCalNZajBFSWpibGdhaC16WWdqQ0c4U0dQVkZ5Y3EyMDllc1Z1UW43YnNMZjVXc2VweUZ4ZGRxTnBmbnNNR2dXeWVVcmRtUU1JZzhBVmlaMDIzc2pKQjF3bE9JT3VXS3hTSUZ2ZmFzaEotS3NEYlYzR3IzVEZ5OGNjSlduSFFKUWp4MU5PVnp6VQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-20T23:30:36+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 7.718,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "伊朗外长：对外交途径结束战争抱希望",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0wTDZkaVVfbDBINEZKS2tjaW9JYW83bm1qaTc2dlE5ZzFqYVZrdVVqbTNUOGZLZC1ZVXVhc2xwYmhZWTBINVgwaw?oc=5",
+        "source": "凤凰网",
+        "published": "2026-11-21T00:04:37+00:00",
+        "source_count": 1,
+        "sources": [
+          "凤凰网"
+        ],
+        "score": 7.617,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "欧洲各地爆发了抗议活动 ，高喊： “为我们的未来而战，而不是为他们的战争而战”",
+        "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxQa2dXUVh1azd6dk5CUFdoaGZaSFk3TDhoeVdOd0xQZjJVTlozYWdCMnM5X29RYkFjTzhJM2lMaWFScVk3OHpUb1hMdDNkNGRUXzNkMnRPbFk0Vzg1TE5jOWVzdXNUUDFlUHBWWHB6dFlMaG1sV1Vpc0FqOE9FNHN0ZVFaVzZHX1ByX1lXTDZoamIwOHZGNVJIYzdoV1d3b3Zfc2xNMGZxMWJkQUpBRGVTMlZUamlJQi11M0NzeDg0YUZxTUhHd0ZkWDY4RVZpX05XLTVLZ3E4SnM3NkltRkNDdldsOHVGVlhQeWdVSWp0LVhhbTVNZ1ZUVUwwaXZ1bEpzaGpTUWI2UjNidzRiVzl1cWVLRlQ2YnpFQ01mYVZ4UXZra3kyenQwM29DTlB2RmRLMS1KTlhsZ0NZV094bWVJUXZMcF9jVDhQWFh3Zk9JdlgxWi1qaEEyNWd0cWhhYUtkOElQbjAtNjA4UHR0QjRPOExhSERJTUc3OE04WkNJb2N3eGlLenpyRXpRYVljRm44X0duUTZJQk1SMWxkcWJkMWVhZmtyS2Q3cWtfT0FHU2xyVFo5Z2lNbkxnTlBvdDlKOTk2NG5qT28wcTNDT1REM1ZYRzY0SmZFOWJtM1RRMXpIbWIyVU5GbXB3SGNHbnpvY1BFLXhmaWswUQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-20T21:18:25+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 7.586,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "美联储加息预期“激流”未退 黄金短期被“错杀”",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1teW85Ni1BSnBVeW44VENuWGt3TTlZWU5CZk9nNTZxZWhUUHBDUUdJNTFLWGMtYnBmbjhRcWx2bGkzcjRLa2pzekF2N3lpcFYzRHkxZjA4WEdFelVY?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-20T17:45:14+00:00",
+        "source_count": 2,
+        "sources": [
+          "海外媒体",
+          "证券之星"
+        ],
+        "score": 6.486,
+        "topic": "国际经济",
+        "editorial_reference": false
+      },
+      {
+        "title": "美国缺席COP31气候大会 因文托尔称权力真空由中欧填补",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YMUEwT3RwbUZKZXhiWnZSekJXTndvbE5FZzU1QTdwTXhKUFJUVUIzSU8wMkxGZTZLakoxRDZyMUJLcXEweFcyaFg1VkQ1T2lRZkE?oc=5",
+        "source": "凤凰网",
+        "published": "2026-11-20T12:22:11+00:00",
+        "source_count": 1,
+        "sources": [
+          "凤凰网"
+        ],
+        "score": 6.106,
+        "topic": "全球社会",
+        "editorial_reference": false
+      },
+      {
+        "title": "特朗普：目前谈判的一大困难，是普京与泽连斯基之间存在“深刻仇恨”",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10aHZxZ2F2LXRMR29IZXZGSDlMVEN6Z1pNTGZTMG5jM1B4dkFXOHltZUo3ZmJiQzlDV25SQVdFS0ZOQlo5ZDJBZU9sWnA?oc=5",
+        "source": "凤凰网",
+        "published": "2026-11-21T00:20:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "凤凰网"
+        ],
+        "score": 6.0,
+        "topic": "其他要闻",
+        "editorial_reference": false
+      },
+      {
+        "title": "德国汉莎航空拟裁1000个职位 伊朗战争推高燃油价格加重经营压力",
+        "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxNMXBHMm8xY1k4WG5aaU9BTUxjSHB5WFhwb1JLcG94czkzeExWSkRNSDk3b2RnM0FUVEh6M19lQ085bXlqVU1pSkNBejhhTEduSjNjcGp1dzBqc1ZPcUo0TW1xVjZDN2RDNnNZS2kwaHVkOTRiSjRGSFdwczRVVUQtSi1MT1J1YUFqb3JmYnkwSHdpdHpNYXRsY2lUM1RwZnYwVE0xU01sWmgwZ3hBOTItb00xdGZwNlFiOEdnanB6OXlEb2xLOExmbjhoVWRPVzV4dExNdnVaeWp4b2U4ZWh1UExxNnA2R1Bsb1ItMmhCY0tibGZtQUh0cW9JaVVRVTRpRXVkeFdGY2t5YWVKd1VWcWVsbmg3dnBlNFlTSE9NQXdxY3k0T2lZUEFjcW1xM1BXVE9uUU5ubElHRllNVlVnSGU5eWkzV0hPaW9icUJOSXV4amVacTVUblI1NmkxdEJyd3NXX1g1TExxbEhfRFhvcmt3aW83akZ0YmxpbWx0T2htNEs2VllUWlVramVRUjdtWk1uRzhCWGQxbUc0bEpHSzFsOXJTVGRFMXB6SGlrdTkxWFQ1bHJmX21VZmVaYmZDeWdLeA?oc=5",
+        "source": "香港01",
+        "published": "2026-11-20T16:08:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "香港01"
+        ],
+        "score": 7.371,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "金价跌破3700美元/盎司 美联储鹰派政策加剧跌势",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YNWJpUkd3WUFvTnFHSlpBSDczNlRaeUhENkVwRXBFZl9ibGFuMmZmZlJXTnVnV3BBbkg3Nm1ybG9pd2lzSHZtMEdScVlVMkszVHN1RXVUYkhvYlBNa0hyY1pwZEVpUVd6VlNERkdLcVA?oc=5",
+        "source": "中华网",
+        "published": "2026-11-20T03:32:55+00:00",
+        "source_count": 1,
+        "sources": [
+          "中华网"
+        ],
+        "score": 5.781,
+        "topic": "国际经济",
+        "editorial_reference": true
+      }
+    ],
+    "ent": [
+      {
+        "title": "演唱会音乐总监和工作节奏讨论中",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5WWZ4RGI0UktLVVNFblNHQS0zV0RfV3BPWjdMZEFPeFNDVlRlZWJWcHlQVFVfaHZEVUVkdDNlQjVHRkxiWHl0anFkeXZGYlBPVXRpdlRIWWZVWkF2NlZpZENORUpzdm5oOEItdUN3ZFFhTjg?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-20T23:21:24+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 6.126,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "电影《饥饿游戏：收获日出》票房破1000万元",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBycEVuQXRHTzZXVVFmUHVjX1lfeFAxSW51TUdaZFhXMThNM19ranpvTG1OeE1nYWdGNnFXUFJDaEJJRXhBWHlzOXZfMlFjMmxBSlJPb191cU8?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-20T15:48:06+00:00",
+        "source_count": 2,
+        "sources": [
+          "东方财富网",
+          "海外媒体"
+        ],
+        "score": 6.106,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "张杰南京演唱会首唱渡口，任纪录片走过万水千山音乐总监",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1HU3E2ZXN5bjJ5aWpraUZZazBYQUJGSVFtMXdsVTZZWE5sbHZUM1hUVGtxTF9CTlFqcHhqYXY2RjV1UXA0WVE2cEZkSXh3eVNlOHVfTmlYaXUwRTkxazdpSjNpZzZXQmRQRHVOOUFxM0MwZw?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-20T23:45:25+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 6.072,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "再次被指侵犯原创音乐版权 综艺《后会友期》回复当事乐队：希望获得授权",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZUx4dTlMSHA4bjJpaVA2SFk5VDBJcHhQbldWS0VLTUQ2NC1RMF9qQmhmUXBPRFM3UXJmX19WVzI2ZGlmbXpzWUdXcVZicmU2QUdreE55Tk5nNUZPLUZ1NVdYR1lPdEJzYkVjbGg3S3JiSzJ5X1dScDRybV9YZXJFU1RCWQ?oc=5",
+        "source": "新浪财经_金融信息服务商",
+        "published": "2026-11-20T16:00:57+00:00",
+        "source_count": 1,
+        "sources": [
+          "新浪财经_金融信息服务商"
+        ],
+        "score": 6.069,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      },
+      {
+        "title": "金鸡奖最佳女主角高叶：演员是一辈子的职业，奖项是馈赠不是终点",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sOU9uUU12MGxqdjJmTlBEQldGVExCbnpBb05KNE1uVjBwMm1IUHBTdEZPU2hxcmdLdDRRZFVhLXhNdHVWUWZoYThkQVdhRUxwQ2JCRzgtcFVJY2IyTHRldQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-20T13:05:57+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 6.016,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "上海视觉艺术学院获奖，综艺节目2026《名扬四海》音乐院校展演收官",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsV3I5YU9JXzhjUFlpcjF2TE5MNmZwcHJmOWdXb1J4QTVhZWRqYnU4U2ZzZmRJWWJmaG9qZXdYSHdNNWIxXzFjclVFX1BrQ1FFbDdOU0ZQWVZpdw?oc=5",
+        "source": "上观新闻",
+        "published": "2026-11-20T09:33:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "上观新闻"
+        ],
+        "score": 5.965,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      },
+      {
+        "title": "郭富城演唱会，男粉丝全程跟跳",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YLXM4a2tWZ2JRaTlCRVdXcm0tNkpBa21wekE5QVAxM0N2Y0ZwUGhBZ1FScUZHTTFfeVNHOGM4MDNtRE1PUTk3QlFnYnZWUQ?oc=5",
+        "source": "虎扑体育网",
+        "published": "2026-11-20T18:32:02+00:00",
+        "source_count": 1,
+        "sources": [
+          "虎扑体育网"
+        ],
+        "score": 5.806,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "演员走下舞台，学生“入局”查案",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNek4yc1I2am1od0JnZ1ZNUlphNC1yVDRtcU1kMFpzbXR2VE4yZEtDa1B2VmxEUzZiUE5pQWduQjE1SUYwaXowTkgxdWxjOFlzajEwMEgtV3NRMV9fZDFWWVVMejRNUmVYb0NCSWRReXE4RHVBclhTVUhJNWRoX21DQXdpTQ?oc=5",
+        "source": "新浪财经_金融信息服务商",
+        "published": "2026-11-21T00:32:33+00:00",
+        "source_count": 1,
+        "sources": [
+          "新浪财经_金融信息服务商"
+        ],
+        "score": 4.613,
+        "topic": "明星动态",
+        "editorial_reference": false
+      },
+      {
+        "title": "女演员五年前带母亲体检，一查就是癌！体检这个项目要重视",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcUlrQktwSlFMaGdpS0ZBV0xzbzA4Z094SjZkamtHRlVTYVJvX3FFaU52QldSNncwRGc4bml4aC1TSnVQYzBxWThQV1hQQjhDYmZrMXI3TEJ4TzNQYmNVb1Q1VlBIc3pYbE9QbUZ1d0Rvbm5wNzFmdXd5M0NNbThWVU9HQkV2a0dDNlpveg?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-20T23:32:43+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 4.559,
+        "topic": "明星动态",
+        "editorial_reference": false
+      },
+      {
+        "title": "经典武侠，天下第一！电视剧影视解说好剧推荐，尽享武侠天下第一的巅峰魅力。#微博视频号续航计划# ​",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBrcnpQX0JhdWxoMzNqSlRQbmxteHh3SWQtMXMybUZVRGVLdmdad0pGX2tKbVRGOEpkY2ZRTGtHeEZsQTY2MXIzWWg2eG5FZDIxdzZVYVo4OUtaRTNrcHNaaUZPS04zYm1INnQ3S2llZ05DcUk?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-21T00:37:40+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.165,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      }
+    ]
+  }
+}
