@@ -1,0 +1,454 @@
+{
+  "version": 3,
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T02:18:36.129243+00:00",
+  "generated_at_beijing": "2026-11-22 10:18",
+  "window_start": "2026-11-21 09:00",
+  "window_end": "2026-11-22 09:00",
+  "method": "精选日报重要性参考 + 新闻媒体独立报道 + 政策民生和重大事件优先 + 同题去重与领域均衡",
+  "warning": "个人新闻索引；相关媒体多并不代表事实已独立核实。精选日报只作排名参考，不会直接复制其全部新闻。",
+  "reference": {
+    "available": true,
+    "source": "每天60秒读懂世界",
+    "date": "2026-11-22",
+    "url": "https://mp.weixin.qq.com/s/_FwfjHq1NutprqEHk4AGrw?search_click_id=17777626270230203444-1795303918755-6837004357&subscene=90&scene=94&clicktime=1795303918&enterid=1795303918",
+    "matching_articles": 3
+  },
+  "stats": {
+    "cn": {
+      "candidate_count": 285,
+      "feeds_available": 10,
+      "feed_count": 10,
+      "publishers_seen": 65,
+      "events_found": 236,
+      "selected_count": 10
+    },
+    "world": {
+      "candidate_count": 249,
+      "feeds_available": 10,
+      "feed_count": 10,
+      "publishers_seen": 75,
+      "events_found": 168,
+      "selected_count": 10
+    },
+    "ent": {
+      "candidate_count": 133,
+      "feeds_available": 7,
+      "feed_count": 7,
+      "publishers_seen": 21,
+      "events_found": 91,
+      "selected_count": 10
+    }
+  },
+  "source_errors": [],
+  "sections": {
+    "cn": [
+      {
+        "title": "巴林外交部：拒绝伊朗革命卫队为其行为所找的借口，事实证明，其攻击目标是纯粹的民用工业设施。",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01X1FTQnlYQTBVVjVEWmF5Z0NaeTBxblBkT1NRVTZXS0l2ZndOc240VmI2bWFLMzdOelhhcFVVM1dJTjdtelZDT3lCaw?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-21T23:05:46+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 8.022,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "医保新规来了！明年1月1日起实施新法，退休老人要关注这几件事",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWmxreDlsSXFIY3ZKaHc0Tlh1Qi1zb1RwT29UcWEwWVUtcEtST3hfWGZzMlZHd0tvdHdTVFZ3LVNnaElSTzZUblh3SWh6ZG5qQU91a2VoNVBrLUk5bEV6a05FN2p0ZGc5eW9UcTBCN1Z1VDVibklUUU1oUlJUcjdKVW9PTFIyLVJockJtRA?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-21T15:29:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 7.911,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "中央气象台：冷空气将影响我国中东部地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-22/10735941.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-22T00:55:46+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 7.425,
+        "topic": "其他要闻",
+        "editorial_reference": true
+      },
+      {
+        "title": "青海德令哈发生5.6级地震：当地震感强烈 初步排查无人员伤亡",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-21/10735845.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-21T11:36:50+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 7.223,
+        "topic": "社会热点",
+        "editorial_reference": true
+      },
+      {
+        "title": "神舟二十四号任务完成最后一次全区合练，发射场做好发射前各项准备",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735773.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-21T08:35:13+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 7.161,
+        "topic": "其他要闻",
+        "editorial_reference": true
+      },
+      {
+        "title": "李强同新加坡总理黄循财会谈",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735896.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-21T13:10:24+00:00",
+        "source_count": 3,
+        "sources": [
+          "中华人民共和国外交部",
+          "中国共产党新闻网",
+          "中国新闻网"
+        ],
+        "score": 7.109,
+        "topic": "其他要闻",
+        "editorial_reference": false
+      },
+      {
+        "title": "“医药保学面对面”首站走进中山大学 共促医保创新药落地惠民",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBVTzBtUTdPVHlqWkxMVUQ2UXRGU1VMLUhPUElIWTFwbGw5VkYycDRWSlI4MldraWxCc3lma1F0RWM5UjUxcldOX3RIa1RrMWRlNDgwSFpueW5WOHBNM3NV?oc=5",
+        "source": "中山大学SUN YAT-SEN UNIVERSITY",
+        "published": "2026-11-21T15:08:50+00:00",
+        "source_count": 1,
+        "sources": [
+          "中山大学SUN YAT-SEN UNIVERSITY"
+        ],
+        "score": 5.746,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "山西药店医保个账\"白名单\"：智能手表、保健品、米面不能刷",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGWHF5WVFCcFhqQ08xZ1lieVItY1VnZlJ2QmVBUnNRZDBZRExvVVUtc1lrZ0pORlloRHp0dFZ3WnFYMzMxYmJ6eHA0Z3UtMU9pZndUZDNTWi1KdGVSbmRNSw?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-21T12:42:46+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 5.691,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "【双语】外交部例行记者会 / MFA Regular Press Conference (2026年11月20日)",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBEYVNVWTV5TXB3dVdoLXBMTHlkVzl1SE1rY2xOclR2WW9WWW14cGxqYWNRcndiQnVETF9zaFJrRzNCZ1c1bi1FX2hRczlxaWhaZW0yNGFoOWxUMElKanhPYmUwX1hxbWNoQXUwRjlSeVZwNFRuWmZyUw?oc=5",
+        "source": "新浪财经",
+        "published": "2026-11-21T20:16:57+00:00",
+        "source_count": 1,
+        "sources": [
+          "新浪财经"
+        ],
+        "score": 5.871,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "习近平新时代中国特色社会主义思想海外研究国际论坛（2026）在北京举行 李书磊出席开幕式并发表主旨演讲",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735898.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-21T13:11:12+00:00",
+        "source_count": 3,
+        "sources": [
+          "中国新闻网",
+          "人民网",
+          "新湖南"
+        ],
+        "score": 7.09,
+        "topic": "其他要闻",
+        "editorial_reference": false
+      }
+    ],
+    "world": [
+      {
+        "title": "联合国呼吁也门冲突各方重返谈判",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhdmVodVJkVTUwSVBZVm1RV05hWk9RMHZvV0tCckpyTDQ4MTRjZ053eHhDU3F6NVB3RGJHcUZwdURtV1h2aC1hd2wxcllkZXF4SGRnWkItUGhDT2hUYXc?oc=5",
+        "source": "京报网",
+        "published": "2026-11-21T04:15:33+00:00",
+        "source_count": 2,
+        "sources": [
+          "京报网",
+          "央视网"
+        ],
+        "score": 8.678,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "消息指特朗普要在明年1月达成俄乌协议结束战争",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tQUVEMXliNzZLY2ZBTlVFcEVyRjZLLVc3VEc2dnZFOXRCenRqSGRJTWZEZHE0Z2RnZi1STXFaQzJ3SGFNNTYxQmQ3dEIxUEVlcDdCTktPMWx3Y3YyZlowS1BUck1FX1ZqMndB?oc=5",
+        "source": "联合早报",
+        "published": "2026-11-21T09:54:53+00:00",
+        "source_count": 2,
+        "sources": [
+          "海外媒体",
+          "联合早报"
+        ],
+        "score": 7.578,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "联合国关于致命性自主武器系统谈判达成“最低限度共识”，同意两年内对此进行规范",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTUJBcTI1TTB4clEyaFR6Y0Z1cjdJME9SYTBEX0V0OUtwX3RQb0daeERQNkczbC00cHEtMkQzRmlOSnNKZ2VreDAtaWVuUnNZOHJ5bjVPM2pvMnFYVkQ0b1NzTGgzZjJIbE1tSzdwS3k1LVFkM3NQWnpMOV9tcm84WGYzUUtFdHZqU3IyeDgteDRHQVIydUs2UGxnajNZbG82UlJuR0FwakY2M2toUXhiWUFWa2hNSi1vZ0wzVldn0gHAAUFVX3lxTFBIbHhyaXBlRG50b2NIWDFkQmFmaWRaaHFXT2gwa2dvMTNvT0drS3JMdnJ0V3dDMldSa2hrTzcySW5HQlJmUmhVYUtSOGVmUTlFTW9GVkQ2OTFZWmdFbjRSbFBKWHVfaThMWWNvWFFqSWhDNmV1bzFZSVRUYnJvbnFrM1Y5bHBXY1RQLUItNzNXZnlRUWtBTkF4eFQ1YjJNaTR1RFN4WW9fZllLUHJHZnlGWElyN2dvRV82dFZrVzBzZA?oc=5",
+        "source": "美国之音",
+        "published": "2026-11-21T16:40:28+00:00",
+        "source_count": 1,
+        "sources": [
+          "美国之音"
+        ],
+        "score": 7.499,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "川普称不关注伊朗政权更迭｜伊朗战争值得打吗？万斯当川普面拒绝回应｜应对潜在调查川普限制国会向政府承包商索要信息｜激烈交火墨西哥军方抓获大毒枭｜感恩节大餐开销4年来首涨《中文正点》26.11.21",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE01ZVJKNFdMc053RlNra0kyWWU5TGlfSWQ0NkJEakNqNG51VHM1QUVEZ1I4aW9ZSWdmRlB2SmVGa0JqWDUtbG1CLWpMTHlrb3dfcVhVNmpZdHBRTER3V05uR1JUTFJSVEp0NjNQMHJkZ3RMY1lMX3o3X3NCQQ?oc=5",
+        "source": "美国中文网",
+        "published": "2026-11-21T22:40:17+00:00",
+        "source_count": 1,
+        "sources": [
+          "美国中文网"
+        ],
+        "score": 7.466,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "法国报纸摘要 - 《解放报》：中国在国际气候谈判中为何如此低调？",
+        "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxPOVFsNXRuUHRjeG1LdlJaU2RPUVNad1FDVno1T1RsMW5obzlCaFZJcTFVRmFJUmR6RnlVVU9sc29ZQTFhb2RxUzlfTlI3WFJXc0hWLXFQel84MjhHYVRESkZqWkF6WGNQQnJuUXZmbWVtUEVIclFTa2lhRmRBWlVLRG9OTFZpZ0tkWWlVRDdFNEw4aVpNa09neDdMM05fVHFVbXNhampQUUlTcnZkVjhaNVE5ZThBaldvMVRTMTFKQ0M1WXJKYW5MNTBhZ0hNYzR1R05jU21KTklhSXZNcWxCTkFVX3RhRzI4QkNTTHVYOC12YmhJbG41emI1OG5Yd0s4RjVDdE1OQm5rVzdxd1U1Tk1VdFBsR1pKRERhbzJyWkE5WnNaTzZnMjRmSHYtbE5kdnhJVjlkcG9QZTFONlhtVDY5QWw4LXNxTFRyRWNKb29tcTFUaEJkeXhGNU1jNEpWZ2lJTmU2UmFiSXNhYVZCMGRuanMtNTdvLXk5c3Q5MG11R2JGLXo1dVZZOGx0YUNwMGJkOVRzUDN5TGJpZmRXYTNoX0NGZw?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-21T15:15:49+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 7.288,
+        "topic": "全球社会",
+        "editorial_reference": false
+      },
+      {
+        "title": "新赛道、新机遇 中国超大市场为全球经济增长提供“强支撑”",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9JR29uN2xtQkNKc216NDBiTkhTeThYaWlQSldBQjNYdXlrWVo5RVdYTXhRTk4xNHVtcmVQc3k4YVExSkRQWm9lenNQd1ZzYnRLUUVrTkEzTkU3eWhlaThSa2dvWFBEYTNHcjdLSU5Tb2JjVDVQRUxXU2dPc0R1dw?oc=5",
+        "source": "上海热线",
+        "published": "2026-11-21T22:30:00+00:00",
+        "source_count": 2,
+        "sources": [
+          "上海热线",
+          "凤凰网"
+        ],
+        "score": 6.814,
+        "topic": "国际经济",
+        "editorial_reference": false
+      },
+      {
+        "title": "国际｜特朗普：普京告诉我，当年是我担任总统俄乌冲突不会爆发",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54NmxZRTFXRURNZ2g4TFNzSWdiUFNCc09SaFNwYWotME42YjJ0NUloRzJJcm5sUmR5eHdlNnE4NnBsd0RhQnZZM1lpNlRCX1EyVGlJbkpwQ2tEeC1MenktcEwxOG0?oc=5",
+        "source": "新京报",
+        "published": "2026-11-21T04:43:00+00:00",
+        "source_count": 2,
+        "sources": [
+          "新京报",
+          "海外媒体"
+        ],
+        "score": 7.414,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "美国总统特朗普公开支持黄仁勋：期待回归英伟达 他让美国AI领先全球10年",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFB0Um9yT0lRLVFaN19vTTlacEF2ZmdlWjU1NUJGUUtjeWczd1VkcVdMNTBKM0RGbUhJV2hxWkdJTG1MdUU?oc=5",
+        "source": "集微网",
+        "published": "2026-11-21T23:20:13+00:00",
+        "source_count": 2,
+        "sources": [
+          "集微网",
+          "驱动之家"
+        ],
+        "score": 7.306,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "特朗普再批美联储：当前利率太高",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZVpWSjJPSEZHcWItb2NqWWdsZm9IQ3YtdWNNU0tWc0E1eWRGS2lkd2JjSXhocXRhTkQtM0ZNb19FU1pzVzloNXZfZTN2Z2Y3T1ZwMUdGVElXd1ZJaks0LVhnR0NTMUQ4bXVFVWVBN09OMEYyeGJ1eFVHVUpEaENORVRkZV90RjU2OVA5cQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-21T12:17:17+00:00",
+        "source_count": 2,
+        "sources": [
+          "大河财立方",
+          "海外媒体"
+        ],
+        "score": 6.465,
+        "topic": "国际经济",
+        "editorial_reference": false
+      },
+      {
+        "title": "“年轻人要未来，有钱人要战争？”德国Z世代掀起抗议潮| 零新聞",
+        "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOUEhWQzJGT0RvSmRBeS1Nb2FwcHE4ejB0dXhRX3luU05EUERTcjR2bzhlWW5GeEhPTFk4OHRqNkk5WTZBSzlBN2lVamxQRDJ5Z0dfODFXcmNmazNaYThQRDVBU1RNc29pQzF6Qy12c2NvZ18yQnV1M2xHMWZDdGc2M3ZJWDV5aGpIN2c4M0tSempiZWd0ZXpiNGdBZm9feExMS3o5UlY3YWtQYmY0a2EtaDlXT0QwYVZxUUVZWVZSTF9NMHFoYzdjVmVkTzJYTGhsUmE3MnNfQWZ1a2c3QnFKaHdYenp2Ml9ZS1hVYm9WMHhhOHBTZUtkbWE5azVvdlZKTGVxaG5nUUhNcGNBSGtIX3VkU1lDUU5uVVEwSW5EMVdxRmNBV3ZUM1Q0X2duZ2VycGh5WW1wZ1RQaGVpeG0wcGVMNE1UeDBFUVJqMHR4cUh3WkRfV3dKLXpUbFRkS2tEOXc?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-21T15:12:55+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 7.357,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      }
+    ],
+    "ent": [
+      {
+        "title": "2026中国电影节在菲律宾举办",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvM25UcGo3TklEQ0dlV2dEREZ4U19SbWxDNlg1UmNaVmFjWUNFblhXdjZNLWhoZ3dESTFVQmJQZ2g1UFgyenVRaWNKdmtUX0l3ZF96VUY5VzF3S3h5Q2JxT3Q2d3R4NW9DR0FhYXI1aFZZcm5DVEtCZA?oc=5",
+        "source": "央视网",
+        "published": "2026-11-21T07:32:20+00:00",
+        "source_count": 3,
+        "sources": [
+          "东方财富网",
+          "中国新闻网",
+          "央视网"
+        ],
+        "score": 9.373,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "汪苏泷王俊凯演唱会电影立项 演唱会电影延伸巡演商业链",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9CZG5ZMXhHWW1SSlQwQlNhYzN1bTY3emZWRFdrcG9jUURKQkVPZFlKMUtpdDZQRHNFcVFoTmdlWGFNdURjWDByQzZ6d3E4U0loMjU2RA?oc=5",
+        "source": "虎嗅网",
+        "published": "2026-11-21T12:05:43+00:00",
+        "source_count": 1,
+        "sources": [
+          "虎嗅网"
+        ],
+        "score": 6.012,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "周深厦门演唱会花瓣漫天飞舞，粉丝相约见面",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ubnExVzhEWWFaVXRnSGk5VzBIb2ltdTE1dl9yUFVzQ2RzRmVvaC1ucEs0amZUeVpZbnRjVUZMcW1qNlhEbXVMcS1qbUV5WE9fZFVSejhlWmlITjFMY3ctdkxyMlJkS28wWlk4WlNQelp6eDA?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-21T13:39:58+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.835,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "周翊然演唱会现场抽送粉丝LV包",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fZnpoM0pfMnl1SnppNldNY09zaGVtX2xjSUllQTRCZUctWXFvaE8xbjA4Skk1Y2ZHb2o0WWcxd2ptblN0RFF6dXlsZGx0dEJlNDFiYmpObFJ1cHg4aVRhZmtXaFBnajh4cXRiY3NkSzNjdw?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-21T16:57:03+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.823,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "影院看王俊凯汪苏泷唱歌，演唱会电影打开音乐新场景",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvcUdtQWI5R3loNGlkeXE5QVFaMkpMN3V2R0hQcUI1NFBQUlgzdENjNU5YMEZ4MHJaZkpYVDkwSUVVcndaOVNJZmc0OEFEOHJZM0tfaFRKR0dCMi1aeGd2RlJpanhVcFMwdEVPeWJyOTd4Ymc?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-21T18:17:16+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 6.002,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "第十八届傅雷翻译出版奖获奖者名单在江苏南京揭晓",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-21/10735921.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-21T13:53:36+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 4.848,
+        "topic": "其他娱乐",
+        "editorial_reference": false
+      },
+      {
+        "title": "苏文谦与池铁城决斗 电视剧瞄准第三十二集",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE95c3hlYXZMWTE3UGc0SVp1djhCMGlWRWFtSFZUMWRySWJnQ19Rem82Q2g2NmxZRzNINnZyaWNrRWpxaWFocXRzd3VScmdyNUJwOTE2NGdSYUFBLU51Yk41ZjJDMlJsODdiYmxGZl84Sjhqdw?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-22T00:07:02+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.077,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      },
+      {
+        "title": "98岁人民艺术家田华撰文：演员要为人民服务，这个道理我记了一辈子",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9PdmMtUi1Eal82N3cwZkNHVXFONHVZYjVuakNfR3VweWJhR3ZGUFR6eW5TTVBYakdfUnJHQzc5ZG90UjEzLUE1SGVDcjhzTFdKaWJ1ODJ4RElfcnpva2thdw?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-21T23:07:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 4.603,
+        "topic": "明星动态",
+        "editorial_reference": false
+      },
+      {
+        "title": "演员余文乐自曝曾长期身处高压环境，曾躯体化严重到不能开车",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTjhMZEdncFlnaHBKdkdwdXg0V1ZPaXUydDlvTDFNMWhnSXV5dEN6anNYVUprT1RUQ2xib2tqZnAtaldYX0FwWGN4ZjhLZ1I2aXdEWmg2OVkzNm9lME5kQjd5OHd0eExwYVJHazRSUVVEaFNVZDRjNlBqYW1pa0Q3RE9OZlVSSkM2?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-22T00:58:04+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 4.56,
+        "topic": "明星动态",
+        "editorial_reference": false
+      },
+      {
+        "title": "推荐十大国产电视剧排行 四大名著经典深度解读",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9LeHI5OFQycERLaFY0MkdyVDBQa05VVFlsdGdHMVBGRU1xYVpoVWdqV1pDY2xTVUVxM3FKbXhSdW1rRUpkenlVN1pRUkRQWGZ6ZWQ4cEF4RU92dXRnWmNrUVlITGhXUEFNVU1mNUxrQkkzSWM?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-21T21:47:59+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.073,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      }
+    ]
+  }
+}
