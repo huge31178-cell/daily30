@@ -1,0 +1,449 @@
+{
+  "version": 3,
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T02:23:01.470430+00:00",
+  "generated_at_beijing": "2026-11-23 10:23",
+  "window_start": "2026-11-22 09:00",
+  "window_end": "2026-11-23 09:00",
+  "method": "精选日报重要性参考 + 新闻媒体独立报道 + 政策民生和重大事件优先 + 同题去重与领域均衡",
+  "warning": "个人新闻索引；相关媒体多并不代表事实已独立核实。精选日报只作排名参考，不会直接复制其全部新闻。",
+  "reference": {
+    "available": true,
+    "source": "每天60秒读懂世界",
+    "date": "2026-11-23",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDE4NDQ0Nw==&mid=2247499050&idx=1&sn=052f644e6978cb789b57540a35ae617d&chksm=c07755e7e050d21866e16ac801d83fe7759ed7766c1973f4ea597949207ffbd362126d25817c#rd",
+    "matching_articles": 2
+  },
+  "stats": {
+    "cn": {
+      "candidate_count": 220,
+      "feeds_available": 10,
+      "feed_count": 10,
+      "publishers_seen": 72,
+      "events_found": 195,
+      "selected_count": 10
+    },
+    "world": {
+      "candidate_count": 246,
+      "feeds_available": 10,
+      "feed_count": 10,
+      "publishers_seen": 72,
+      "events_found": 164,
+      "selected_count": 10
+    },
+    "ent": {
+      "candidate_count": 89,
+      "feeds_available": 7,
+      "feed_count": 7,
+      "publishers_seen": 15,
+      "events_found": 65,
+      "selected_count": 10
+    }
+  },
+  "source_errors": [],
+  "sections": {
+    "cn": [
+      {
+        "title": "登记册、税收与信贷：新规将如何改变白俄罗斯农业生态庄园的运营",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1neG5UQVRFeEtmNGRkeDVmWVNwZGdIM3ZVMXBKT21JNEM3R2NqeTNuV3VxRUdpNktJQmtkbjJZR3AtNFMxaHZYdWc2VUk1ZkRCTTdFV2FIRzctdw?oc=5",
+        "source": "白俄罗斯新闻",
+        "published": "2026-11-22T05:01:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "白俄罗斯新闻"
+        ],
+        "score": 7.759,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "129万元一支的抗癌药进医保是怎么做到的？",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVNRT3RDUE5ZNTZZT05ZVkM4SndjUDNnVEd3LUJwaFE3YmlWM3E3c3g1bThDNW5kS0Vqb2JkcklQTThVajBDbnBySXk4Ty05TnVYNGRiWGxQRTlXLXhqUmZwbnVFenZ0aWZ6bHJ3RlJHLTVmM2NkZGJSMG9TLUZtTzVqbEVacGoxZE1vWQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-22T23:22:19+00:00",
+        "source_count": 2,
+        "sources": [
+          "21财经",
+          "海外媒体"
+        ],
+        "score": 7.356,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "创业板拟引入做市商制度",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-22/10736143.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-22T10:41:10+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 6.961,
+        "topic": "其他要闻",
+        "editorial_reference": true
+      },
+      {
+        "title": "以人工智能提升税收治理质效（财经茶座）",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYkdPcU5JbG5RR0p5UnVFZHV3OGlualZNT296Z0FMQTBHU0xDQzZ4RU5SR09BTDdvWXN4Z19MZEZYUUtIdUt0Qmw0VjhwaHJuWG4yQVpBV1o3ODJ4ak55Uk94M3RkZUlISEVLSXVDcEQ2WVlqRkhsUDZHODJsMktSY3VqLTlkRDY5VTBCQQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-22T22:28:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 6.893,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "加拿大深化对华贸易引台湾担忧 外交部次长：北京擅长将经济依赖武器化",
+        "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPVExDaTBmYWhhOVAwS253blkwdlkweENmSTNKM2FudDRiaEoxT01XZDlSczlOdWJPSk91SnRPVjVSamdDcTExR0pxeVZQd0tSX1lyaG1DT1kwM3VWemkxckpTOW1DQXpVNl9SYldpcDQ1OV83RnlBNlNVdGZQcFM4MDRLNThQeWg3VzRCcFY3R0VoQTlCTTBwQ2VtNXJsbmZfTUVqSWFkWWp3d05hSGt3UmRicVp0d21JZEhIbGE0XzVEWERvREJrbDlhWmdvanhBdl9Gdk9TNUt2LVVnSnVZdERpUlhHZnFzUkU3T0hWVDVYcVVkaGZFTFZzUW5MUVMzdnlISUFqRTFQa29LTkw5WjVhT1V5MFU4R001X0lPN0FEcHhIRFVmc0d5X2lRMHBFajhZQlRuTnZydldDSF9lQ0E2UWI2OU1wRWxzMEVNQ1ppaEM5dXNkWElCMlJHRmo2eUxsMnE0QWY4SFRaNTFPMmh6S3ZFb3hvUlFNaGtjZk1YM1U3djJLWXVycjJ6NE9mS1B5SWktbzhoaFFyQlczM2haREVIZm1veE54QXlQTXBidlRZSEhyVl9TWjdzbVkxMFJVaHM3azd6VjB1dk5UWkU1eldpYUQwVEVvT1llM2d3RGd2NmxBSXMzMnU0N2JXbVRKcHNOZEjSAfgDQVVfeXFMT1RMQ2kwZmFoYTlQMEtud25ZMHZZMHhDZkkzSjNhbnQ0YmhKMU9NV2Q5UnM5TnViT0pPdUp0T1Y1UmpnQ3ExMUdKcXlWUHdLUl9ZcmhtQ09ZMDN1VnppMXJKUzltQ0F6VTZfUmJXaXA0NTlfN0Z5QTZTVXRmUHBTODA0SzU4UHloN1c0QnBWN0dFaEE5Qk0wcENlbTVybG5mX01FaklhZFlqd3dOYUhrd1JkYnFadHdtSWRISGxhNF81RFhEb0RCa2w5YVpnb2p4QXZfRnZPUzVLdi1VZ0p1WXREaVJYR2Zxc1JFN09IVlQ1WHFVZGhmRUxWc1FuTFFTM3Z5SElBakUxUGtvS05MOVo1YU9VeTBVOEdNNV9JTzdBRHB4SERVZnNHeV9pUTBwRWo4WUJUbk52cnZXQ0hfZUNBNlFiNjlNcEVsczBFTUNaaWhDOXVzZFhJQjJSR0ZqNnlMbDJxNEFmOEhUWjUxTzJoekt2RW94b1JRTWhrY2ZNWDNVN3YyS1l1cnIyejRPZktQeUlpLW84aGhRckJXMzNoWkRFSGZtb3hOeEF5UE1wYnZUWUhIclZfU1o3c21ZMTBSVWhzN2s3elYwdXZOVFpFNXpXaWFEMFRFb09ZZTNnd0RndjZsQUlzMzJ1NDdiV21USnBzTmRI?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-22T10:32:54+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 6.689,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "中国排球名宿郎平获颁国际排联最高荣誉“排球勋章”",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-22/10736051.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-22T06:39:17+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 5.832,
+        "topic": "其他要闻",
+        "editorial_reference": true
+      },
+      {
+        "title": "日本熊本县发生4.1级地震 多地有震感",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-23/10736227.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-22T23:24:20+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 5.427,
+        "topic": "社会热点",
+        "editorial_reference": false
+      },
+      {
+        "title": "全国人大常委会副委员长肖捷率团访问毛里求斯",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XM2F6NXlvTldkM1FrbWZCTWZBM01uZnVBQ21mQlFUMVhUYWJPdjVYY1F6STZ0OVlXU2dORTFiTXE3QWRQV3VYS3g5TE81bjdISDVWMHlUZ3Ytd1FhX3Rwa254VWdSV004V3owZXR3NWZZdjFZMmpGd0xIc3hyV28?oc=5",
+        "source": "人民日报",
+        "published": "2026-11-22T19:54:27+00:00",
+        "source_count": 1,
+        "sources": [
+          "人民日报"
+        ],
+        "score": 5.986,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "“社保断缴三个月账户清零”不实（2026·11·20）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE85TGlkQXRVX014RGNNQ09jLTlYYl9YQ0xMNFQzWkw3OFc0Qnk3MENEbXBSUlhXeGJWT2RNX3VhTHNaUm5wS1pqMC1sQ21sRXpMUlg5bjdkTk1IZ2NjX3Q3SUZYYTVFSEFZZWluU1YxWWVJQVMtemIwZ0pwSVNCVlU?oc=5",
+        "source": "广西新闻网",
+        "published": "2026-11-23T00:12:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "广西新闻网"
+        ],
+        "score": 5.868,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "印尼一糖果厂发生火灾致3人死亡 数十人失联",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736019.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-22T06:34:28+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 5.051,
+        "topic": "社会热点",
+        "editorial_reference": false
+      }
+    ],
+    "world": [
+      {
+        "title": "联合国气候变化安塔利亚大会闭幕",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-22/10736214.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-22T14:55:52+00:00",
+        "source_count": 3,
+        "sources": [
+          "中国新闻网",
+          "新华网",
+          "海外媒体"
+        ],
+        "score": 9.968,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "苏丹首都遭无人机袭击，一联合国设施受损",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPa1VBY2dhWldrU0xSQ3dwRkRCTHlSNWZSX0d5OFRha2FoalY4YXE1RzFhaGxrOFpaWWZkU0h0bm1SaHBvSThYVXNnZ2NvbHlJVmwxN1F1YWlwUnVnOTZtUmt5VjhqMFR5OEp1M3BLR3RtR3dBemM0TEhmazdDY1ZpZlp2aUdmYThsOTJWYw?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-22T23:27:33+00:00",
+        "source_count": 2,
+        "sources": [
+          "手机新浪网",
+          "海外媒体"
+        ],
+        "score": 8.958,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "伊朗总统：正进行的经济战远比军事冲突“更为艰难”",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJdjl1YW9uVDRFMjM5Z0xnNEdYTnRVbkticWtBTDB6SGRQaDVZa2dTM01mNWZaWUtnalRrM0FnNDd3d0VSWXd1aDB5MmhRellSUG9FSWplOA?oc=5",
+        "source": "腾讯新闻",
+        "published": "2026-11-22T08:34:46+00:00",
+        "source_count": 3,
+        "sources": [
+          "海外媒体",
+          "腾讯新闻"
+        ],
+        "score": 8.911,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "COP31｜联合国气候峰会闭幕 谈判破裂未能达成协议",
+        "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPRTNHTFJZUDVxMnB0SEtFRU85dExfUkNJWWtkYjFpUGgzcXFRWkRBWWFma3FpZVNBY3ZxRkx2RUxFci1tZFQtM3VfYXlGRWotMTZDbUhXYTZFeDdmS3ZVSjlGam1nLUtEc0dCNUNQcVllWlV5RDUzMXducGo1U01NY25BME1TTEJfZGtaSDFIX09YcXVIQ1I3MTRRVlVtS3ptX3MzR1N2ODUxZUxaQWltUDA2ZFhNTzRvTlhKcTJsMEtTaEF4TUVYd2dCV0tEeV8wVGg0ZTNlZkQ2ejgyWjEydWhWNjhIQzlLYkFxWlVsOGRiZ1NpRHZiS01PWTI0WWt0NUtJTXVnNUpYZVI3NkZiaVhURkx1M0lNc05oOUpwOElleXhfUUUwNGs4b2MxWkhFd0JNcE9pOFhJam9JQlYwaUU3SGRvVUhJdFVFMzBSY3RhSjFjZW5icU9iVmlad1dKMUMtVzBmOA?oc=5",
+        "source": "香港01",
+        "published": "2026-11-22T23:38:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "香港01"
+        ],
+        "score": 8.66,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "COP31气候大会谈判破裂：欧盟拒绝未提化石燃料的草案",
+        "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPUHlIeXJjQjlpM1VSRHFKZC1JTEpud3VvRXNYTGFiTFVfeG1pMmlBa1JnbnNzZHMyaHVkSVdWU25PcUpJa0ZMa0taSUdELUdLTmsteUdNRzhnSURDRjNHRzV1Sm5RR1BiVElibUZaMnVpaXBuMHhLZl9tZTdWZ0tKS01FbzJLWExfeFpZNDdEcW5SYkhwRkhCVTdjOC0zb0g5b1E5TTFKNUtqQm5ZQUxGeC13d1k4UmwwTmxIa05sOThyd0xBZnFuSnlVRk9WR1JmZWN6Vk9iWEljOG9LRk9pRl9peWxpOFU1bm1XYmc4YnhKQ2pqUHVQQnFRTjQyQWU2dERFcE5XZkRETExZam5sWGxSQ2haSEJrd2pvV1A2UU8zbUVmbVVrSUtGWHZxWlNQd05sWGdxMkVCeXYwRGFLRVNTaE9uLTVoVmVyTmlJSWZsSW4tOHkyMFBDUm9PaUplODJ5X1czX08wMVBaalo2bEVsOFVMWF9Eb2lRa0tjZFNoNjdESnNVb2Vmc1Jxa2g3X1VVRUtkQdIBlwNBVV95cUxNS3FsM3gxRkIzWWF0M1FtaUo4N1ZyU1Bya1BLdXRmeUl1OHIzU3dsbmlNWWc2VXdkS0llWW51dTNOMndIRkdfeFBQN1FCdzVkRlFjTFZTal8ybFRYUVdpMWJlUkZFOE1XbGppOFNRN25KWWxvSWoydmkwSEpabGRRTmh5clFYMkRXZzVpYjVlazFyVW9hNjVFblZjZHpfN3ZhcHNHMTFodkR5a0oyTjNoOEhIc0ZjZWJvY05Ld2VEZE4ydy11OGFLWmEyV1ZOdzRTaFZjYjMwa3Jmc0tRZkl3dHNyYk9hYmJrVUxMR0FQUnNjc0w0RmFlNzRNM3dpc3JncGhNWUU1Uy1rZU5FTC03SjRlSUdOYm9yTVZUbW9BOVZaRW0zdU1rWlVWU3VYdFRXSHRfZDBFWEdieTZFUmRGWFpaR2FpOXNFYjJzeFVJUWFLRVZ2dUt1a2hCWl95bDc5aVN6eHJCMDlPTm1ja0gyUlVkWUI1d0dNSnNhSGJ4ZnFZWXltZFlhMktITWJra3JOakoxUHZXWQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-22T17:29:53+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 8.591,
+        "topic": "全球社会",
+        "editorial_reference": false
+      },
+      {
+        "title": "联合国气候变迁谈判 破局收场 17年来首次",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yd1lfSFNPX1RmRUJLbkU4aU1UZ1E3STFHNVBrUE95MXpwOG1NdGdjMzg5X0JscDBqcXl2Sk9Pcm1xalltYVpMSV9DTzk2czJZTlhHNUdHNXgzU01sRy03U0txTDZVNXhD?oc=5",
+        "source": "文学城",
+        "published": "2026-11-22T22:59:59+00:00",
+        "source_count": 1,
+        "sources": [
+          "文学城"
+        ],
+        "score": 8.651,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "COP31气候谈判无果而终：古特雷斯警告“科学不容置疑”",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iZnh2aVphNWxPd3BLMUNHRlZaeHVkN1VBbjUzZUxyMzlILW9vYi12R0x3ZDRCOVVSX2w3YWFiN2hwUUVxY0JPZVlvUF84bFB1Q0ZHSlA3SQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-22T18:04:56+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 7.089,
+        "topic": "全球社会",
+        "editorial_reference": false
+      },
+      {
+        "title": "联合国气候谈判因化石燃料分歧破裂",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0tQMU1xZVZQTG1Va0V6X3NCU0dlWVh4ckQ5bXhGUzVBblJiX0pEZWhpdlBiU3FSdzRtNUhKZGRYdXR2dzMwZFJob2NFMUNoUE55RFQwUm5McVRmYVJsRUhGYW9jUk43NEotVGJBaG9zMnVHTl9scE00ZVZiWUhXd0lhbzJRaFNhNzMzYzB3?oc=5",
+        "source": "华尔街日报中文网",
+        "published": "2026-11-22T16:55:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "华尔街日报中文网"
+        ],
+        "score": 8.562,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "俄乌多线激烈交战，互袭后勤补给线",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE91WFprNG52TWpyTnNsd0taYU1SZ1hlcjJUS3RRbUJKNjBDWHNJd1FveWY4STlSVmNlUFFLVjhLOHF3YjBhZ0JjRg?oc=5",
+        "source": "凤凰网",
+        "published": "2026-11-22T03:38:08+00:00",
+        "source_count": 2,
+        "sources": [
+          "凤凰网",
+          "网易新闻客户端"
+        ],
+        "score": 7.49,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "CME“美联储观察”：美联储12月加息25个基点的概率为91.4%",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTU9CM1lXZ2w5bDV0Qk1iRXpKUVotWk05TE1sVFM1dEI5QXQ5YWQwOEd5azRNTzJiTWNHY0pPTWp0VUJ0ZlFjLVJfalVPOTFpRkpSZDZrQXZqRkJjZzhmLTFyZTdkaFFmTVhlcm5sTlRPQTI1aTN3NDM4R2dxR0U4eTEtQTVuVXQ1?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-22T22:44:00+00:00",
+        "source_count": 2,
+        "sources": [
+          "手机新浪网",
+          "海外媒体"
+        ],
+        "score": 6.597,
+        "topic": "国际经济",
+        "editorial_reference": false
+      }
+    ],
+    "ent": [
+      {
+        "title": "套马女团官宣0110北京演唱会 冬日音乐盛宴",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VcldZazZSNlJhNmhjR1RWZFdVeWFMT2QyUmJiUWdIUUdncEpuM09PdGRvZ3JvWndpNGY1X0YtVllBS0ljMXlrdEVRNnEzMUJyR3lQUFEyOXVYbnVVdExtNzJPYWV2UWk4NUlDc2tpSTl3NC1G?oc=5",
+        "source": "中华网娱乐",
+        "published": "2026-11-23T00:13:48+00:00",
+        "source_count": 1,
+        "sources": [
+          "中华网娱乐"
+        ],
+        "score": 6.129,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "37岁男演员回应中戏同学成顶流明星，自己在景区当NPC：人比人气死人",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xU3BvUTNJdUtPV1Itc25wcU11d3ZhOFpaWkU5LTBYYXNBNW0wVmNsYW9xR0ppTkpqN1YtYWlUM3RXdW9yNmhIb1FOeUlyLXhWNjNrZXE2VEV1UndUeUhCOGthQl9QZ1VqNjBqSVJneDk?oc=5",
+        "source": "中华网",
+        "published": "2026-11-23T00:26:09+00:00",
+        "source_count": 1,
+        "sources": [
+          "中华网"
+        ],
+        "score": 6.072,
+        "topic": "明星动态",
+        "editorial_reference": false
+      },
+      {
+        "title": "同学红成顶流自己当NPC 男演员回应 与自我和解",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9VdTF2YjNIZGNfZzVkbm5QSWUxbnNVckpmaFMyT3VMRVpQVVoyVVBCNGRENUpkT2xlbUY1RGtWTUs3dnJUV3pLY1UzeHI5c1JLUXIySUJoNElHRGl2X2NWLXBiZzItOFFzdFFVWmFLc0g?oc=5",
+        "source": "中华网",
+        "published": "2026-11-22T23:56:20+00:00",
+        "source_count": 1,
+        "sources": [
+          "中华网"
+        ],
+        "score": 6.035,
+        "topic": "明星动态",
+        "editorial_reference": false
+      },
+      {
+        "title": "#演员云旗[超话]# [浮云]#云旗# 260304演唱会vcr云旗cut存档以免老是找不到[捂嘴哭] @云旗Yunqi ​",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1yanpmUFpKci05SzI5SGFaSVNRLUkxTUh6VkdZUE4tc0ZTNTVVLW1IaTU1cjN3VkJHdW9mUkw4VG5jY0Juc0R6Z1U4MlVmWGtTNUVtaHlQUkNNLUxjdWZOUHVqUQ?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-23T00:42:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 6.016,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "第二十届曼谷中国电影节开幕--国际",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtbmhXUEk0UzJYWDh3T2RacWdoOTJpLVpNaVhRYmJncWg4RHVMQ0tpWnpvLXpQeHZSMXNLRTRKMTh1dVNSX09femV6eWRFM0xBNVg4WnpWNUxWU29uMUowU2ExZThQU3liSWd3dg?oc=5",
+        "source": "人民网",
+        "published": "2026-11-22T03:15:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "人民网"
+        ],
+        "score": 5.933,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "2026中国电影节在菲律宾马尼拉开幕--国际",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9udlRzTHFqUXF0Skd1dmhXYW15WlpXSF9DcGlSQXZOZTZINFhwY1dVS21xbVA0WjM0SnQyNnBKbHJCVmJuejMxd2hzM2NyYTdUSXBiZ185SUpFeDA4dEZlUXQtazF6V2FFaHA4dw?oc=5",
+        "source": "人民网",
+        "published": "2026-11-22T03:01:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "人民网"
+        ],
+        "score": 5.819,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "央视主持人杨帆录节目假牙丢了 意外成综艺名场面",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTVFY0bFRvTWg3eDQ4WHd2NWpGR19uS1h6aWhFdHF1VmJJVl83bnBXSEN2Zk9OODBPY3V4eG5MUklCVEExQWk4by1aSHNXbmxxUjZNUFNZSUhIcGhZRjU0YmRNUDVVandaWjE1bmlrWEczQURN?oc=5",
+        "source": "中华网娱乐",
+        "published": "2026-11-22T23:29:06+00:00",
+        "source_count": 1,
+        "sources": [
+          "中华网娱乐"
+        ],
+        "score": 5.138,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      },
+      {
+        "title": "汪苏泷演唱会合唱小星星半分钟四次看跑调粉丝",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zNm5JRjJhdUJybmFfdks2SlNzNFdMam96WXVHWExvR3UyNDkwX3JNYjREcDlqcTNIb0hKY0lwQnF0Vlg0UlFkVDJYLVlmZUtWTklxdUtBMGZNR3lYWlB2TVNQMFRudF9ncmNpNXVETTRZQUE?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-22T21:39:36+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.871,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "林一专访称戏里是林一人格综艺是林二人格",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94WDFTSU1kUWhJX1A3YVdUaFNBdHdYTU9zdUVVUHFiNTA2T1g5ZnpHSmdaMklRU3VJXzVIOXpWcm1CUGVVUlBSbVhUTjAtU3U1eWppQ1c5a0hJR3phdWRFYzV5dkhIcFh3S05PNjZodnVCSlU?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-22T23:34:03+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.039,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      },
+      {
+        "title": "演唱会，按电影卖",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lUWJ3dGNZTTNTM2RqaGlQR0QxWGFhQ00wcWlpdW5OVnh5TWdXSUF0dWhlTThZc29pSEdxb1VnTG95SGFwZjB3dXJNN3YwdGQ3VGFZaF83Szg2YkFXLUt0ZQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-22T03:06:32+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 5.781,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      }
+    ]
+  }
+}
