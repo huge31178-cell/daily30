@@ -1,0 +1,459 @@
+{
+  "version": 3,
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T02:24:27.453604+00:00",
+  "generated_at_beijing": "2026-11-24 10:24",
+  "window_start": "2026-11-23 09:00",
+  "window_end": "2026-11-24 09:00",
+  "method": "精选日报重要性参考 + 新闻媒体独立报道 + 政策民生和重大事件优先 + 同题去重与领域均衡",
+  "warning": "个人新闻索引；相关媒体多并不代表事实已独立核实。精选日报只作排名参考，不会直接复制其全部新闻。",
+  "reference": {
+    "available": true,
+    "source": "每天60秒读懂世界",
+    "date": "2026-11-24",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDE4NDQ0Nw==&mid=2247499055&idx=1&sn=a80affd08a282e66ff186e9d01c677e7&chksm=c03644ef632172d31607b7916e71d1fd11344720016e63aa21f4d0d329d7756fefb749f172a6#rd",
+    "matching_articles": 1
+  },
+  "stats": {
+    "cn": {
+      "candidate_count": 350,
+      "feeds_available": 10,
+      "feed_count": 10,
+      "publishers_seen": 114,
+      "events_found": 313,
+      "selected_count": 10
+    },
+    "world": {
+      "candidate_count": 318,
+      "feeds_available": 10,
+      "feed_count": 10,
+      "publishers_seen": 84,
+      "events_found": 231,
+      "selected_count": 10
+    },
+    "ent": {
+      "candidate_count": 181,
+      "feeds_available": 7,
+      "feed_count": 7,
+      "publishers_seen": 39,
+      "events_found": 137,
+      "selected_count": 10
+    }
+  },
+  "source_errors": [],
+  "sections": {
+    "cn": [
+      {
+        "title": "守护“养老钱”“保命钱” 社保基金新规征求意见",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CSzF1U1JLNG80MXl4S1pzMjVoWHVTcDE5QmZMbm1IRnRfNUxZd05YUnZlel9zZXFlYjJNTWxWQ280MEx4MVZ4VGM5NFBuYU5GRUxVaExyQUUzMmxxalhN?oc=5",
+        "source": "北京商报",
+        "published": "2026-11-23T16:07:00+00:00",
+        "source_count": 2,
+        "sources": [
+          "北京商报",
+          "新华网"
+        ],
+        "score": 9.72,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "以人工智能提升税收治理质效（财经茶座）",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MLXNpNW5tMFN6b1V1S0k2emN3NHU0VkI4aUpRQU4xSHM5OVpsSE9yY0FYbktDYUZqWmJmbG8yanpqSWFyc2Y5S1VrQ2hsWXNTNFFsc1JadEREcWlrY2h3amRoamkzazJUaTh3ZEhjS1lUbFk1V255R2FYLWZBVk0?oc=5",
+        "source": "人民日报",
+        "published": "2026-11-23T20:09:33+00:00",
+        "source_count": 2,
+        "sources": [
+          "人民日报",
+          "手机新浪网"
+        ],
+        "score": 8.569,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "英国央行首席经济学家皮尔敦促采取行动维持物价稳定",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrWUtRZXN0dnpmbnMzV2xxN19VWFBjZWNRMW9NSlhSX25LcEJMekYtUkJRVXY2clM4cThMTnF3NF9fcE1aOUo3YXZmNDVidGwtXzJxcEdhT2pudFlpRDNCMXVhYlNXdTVjU2VLbkEzNDhVVnAtSFpv?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-23T15:49:50+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 7.916,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "社保基金监督条例公开征求意见-工人日报",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5YWDdFYmZGUVFKVEY5U0phMFZtSWVNbVdPQmxiTjFjVHRCLV9hZ1lDaGI3Q25tZGhWY2hUN3BuX21zVUxZdjZ6cGFfVllycXVQLThKUHlwSlZXXzBYV0lsLTkyTmE3SjBmTXVESA?oc=5",
+        "source": "中工网",
+        "published": "2026-11-23T19:50:03+00:00",
+        "source_count": 2,
+        "sources": [
+          "21财经",
+          "中工网"
+        ],
+        "score": 7.261,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "外交部：愿积极支持尼泊尔开展泥石流灾后重建",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UaDVkQ3BjVU50V2c1anB4emg0aVlPbUlnNzllSjdNNG56RFBGa0tCU3gyQ2dKaDd6dTlBZDRZSWdFZV96QmJ2S3RCY0xmb3JHbkVvcEp1a1ZUZHc2aGc3SjRn?oc=5",
+        "source": "观点网",
+        "published": "2026-11-23T15:36:16+00:00",
+        "source_count": 2,
+        "sources": [
+          "习近平外交思想和新时代中国外交",
+          "观点网"
+        ],
+        "score": 7.547,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "2026中国—东盟周开幕 共商合作发展",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02RVV2ZUFiRnEyM3ZRMEgtM2xzWEMyZWdCZG81V2o1cjBMRVNHS3NOdnBub3IxM1BEaXhsU2MxVUdpNFBVV05peERuV09McDhaeG01V2tOaEo2V1NYM2dzYUpONEZGUld2eU1Ta3BSLV9TblFQSWY0RDVkVnotUQ?oc=5",
+        "source": "中国新闻网",
+        "published": "2026-11-23T14:50:00+00:00",
+        "source_count": 3,
+        "sources": [
+          "中国新闻网",
+          "新华网",
+          "新华网重庆"
+        ],
+        "score": 6.785,
+        "topic": "其他要闻",
+        "editorial_reference": false
+      },
+      {
+        "title": "医保个人账户里的钱怎样给家人用？",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmgyblVEdFVCR3lqSF9pckhVOUYyNVdBdzRrVnh2UmtEWmtkOFpvSDhlVEptbkVXZ0ltdk5PbmZkMUwzOE4wSkktdWgycFNHYWE0TmRWMXZieWhIbWcwc1BoNFRDSENKUlNXUFZQRy1aRkxKeW1KMmJuUy0xWklTaUd3YVhqQkxiN1pkcw?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-23T17:17:57+00:00",
+        "source_count": 2,
+        "sources": [
+          "新浪财经",
+          "海外媒体"
+        ],
+        "score": 7.138,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "如何让AI红利为更多人所共享？中国答案：让人工智能成为造福人类的公共产品",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTmNEWVZSM19VQ1Z2aVdYR0s3dTFxME5uTy0wSGFRY2NIOHVUZUhJck1TVUtOSFp3QVFGTUh6enFYd25MaFJDYVg2UFlya2RENmpucTBmX2l5aHJFamhSejNsQUlLeTlkMVUzR2sxZUdvR1FIdDBNazlfWThKZTNPdFh0M1FicWtNUjUwWA?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-23T22:39:04+00:00",
+        "source_count": 2,
+        "sources": [
+          "上观新闻",
+          "海外媒体"
+        ],
+        "score": 6.116,
+        "topic": "科技产业",
+        "editorial_reference": false
+      },
+      {
+        "title": "中国足协发布《红图计划》 统一青少年足球培养理念",
+        "url": "https://www.chinanews.com.cn/ty/2026/11-23/10736568.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-23T10:01:46+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 5.872,
+        "topic": "其他要闻",
+        "editorial_reference": true
+      },
+      {
+        "title": "129万元一支的抗癌药进医保，怎么做到的？",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4wZkl0SVJiME01bXhMQS16Y0tlOTRPc2dKWjBZSFhIbnlpd19Tc0p3V2wtSVNVR1VZUHJycGVLZTlTQ2RBTVV3by1CQWt1WHRRSDhXbm5aNjFmc2tkZi13STQxVENOUUI3?oc=5",
+        "source": "中国新闻网",
+        "published": "2026-11-23T05:15:27+00:00",
+        "source_count": 2,
+        "sources": [
+          "中国新闻网",
+          "中国日报"
+        ],
+        "score": 6.962,
+        "topic": "经济民生",
+        "editorial_reference": false
+      }
+    ],
+    "world": [
+      {
+        "title": "伊朗议长称伊方有打破封锁的军事手段",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSMXd0Wk5fRDNnV2FyV21GcGdheWNQbFR1VFRxMUNEWkJTQ1hZTTJjSkRQclpvSDRXZEp2NDkxR0FwOWV5SmZyUTN6dW9kSnFEY1JwcGJ2anZYdml4YXRXSVRGdFV5dmdZenFqRmR6TEVqbE9ZWlUzdktXTkg?oc=5",
+        "source": "中国日报网",
+        "published": "2026-11-23T23:40:56+00:00",
+        "source_count": 2,
+        "sources": [
+          "中华网",
+          "中国日报网"
+        ],
+        "score": 9.435,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "辛正儿 - 气候峰会谈判失败 全球气候治理僵局 | 社论",
+        "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxQVDV2NktGSERWU0YwVlFoV0cwQldVWE16TlMzc1ZNdmhPSTdwQUdJa2lrU1NqTHdCa2dTNDExOE9Da1AxWFJiSFlJU3ctZ0VOQjVIY2hFd1JOdU9ZSlMzTkczcVpGSmpCRlFKb3lHNjZlMzhqT2I2UUJVaV96WjZIRnBtTFRIY1ExVnRXeC1nTDhHcXhGU0hIQXF2STkwNDd6alZNUXVzZ0RDS2VYdUQ3Z0JEa2d1cVA0dGVHcG9XOVVGU0NvM2xIOVhvQkYtSVdBZnZXa1kyX2NIZWNVYllQX3NRbTRJQXBJR0t6ZDJPNDlwT2lGcUt2bFJLdUFpNTNXZnB6ZHhJcXR2eFpqcnNPTDJpYnpfekktZXAzOFViemhpZEhiXzdBMVdzWlhscTIyQk13eUJ1NXp0M0RpdnVwcENQQXBLcmlubFRtbXdtdmdwZDlCQWhPV2RITlE3dWs?oc=5",
+        "source": "星島頭條",
+        "published": "2026-11-23T18:00:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "星島頭條"
+        ],
+        "score": 8.608,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "#媒体原创 历时2周还“拖堂”的气候大会，最终还是没有达成一致。11月22日，联合国气候变化安塔利亚大会，也就是COP31正式闭幕，最终未就核心政治决定达成一致，这是2009年哥本哈根大会以来，全球气候谈判首次出现重大僵局。｜一财主播说",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVlNPLVEtUjNhYWZINGVTb1JCZ3lDODBtVE5ZTlh1ZEh4eDd4ZDhncG43dDFzNXl5Q3BIOXlkc2dHQm9XREdqbC1sSDJRLWY4NC1BdVZEclhxa2hmMGd2R0MtOVg1bmNjSEFzekZ2ci1INEZaN196U25WRFJBbTQ4OVp6YTNKM2J6?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-23T08:28:26+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 8.529,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "一财主播说｜两周的“马拉松谈判”没有谈成共识 全球气候治理为何越走越难?",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0lFenUzSUZNVFVoVFBqcE5FMGRPUnB2V0RMazg5cVNCSmdiaWNaLXJERGE0dGQ4dnJTN3hwNFJQcDUtdXF0MjZDM2otMGR6Sm9PRzRUZ1V1S1hNbEFvUHpSbGJWV05lZURzLVR4VGxDVnVQWW02YWF5Nk9mVkdja0RjbVlXcFJm?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-23T08:53:20+00:00",
+        "source_count": 2,
+        "sources": [
+          "海外媒体",
+          "第一财经"
+        ],
+        "score": 8.435,
+        "topic": "全球社会",
+        "editorial_reference": false
+      },
+      {
+        "title": "深度 | 超49小时延时谈判，史上最长气候大会收官，核心成果为何没谈成？",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVExUWVZbnh3ZjAyT19UenEwbG4zdnpWSWVwSGtFTUdYM2NIQmpZcDF0aWJmTTRUbWxXcEt6YnlqcVZVOTZuT0NDY19ZeHlxQjEwaG80SnI2SkM4elVBNTUyaDN4cXg5d3c2SjJGdzl0LTNSdktVOFlGZlVfTVNRdnU4eHRQUWhZNU8xUQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-23T13:01:24+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 8.415,
+        "topic": "全球社会",
+        "editorial_reference": false
+      },
+      {
+        "title": "俄船只在利比亚海域遇袭 联合国机构“严重关切”",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmdnNIZWVyRDRMWkNDVHM5aFNPeFh3bUZzRGgyN3F1dnBIaGxtd09aclVnUTdwemU3TTZwZ3VReTlyVHlPRWhxUy1IbnNla0gwLXFjZ3M3MGt4YTgyVEt4bngtdnJ6S2h5bXZjOVlB?oc=5",
+        "source": "中安在线",
+        "published": "2026-11-24T00:03:00+00:00",
+        "source_count": 3,
+        "sources": [
+          "上观新闻",
+          "中安在线",
+          "海外媒体"
+        ],
+        "score": 8.446,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "外媒：以军空袭加沙致3死 其中含1名联合国工作人员",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-24/10736730.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-23T23:11:43+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 7.614,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "盘前，利好来了！黄仁勋，将出席听证会！美联储，重磅发声！当着美军面，3艘油轮爆炸！“欧洲已准备好与俄罗斯谈判”",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uZlBvdW9MVTJ3em1CaEltaG5DOWhXVDZlbkZNb0JUWWJueU5GMFNDZTE3UVc2UlJfZ2VhcF91QlhZRWxzMnhsTUtScTI4YTJCbnJhUDZEMmdzaDF4S1E?oc=5",
+        "source": "同花顺",
+        "published": "2026-11-23T23:58:37+00:00",
+        "source_count": 1,
+        "sources": [
+          "同花顺"
+        ],
+        "score": 7.495,
+        "topic": "国际经济",
+        "editorial_reference": false
+      },
+      {
+        "title": "COP31气候大会谈判破裂：欧盟拒绝未提化石燃料的草案",
+        "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxPUHlIeXJjQjlpM1VSRHFKZC1JTEpud3VvRXNYTGFiTFVfeG1pMmlBa1JnbnNzZHMyaHVkSVdWU25PcUpJa0ZMa0taSUdELUdLTmsteUdNRzhnSURDRjNHRzV1Sm5RR1BiVElibUZaMnVpaXBuMHhLZl9tZTdWZ0tKS01FbzJLWExfeFpZNDdEcW5SYkhwRkhCVTdjOC0zb0g5b1E5TTFKNUtqQm5ZQUxGeC13d1k4UmwwTmxIa05sOThyd0xBZnFuSnlVRk9WR1JmZWN6Vk9iWEljOG9LRk9pRl9peWxpOFU1bm1XYmc4YnhKQ2pqUHVQQnFRTjQyQWU2dERFcE5XZkRETExZam5sWGxSQ2haSEJrd2pvV1A2UU8zbUVmbVVrSUtGWHZxWlNQd05sWGdxMkVCeXYwRGFLRVNTaE9uLTVoVmVyTmlJSWZsSW4tOHkyMFBDUm9PaUplODJ5X1czX08wMVBaalo2bEVsOFVMWF9Eb2lRa0tjZFNoNjdESnNVb2Vmc1Jxa2g3X1VVRUtkQdIBlwNBVV95cUxNS3FsM3gxRkIzWWF0M1FtaUo4N1ZyU1Bya1BLdXRmeUl1OHIzU3dsbmlNWWc2VXdkS0llWW51dTNOMndIRkdfeFBQN1FCdzVkRlFjTFZTal8ybFRYUVdpMWJlUkZFOE1XbGppOFNRN25KWWxvSWoydmkwSEpabGRRTmh5clFYMkRXZzVpYjVlazFyVW9hNjVFblZjZHpfN3ZhcHNHMTFodkR5a0oyTjNoOEhIc0ZjZWJvY05Ld2VEZE4ydy11OGFLWmEyV1ZOdzRTaFZjYjMwa3Jmc0tRZkl3dHNyYk9hYmJrVUxMR0FQUnNjc0w0RmFlNzRNM3dpc3JncGhNWUU1Uy1rZU5FTC03SjRlSUdOYm9yTVZUbW9BOVZaRW0zdU1rWlVWU3VYdFRXSHRfZDBFWEdieTZFUmRGWFpaR2FpOXNFYjJzeFVJUWFLRVZ2dUt1a2hCWl95bDc5aVN6eHJCMDlPTm1ja0gyUlVkWUI1d0dNSnNhSGJ4ZnFZWXltZFlhMktITWJra3JOakoxUHZXWQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-23T01:58:14+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 8.344,
+        "topic": "全球社会",
+        "editorial_reference": false
+      },
+      {
+        "title": "商务部党组成员、中华人民共和国国际贸易谈判副代表张力出席越南—中国西南地区发展战略对接论坛",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wazMwOF9xRVZrZDNRVlJCVkdBS0hNb29jeTZNV1c4My13Z2F6ZFJYbnQwdzV4cVdtcDdqR1B2Q2hCZzVnMk44OS01WQ?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-23T09:59:20+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 7.011,
+        "topic": "国际经济",
+        "editorial_reference": false
+      }
+    ],
+    "ent": [
+      {
+        "title": "英国一演唱会发生不明物质释放 逾1.2万人被疏散",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBYYXV3Vnc0YUV4bnR4aXltcXhxT1pkV3E0UmxZcEhBalYtY2tHTEZQR054Y0V4cG9SQWdoOFNBalB3dEYwOUxoQzl4RnVaOVFkWERHUlZkY0xISDF0WDhCSWdWanNDbVBLN3ZDRXg0VQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-23T12:19:00+00:00",
+        "source_count": 4,
+        "sources": [
+          "泉州网",
+          "海外媒体",
+          "香港電台"
+        ],
+        "score": 9.515,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "王力宏演唱会突发：一男子冲上舞台！律师回应",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LbVZQdkN0Unc1Z3UtTG9pMklKc3VQMmJ1MHJHRm91Z1pRdnA1Y2F3TV9yRlBLamRaZWQyV0MwNGI2b2dlVzFuOU85SnFqcEdwaVpEaDBoQlFfb2M3UkdvTUtjYy1YNWFWYXdRSUI3eUVfb0FK?oc=5",
+        "source": "新浪财经",
+        "published": "2026-11-23T01:40:59+00:00",
+        "source_count": 2,
+        "sources": [
+          "新浪财经",
+          "海外媒体"
+        ],
+        "score": 7.21,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "[中国电影报道]电影《梦寻苏毗女儿国》北京首映",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UOWZheEdSd2drOHlUNWc0djk1VE4tcFcwMzZnNk1semtXTHdDS0pSWXZMSHlBeDN4ZjBOOXF5ZXJjeWZVc1hxMnZvWjZCX1BkZGZtZGlWU3hDQmZQVFZRdVowTEdLX2tjZHZrRWg3Snk2bHozU3c?oc=5",
+        "source": "央视网",
+        "published": "2026-11-23T14:54:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "央视网"
+        ],
+        "score": 6.093,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "电视剧这一秒过火 好演员相辅相成 戏张力过瘾",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wU0Y3RDZIeVR5emFGSk5YZlFmTTZEQ0U5YW5xR083b3Z2VnBtVHdfRGEtRlFqTFllTDlfYmRWVGxFZnBVOFBma1lwSmtoMm1SVWlpaFRrMnJlbW0zOGtZQmFVTWtpTzFlWDI1TzBXOG41NzA?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-23T20:04:17+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 6.068,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      },
+      {
+        "title": "“心态崩了！”女演员自曝在美国又被偷家了",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN2hvLWtlNVlObk9IVlBCa25vUnNrclZfRTBlZXkxTm83SkpMM0RQWTRmbXJ1aXpIelZ0NVp1ZVFfWV91M1VrUGN4OGd2dTcwbFRCRUk1V0JNcVc1bWl1MTV1LW9Ic1hPMG9XSGVsOWZHdDUwY0hnQnhBc1VZUDkxU1dxUQ?oc=5",
+        "source": "新浪财经_金融信息服务商",
+        "published": "2026-11-23T14:46:54+00:00",
+        "source_count": 2,
+        "sources": [
+          "上观新闻",
+          "新浪财经_金融信息服务商"
+        ],
+        "score": 6.001,
+        "topic": "明星动态",
+        "editorial_reference": false
+      },
+      {
+        "title": "[中国电影报道]电影频道融媒体举办电影《马兰花开的声音》全国首映礼直播",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jald2WEh5c1R2SFh6cnVDdXh1YlBlVnhxZ2lLdXV0aVZvNlhMY3dZVi1CTXAtbW10OHpydV9mazIzUnp5MmxnOWdWbzhZX0hUZGwzQUVwd25hRjMySlRieXNrZWZjVVJJR0twUWFad2UwbUE5Znc?oc=5",
+        "source": "央视网",
+        "published": "2026-11-23T14:54:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "央视网"
+        ],
+        "score": 5.973,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "#电视剧繁华似锦 “我不相信王子和灰姑娘的故事”“你不用相信，我会在你身后追着你”#张雨绮 #高伟光 #电视剧繁华似锦定档0625",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObHRrdGdfQXduQjNZZExGWi11dXl3NXYxdHE0Z25vV0o1OGdCZW94azZxZFhsM19yZ2wxM2pEa1pSRlg2QXhzR0lhNzJ4WUhnMi0zLVNtWlE3Zlc2dl9xZUZoT0JaQzZjMFlWUER5MGpYWUtrYnJMcVBFZDVSeWpORndVamhRR1V6Ml9GSg?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-23T07:21:47+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 5.693,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      },
+      {
+        "title": "东湖有理丨专访第39届中国电影金鸡奖最佳女配角兰西雅- 湖北日报新闻客户端",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RZ19MVDZvTjdaM1VFV3VOejJjcm5Ra3lhYU1iVEhpYjJObmlSUFEzclJTVnViZlJINEtCZUY2VnNTa1BPWkVYa1hxeUQ1YUM0WkNQejBkaXM?oc=5",
+        "source": "湖北日报传媒集团",
+        "published": "2026-11-23T07:50:52+00:00",
+        "source_count": 1,
+        "sources": [
+          "湖北日报传媒集团"
+        ],
+        "score": 5.96,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "张新成在演唱会上感谢粉丝时说了什么？",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVjFqcF9VaTZWZHBJTk5IUXlHVXBCV24zMmF6c0hzZTNXVWZXZUJrUGFCdXhQSzVqcFY5QUFPYTJkX04taENzVzMwTEFzWUpjS2RyOU1BWDc0c3RyUTFINDg0anZic25Fd0NKRUhRby04U3NhV2hUcE52N3daSUdCcWx0SmQ2MEpzeGh1ODNodlJHQWVXR1NFMllqaGFxcENybUZQclo0V1V3VzRTTTdBcw?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-23T20:33:14+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.835,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "浙江电视牡丹奖揭晓，太平年拿下最佳电视剧，董勇张雪迎分获优秀男女演员",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SZzNzUGhzMlYzbjJYVXpPZU5lbmRGREpxNzR3Q3NQVHlWYjBGTXJQV2hXLXAtX1FLTmlQbkRPWW5WTVIwVV9meEV2NFgwOV9MMkJVYnFOdURMX1gzeXJQSWNCTE5lM3l1bkJWbGh0Smw3dw?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-23T06:29:26+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.68,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      }
+    ]
+  }
+}
