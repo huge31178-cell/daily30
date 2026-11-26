@@ -1,0 +1,460 @@
+{
+  "version": 3,
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T02:24:31.213760+00:00",
+  "generated_at_beijing": "2026-11-26 10:24",
+  "window_start": "2026-11-25 09:00",
+  "window_end": "2026-11-26 09:00",
+  "method": "精选日报重要性参考 + 新闻媒体独立报道 + 政策民生和重大事件优先 + 同题去重与领域均衡",
+  "warning": "个人新闻索引；相关媒体多并不代表事实已独立核实。精选日报只作排名参考，不会直接复制其全部新闻。",
+  "reference": {
+    "available": true,
+    "source": "每天60秒读懂世界",
+    "date": "2026-11-26",
+    "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDE4NDQ0Nw==&mid=2247499066&idx=1&sn=6400f2723a27a8154481c2a4f09426c7&chksm=c0c3ec6f047444e571ac9d69c834156cd97740c076cea73f8702dfed9a28d0cdb853246f6352#rd",
+    "matching_articles": 3
+  },
+  "stats": {
+    "cn": {
+      "candidate_count": 323,
+      "feeds_available": 10,
+      "feed_count": 10,
+      "publishers_seen": 106,
+      "events_found": 287,
+      "selected_count": 10
+    },
+    "world": {
+      "candidate_count": 320,
+      "feeds_available": 10,
+      "feed_count": 10,
+      "publishers_seen": 78,
+      "events_found": 208,
+      "selected_count": 10
+    },
+    "ent": {
+      "candidate_count": 119,
+      "feeds_available": 7,
+      "feed_count": 7,
+      "publishers_seen": 18,
+      "events_found": 92,
+      "selected_count": 10
+    }
+  },
+  "source_errors": [],
+  "sections": {
+    "cn": [
+      {
+        "title": "外交部：关税战、贸易战不符合任何一方的利益",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdlBjdDBmNk8tRTh1dUxzM1hNMDI4VHhSNFQ3TnhLd0t1ZDRsQkNQWVNKdjgzOUdSVnBGVEJlLXhyWnYwVVVmMTRBSC1RT2VzMVdyckJVdWlKRlRqU1B5T01vamw3Y0VGRDNqYVZkTVBWZ0hyamNNYmFRM3pWZ09TTmZaQUhmc1kyVkRVRGpPSQ?oc=5",
+        "source": "21财经",
+        "published": "2026-11-25T09:17:00+00:00",
+        "source_count": 3,
+        "sources": [
+          "21财经",
+          "中国新闻网",
+          "财新"
+        ],
+        "score": 10.047,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "美联储“褐皮书”显示美国物价整体温和上涨",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5NeWoteDBkSDNrRHVWZFJiV0VwU0dfX2htN0pmS0xRSEY3ZHVRa2w1QkRVSS1qOFduR3VjaC1XWmtTUjhYWTJ4WWxUUDlfWjZSN1FZeFU0OG5ISGRn?oc=5",
+        "source": "网易新闻客户端",
+        "published": "2026-11-25T23:44:00+00:00",
+        "source_count": 3,
+        "sources": [
+          "中国日报",
+          "海外媒体",
+          "网易新闻客户端"
+        ],
+        "score": 8.882,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "划重点！社保基金迎监管新规",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTnhtN29remtwVDdCT1N3VWJ6dkdicjk2OWY4OWxKbW1nS3dFQjFabVI0LVppejJ1dlpkeGlvanZucXpzUDFfakNkLUlYNWhpQUlHRVZReW5iLXFOeHJVWFhiMUF6WFgybW9IY0I1RG9ReVI5T191VjZOa2pKcWZzMGYtU2hRejJMbmp5eDhFYw?oc=5",
+        "source": "21财经",
+        "published": "2026-11-25T07:17:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "21财经"
+        ],
+        "score": 7.792,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "医保上线新功能参保人可便捷查询个人用药情况",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB6X1ZkcTgxOGlVYm1lUkFCaVlFX1lfdm10SzhVTlNwTHRwTU0wSGNTdE5vWDhBVjB5MVM5M1lFN2xabFl4TVpNSFl0a0Y1c1d3aGR1b3R5ZTctUXBqZE85WkFB?oc=5",
+        "source": "观点网",
+        "published": "2026-11-26T00:18:09+00:00",
+        "source_count": 2,
+        "sources": [
+          "新京报",
+          "观点网"
+        ],
+        "score": 7.53,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "美国将对中国商品加征关税，外交部：反对借“产能过剩”搞政治操弄",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xc1FTRXU3OEJPSjdwaWd2UHNTTGphX001UVFGZ0Frc21qNzloM1MwT0twYlZoMGZiY3Y0NWIxQ3RSUVJfZzJsMkg4anpaY1EzR3A4VVVLSFZOYmZ4d1FlbQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-25T09:01:49+00:00",
+        "source_count": 2,
+        "sources": [
+          "华尔街见闻",
+          "海外媒体"
+        ],
+        "score": 7.317,
+        "topic": "政策政务",
+        "editorial_reference": false
+      },
+      {
+        "title": "美国10月核心PCE物价指数年率3.3% 略高于预期",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPX0NFRHdBSGRJWTBsWV9qajdWOVMzUklBdk1Oa1NfejRXTkJZdm5lUzJkUUEzUkFlb3pEOVMzc3V0Q1hUTGptWEJCUDdxSmF1VzY5YUtsS3RudjBsWEVVOG9ubDczR2pWQ2Ezbmw4aVRPdDlwLVl5RDF2N2NJWnJDaQ?oc=5",
+        "source": "新浪财经",
+        "published": "2026-11-25T13:47:56+00:00",
+        "source_count": 2,
+        "sources": [
+          "东方财富网",
+          "新浪财经"
+        ],
+        "score": 7.087,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "专家学者齐聚广州共探人工智能与硬科技产业协同",
+        "url": "https://www.chinanews.com.cn/cj/2026/11-25/10737820.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-25T13:45:07+00:00",
+        "source_count": 2,
+        "sources": [
+          "中国新闻网",
+          "广州日报新花城"
+        ],
+        "score": 6.076,
+        "topic": "科技产业",
+        "editorial_reference": false
+      },
+      {
+        "title": "中国牵头推动全球首个生成式人工智能治理国际标准提案",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0wY3lyUWZMQ2hjVWhsVGVNa09UdXRmS1puQ2xtc2lUcF9RX0Z5dFpPV0tkWlJpcFBHV2gxelg2X3FzLXY2NmVDWG02ZG4xZm03QzNFSFRVbmEtWGtsZWpMOERKQzE2Z0xjcXBNWGNNdThHNHVkcjBFTGNORVdKR2s?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-25T07:32:43+00:00",
+        "source_count": 2,
+        "sources": [
+          "央视网",
+          "手机新浪网"
+        ],
+        "score": 5.833,
+        "topic": "科技产业",
+        "editorial_reference": false
+      },
+      {
+        "title": "新一轮冷空气将影响北方地区",
+        "url": "https://www.chinanews.com.cn/sh/2026/11-26/10737880.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-26T00:01:45+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 5.613,
+        "topic": "其他要闻",
+        "editorial_reference": true
+      },
+      {
+        "title": "贷款市场报价利率保持稳定",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42NnY2MGpVQkRSZEVpOGdjTnhKZmU2dFJtTzFqamlRaUlCc3hqVWM1cmRiNVRZcmJBVDFJTWFCQWR4aXh0S1NPa0pZRUJxczR1RjJqbWxwVlB5RFJIejJNaGdMaHM4NVpIZDlj?oc=5",
+        "source": "中国经济网",
+        "published": "2026-11-25T22:31:27+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国经济网"
+        ],
+        "score": 5.564,
+        "topic": "其他要闻",
+        "editorial_reference": false
+      }
+    ],
+    "world": [
+      {
+        "title": "丁薛祥会见荷兰外交大臣贝伦德森",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9taTJobVBmT2FkcC1FeFNWMTRCVDBfcG5reUM2dXFseDFhZTM0eGVaUFV4R1lIVlZZQXV0YW9HX2h5N1lrd0tmdGkwNFBMeHlZcnMxaldtNngtdkgtX3R1WE1SRXdaMG5oOWxBU0tfUUFYZmFLVFJwUTVHZW9fZWM?oc=5",
+        "source": "人民日报",
+        "published": "2026-11-25T21:57:27+00:00",
+        "source_count": 4,
+        "sources": [
+          "上观新闻",
+          "中华人民共和国外交部",
+          "中国新闻网",
+          "人民日报"
+        ],
+        "score": 10.056,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "美联储12月加息25个基点的概率为97.2%",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00UFJkV3FIV2hKSkV2SHhlQklUUkdYSjFROFFZVllYcDlialQxS0tfc3oyZ25OVHc1Q1NmOWZrRWtEZm1DYjdjZW5hZjNjeFhpTjBHVDFLd3hGc1hGSEE?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-25T23:39:15+00:00",
+        "source_count": 2,
+        "sources": [
+          "手机新浪网",
+          "海外媒体"
+        ],
+        "score": 9.087,
+        "topic": "国际经济",
+        "editorial_reference": true
+      },
+      {
+        "title": "瑞士：对朝鲜关闭瑞士驻平壤外交办事处表示遗憾",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfYTJGUTNHMnZ2SHpXSmNUTUlLMS1hZ2EwS0lxQUswWUs4bWc5cW1iUktiWHFWWm81YVlUT2QyNVd2cFJNUHhyVFAwQUM1MEtSS0VsTVVjbEJWZXpEam5oOFR4dVk?oc=5",
+        "source": "新京报",
+        "published": "2026-11-25T23:19:00+00:00",
+        "source_count": 3,
+        "sources": [
+          "手机新浪网",
+          "新京报",
+          "海外媒体"
+        ],
+        "score": 8.525,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "朝鲜驱逐瑞士外交办事处代表",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-25/10737612.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-25T08:49:43+00:00",
+        "source_count": 3,
+        "sources": [
+          "中国新闻网",
+          "新浪新闻_手机新浪网",
+          "海外媒体"
+        ],
+        "score": 8.467,
+        "topic": "国际政治",
+        "editorial_reference": false
+      },
+      {
+        "title": "也门战争：联合国紧急援助负责人呼吁允许进入受战火影响的社区",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1MTk9ycmZEWUJVYVRuT25SUEdFYzNlTDhJLXMwQS03T21INlZhOERyNS1yTkFoeEN4NmZwMV9OZTN4OVJvNjQ3V0hPbERjcnc3MjBNLVBfTQ?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-25T15:38:31+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 7.654,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "曝美拟对中国额外加征20%关税 谈判筹码升级",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiN2VCcUZLZmlObHBhSHVqUDQ1Ym1uWkVsZkVyWlRFX2M0Q3VoRVAtNkxXQjFXTDI3MDQ5MGFSTmNWRjdKMGNaVFQwdEd4dm1ya2U5YjMzQTdYSWlZcUlYZlJLZVcxX3F5a2xKSkhXQjI?oc=5",
+        "source": "中华军事",
+        "published": "2026-11-25T23:35:29+00:00",
+        "source_count": 1,
+        "sources": [
+          "中华军事"
+        ],
+        "score": 7.209,
+        "topic": "国际经济",
+        "editorial_reference": false
+      },
+      {
+        "title": "俄乌冲突进入新阶段：战火外溢背后，乌克兰在争取什么",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XZVY5ZDF5ZW9PRTdvYkdhX21SR2h1U3F5dVBjWHNBQ0dtU3FYanNoMkVUcnFrRXFGNU92c01UYmRScHI3dkRfM0VIbXNZbmxsQm54RE10M2k5UXFw?oc=5",
+        "source": "网易新闻客户端",
+        "published": "2026-11-25T04:09:00+00:00",
+        "source_count": 2,
+        "sources": [
+          "海外媒体",
+          "网易新闻客户端"
+        ],
+        "score": 7.196,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "美国PCE加速升温、GDP增长大超预期！美联储12月加息已成定局-市场参考",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kaXMwTWg4YlVfN1Q1OXNTX092VTVFTEFHUk5aOGZpZ3QweVZDbjl2YVExS29zWVg3YnVhZC03bDdYZy1qaGVRTkFiWmVHMms?oc=5",
+        "source": "金十数据",
+        "published": "2026-11-25T19:02:56+00:00",
+        "source_count": 1,
+        "sources": [
+          "金十数据"
+        ],
+        "score": 7.17,
+        "topic": "国际经济",
+        "editorial_reference": true
+      },
+      {
+        "title": "伊朗为何会爆发全国性能源危机 战争与内因交织影响",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42SzRYUTRSSEYzazZQYUVZdXZuV29HQi1odjUyUndPdTNnRHpkVVpOb0RXWlQtdTBQRm9yeFpLYXlrMFFoUjRkMWN6ZnpPeS1RYzF2eUNIR1hwYXNBanJrTmxOeVJJV1VCbDEtXzFPWGM?oc=5",
+        "source": "中华军事",
+        "published": "2026-11-25T01:19:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "中华军事"
+        ],
+        "score": 7.155,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "16年首次！气候大会谈崩，欧盟拒绝签字，冯德莱恩还想逼中国减排",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeWlPY09vOVRrNy1JSVQzYWtHVkQtTkFmd3JCZ0g2c3hYT1RvR3RYTzFUNWVjLVBEemtlcW1kdmVPU0hYWXdqOGNwa1FJc1djWTBnbjM4RVQ1UDVjSldFbGVyT0EtT3hlMG40V1p1RGxRano4bGc2ZkEtSDBpT0txTkQ4dkFiQzJ5Rm5rYg?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-25T08:42:45+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 6.242,
+        "topic": "全球社会",
+        "editorial_reference": false
+      }
+    ],
+    "ent": [
+      {
+        "title": "王一博多部作品获奖提名，青年演员成绩斐然",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ITHJQa0tBSlNwdXREbmR6UW9YWjA1QVhiTlY1cjF2ckQyai1lVmtUSnZOdDZETGJVMS16bVhIazdyNl93T2MzZUN5Q1FsbmxPTHJZTm5LSUJDRm5sVHMtMHZfRlkzWU93OTY3T0dGYjF2NTQ?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-26T00:28:15+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 6.112,
+        "topic": "明星动态",
+        "editorial_reference": false
+      },
+      {
+        "title": "侯明昊演唱会想看人数达91万，粉丝已握27号票",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VLWdlSzd0UXVOa2kwMW96VENfVC1OdEFleXcyelRxWnkxcHRXSFhjRUV2dTd5cmRURFJZYUFySS15RVItSU03WG1Xc0dHSFBIOXlRNGVKZTR2N1NSZjRsc0dIckVQZUdKZXdfYnFBSDNrNTA?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-25T10:55:17+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.695,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "不止好莱坞，各国电影票房TOP1盘点",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mZTJjbzEycjViVmlGbnN3d29SV3ZwVTVUQ21DTGpVcW93anU1VHQtZHNkSV82M0dpZkZ5cjdoV3BZeUktV1JSRWRJSXE0dE1Yd3FnVHZTMHJQY3I1TXh2MXhBUDh0ZDBqS25OZHlpZ1ktUm8?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-25T01:02:42+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.601,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "沧州职业技术学院学生参演电视剧《伟大的长征》",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAteml3YnNoek9TTHhiWE4tWXg2d1owZTFLbnJyaVlQWHdmMW92NHJ5YkNnSzdzVzcwR2NibjFENlhaU2V0SzFhUDBxRGJEVlNueUk1UkNVTGdRTFRYWkNlZnFEaEhMQWNKM1RSNGFXdTV0RGRjVXJBVA?oc=5",
+        "source": "新浪财经_金融信息服务商",
+        "published": "2026-11-25T23:34:50+00:00",
+        "source_count": 1,
+        "sources": [
+          "新浪财经_金融信息服务商"
+        ],
+        "score": 5.189,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      },
+      {
+        "title": "十档AI综艺集中亮相浙江卫视2027片单|奔跑吧|天赐的声音|人工智能|工作室|节目_手机新浪网",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV1JqX3M4VTFBUUxpU29UZTNqUDFoZ0hGMGlfZHNoVERwM1Nza0g5R09CNmJyVVF5bm43RWRnTGY4V2o2SVFRa09iMlRURG92MjBGTnBDek5XZ2hRR1R0Vkw0dS1SdTZLendPRVZ2b0NuNmFjaVZjbXFJSVZTc1lDTzd5WTVERk9mSFdN?oc=5",
+        "source": "新浪财经_金融信息服务商",
+        "published": "2026-11-25T16:48:59+00:00",
+        "source_count": 1,
+        "sources": [
+          "新浪财经_金融信息服务商"
+        ],
+        "score": 5.061,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      },
+      {
+        "title": "当演唱会的边界，被一座乐园打开",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOXzFCUFRTOHFmQ1BnRHIwN0JVeHJGOHJPcy1faWhSVVlOVHBuWW1tYW9fcmZ3V3FLWFhOcy1Bb2NnamdCTFkwQ0ljSmlrdHUzd2I2cHVZVXJVMjhIeVVQUllZRjMwZlZGMklFemRYNmJ1akRGWGJjWGRyZjJtRWlGeXVObw?oc=5",
+        "source": "新浪财经_金融信息服务商",
+        "published": "2026-11-25T12:22:28+00:00",
+        "source_count": 1,
+        "sources": [
+          "新浪财经_金融信息服务商"
+        ],
+        "score": 4.976,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "90后青年演员把评弹演出送到康养社区",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93aHJ6ZVFVbDVNQ1dBOXEyckV5M1I5TTlMUG5MN2kySG41X1hRTUlnMFAwaG9ac3dtcnZEWTZnS1M2SGxMQkoxaWE3RnZrbmtzbHVVV3l4eld2UThxcVljWjRsekRFR0ZVTmVxMmx2V3duUUhSLUxRaHZ3?oc=5",
+        "source": "紫牛新闻",
+        "published": "2026-11-26T00:03:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "紫牛新闻"
+        ],
+        "score": 4.616,
+        "topic": "明星动态",
+        "editorial_reference": false
+      },
+      {
+        "title": "一碗凉茶喻广府家事：电影《二十四味》在广州推介",
+        "url": "https://www.chinanews.com.cn/cul/2026/11-25/10737831.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-25T13:53:12+00:00",
+        "source_count": 1,
+        "sources": [
+          "中国新闻网"
+        ],
+        "score": 4.178,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "胡彦斌郑州演唱会三开",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwTlZxejRIYnRlNDBYUUUwamU4dHBwdzROa1NmbGd1WXJpWDNaWkttM3B4Rm4wZU9xNzlfM3YwSG9xbnlVY1FyQS03dnhaUkhtTkpRbHR3a1ZMYTMxb0xzRjZ1bGdPVVV3VG1ETnJ3ZFZjWkU?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-26T00:53:04+00:00",
+        "source_count": 1,
+        "sources": [
+          "手机新浪网"
+        ],
+        "score": 5.178,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "浙江卫视发布2027片单，十档AI综艺集中亮相",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZFJka1ZYem9LT1JWT2Z3cHFJLUc4Y2dReTNNNHlIb080Z09wckRBNU1yTy1zalNqLTk5SjJsT0lodUQxU091eDEzdjNLdE1GX01zcUJDUmY3QlptR3dxcVE4RmpUeFZCZ2libzBjanhJOXh3ZGd3RlEzRDZBLXUwMTRSSQ?oc=5",
+        "source": "新浪财经_金融信息服务商",
+        "published": "2026-11-25T08:59:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "新浪财经_金融信息服务商"
+        ],
+        "score": 4.926,
+        "topic": "剧集与综艺",
+        "editorial_reference": false
+      }
+    ]
+  }
+}
