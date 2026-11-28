@@ -1,42 +1,42 @@
 {
   "version": 3,
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T02:25:56.843317+00:00",
-  "generated_at_beijing": "2026-11-27 10:25",
-  "window_start": "2026-11-26 09:00",
-  "window_end": "2026-11-27 09:00",
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T02:21:55.792892+00:00",
+  "generated_at_beijing": "2026-11-28 10:21",
+  "window_start": "2026-11-27 09:00",
+  "window_end": "2026-11-28 09:00",
   "method": "精选日报重要性参考 + 新闻媒体独立报道 + 政策民生和重大事件优先 + 同题去重与领域均衡",
   "warning": "个人新闻索引；相关媒体多并不代表事实已独立核实。精选日报只作排名参考，不会直接复制其全部新闻。",
   "reference": {
     "available": true,
     "source": "每天60秒读懂世界",
-    "date": "2026-11-27",
-    "url": "https://mp.weixin.qq.com/s?__biz=MzkyNDE4NDQ0Nw==&mid=2247499067&idx=1&sn=cd6d0522c8559304181d05a2ac6ffee9&chksm=c0d32713ffe6189901069ef6d25c63de28f3ee9e85114f45451a680fd46cbbfe8f4f426da684#rd",
-    "matching_articles": 6
+    "date": "2026-11-28",
+    "url": "https://mp.weixin.qq.com/s/2EOASi2txNvBXhf3UlW1ZA",
+    "matching_articles": 5
   },
   "stats": {
     "cn": {
-      "candidate_count": 322,
+      "candidate_count": 411,
       "feeds_available": 10,
       "feed_count": 10,
-      "publishers_seen": 113,
-      "events_found": 290,
+      "publishers_seen": 118,
+      "events_found": 360,
       "selected_count": 10
     },
     "world": {
-      "candidate_count": 306,
+      "candidate_count": 287,
       "feeds_available": 10,
       "feed_count": 10,
-      "publishers_seen": 82,
-      "events_found": 207,
+      "publishers_seen": 91,
+      "events_found": 196,
       "selected_count": 10
     },
     "ent": {
-      "candidate_count": 164,
+      "candidate_count": 168,
       "feeds_available": 7,
       "feed_count": 7,
-      "publishers_seen": 26,
-      "events_found": 109,
+      "publishers_seen": 24,
+      "events_found": 115,
       "selected_count": 10
     }
   },
@@ -44,417 +44,417 @@
   "sections": {
     "cn": [
       {
-        "title": "医保上线新功能 参保人可便捷查询个人用药情况",
-        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mUTVxckx2WTcxRC1rTi1lcnBqOVJOcjRLTy1FaFFDQW5mb0s4YVlUSXVBWVFXekMtbUszNUJPTTdzLXVKT0VUZmlvYzZubDRpT1BYZVRmTkMwelpJUDJsVmp5QWxkRkpUZy1oUjJ4WXM?oc=5",
-        "source": "中国科技网",
-        "published": "2026-11-26T05:20:28+00:00",
-        "source_count": 3,
-        "sources": [
-          "中国科技网",
-          "新华网",
-          "海外媒体"
-        ],
-        "score": 12.643,
-        "topic": "经济民生",
-        "editorial_reference": true
-      },
-      {
-        "title": "北京对重点群体给予社保补贴 个人缴费享25%补贴",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ET2V5U29ja3dyX2ZTWjdYal9xZk4yXzhCTGtZbVFTem81a0t2NmZSb0tMbHQxdVZqNXhpOFRCN19yMlU1ekFyNHI4M3FtdXpMa0Q5bWU4YlZPUEh1ZWFQQncwYmlvYkg0?oc=5",
-        "source": "中国新闻网",
-        "published": "2026-11-26T12:20:47+00:00",
-        "source_count": 1,
-        "sources": [
-          "中国新闻网"
-        ],
-        "score": 9.415,
-        "topic": "经济民生",
-        "editorial_reference": true
-      },
-      {
-        "title": "[午夜新闻]国家医保局 医保新功能上线 便捷查询个人用药情况",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9sa1VqQVA2M2NmTklzOVV0VmUxSDhsTnMtRnJ4aVVucWZuajloM2JFRDFnUnNOQnp0N1BoakhTWHRselZ2d1BCckx2LUtJR2Z1RW5QWEdvUnZEM2VqM2xhNUgwWFZBSzV0Qmd2dWVjSXgzbnNsNVE?oc=5",
-        "source": "央视网",
-        "published": "2026-11-26T16:52:00+00:00",
+        "title": "事关存贷款利率，央行最新发布！",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHRDVCTFA2WUUxV1RvbExhdEVMNG5INTB5UXJwODI4OTlNdWxEc05BUXRaQWk0ZzlUT0JVRW1lQ3pSUkZmeEpPS29OWUktbWlJNUR2ZW05SEhSaE9Sc1ZQdg?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-27T23:42:00+00:00",
         "source_count": 2,
         "sources": [
-          "央视网",
-          "海外媒体"
+          "海外媒体",
+          "经济频道"
         ],
-        "score": 9.4,
-        "topic": "经济民生",
+        "score": 12.321,
+        "topic": "政策政务",
         "editorial_reference": true
       },
       {
-        "title": "省十四届人大常委会第三十次会议闭幕",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhQzg1YXlRMzg2czRHYVJ1VHVTV0FjNVBKVVlhTjN2al8tWURCV1d0bloxb3pLb1dwUG1tdTBGd2FWRzE1VEo0cklfMnhFeXY3SnRITi1PN2Z3RVQxam1VVWQ2UXNnUzNtR3c?oc=5",
-        "source": "四川日报",
-        "published": "2026-11-26T22:04:11+00:00",
+        "title": "央行发布人民币存贷款利率管理新规：取消贷款罚息利率的上下限",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAySTM5NkVWb2tUQnBQWi05Mkw0SEJDS3FlbmdHMGdERXQyVWlRMjBzNThLdkFCWm5Bb2s4cS1ReTNxaGVHbHNhQmdoSlNPMFNIcjlvWWEzMVJBZ3VkU0tMRw?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-27T13:38:06+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 11.464,
+        "topic": "政策政务",
+        "editorial_reference": true
+      },
+      {
+        "title": "官方通报“济南医保主播言语失当”",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCNllaU05JOWtHd0xEbWR4eG8zMEtWTXJTaFJUS01BcEV2VnRsbm5UYjd2OUxmd09mejdSal9RRWFfU1BlcTB3S19vZFdBQTdPSjlOeFlnamI5LUY4Y29SaVZJTzBMUQ?oc=5",
+        "source": "每日经济新闻",
+        "published": "2026-11-27T11:42:00+00:00",
+        "source_count": 5,
+        "sources": [
+          "新浪新闻",
+          "新浪新闻_手机新浪网",
+          "新浪财经",
+          "每日经济新闻",
+          "海外媒体"
+        ],
+        "score": 10.39,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "视频 | 国务院常务会议：加力发挥“国家队”稳市作用",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jZU5ZVFRTLUl6UmNNaWFzMmw5V1FfNnViVlBIbjU2SVVIaXdvemd6TFgzajJUek1ZNGg4OVJGMUdTenJRMzZobHZJWmhiXzdtZENjOU0tZVZYcGNBODc0OGhqbw?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-27T13:08:57+00:00",
         "source_count": 4,
         "sources": [
-          "吉林省人民政府",
-          "四川日报",
-          "川观新闻",
+          "上观新闻",
+          "人民日报",
           "海外媒体"
         ],
-        "score": 8.277,
-        "topic": "其他要闻",
-        "editorial_reference": false
-      },
-      {
-        "title": "东京通胀加速 日本央行警惕物价压力",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NdXJKNFQxTmctRlRPOW5EM2ViUHlqd1AyNUFIR0FYejF3R0xwblRKYzdIUjk4bzhWMk5vVWtxNk9aRnJSOUJOckpCN3JzUF9lWUVIc1c3YWliUVpsSVptOFFVa3NTTmd6UzE2aUpSRFpzOGk5TGZlbWl3?oc=5",
-        "source": "新浪财经",
-        "published": "2026-11-26T23:41:49+00:00",
-        "source_count": 1,
-        "sources": [
-          "新浪财经"
-        ],
-        "score": 8.141,
+        "score": 10.651,
         "topic": "政策政务",
         "editorial_reference": false
       },
       {
-        "title": "韩国央行将基准利率上调至3.25%",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738071.shtml",
+        "title": "最高法：保障超龄劳动者的最低工资",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLTJtTUlJbXg5QU5Ca1BIZVktRkh1S3JsQUNybG5xWklWODdGRHNzYkV3cnFKU2cyb21WRlByTjhtVUVCMWtZM3RJaFJ2d25ubkFEMTJMVU5faVkxNGpNT256aWRZNXZqRE1fNEczZl9PTjdkY2E0cGVER0lIWUNBOXIwMzZ6RjljRnNaa1Jtaw?oc=5",
+        "source": "21财经",
+        "published": "2026-11-27T12:28:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "21财经"
+        ],
+        "score": 8.117,
+        "topic": "经济民生",
+        "editorial_reference": false
+      },
+      {
+        "title": "国务院任免国家工作人员",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738648.shtml",
         "source": "中国新闻网",
-        "published": "2026-11-26T07:02:26+00:00",
-        "source_count": 1,
+        "published": "2026-11-27T04:16:25+00:00",
+        "source_count": 3,
         "sources": [
-          "中国新闻网"
+          "中国共产党员网",
+          "中国新闻网",
+          "新浪新闻"
         ],
-        "score": 8.018,
+        "score": 9.201,
         "topic": "政策政务",
         "editorial_reference": false
       },
       {
-        "title": "《国际科技创新中心指数2026》发布，北京首次跃升全球第二",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QTE5zRnNmcVl1eWRTVTFZZmZfQXpQT2JJVV9qNDNsMmJqLTJOdUdnLUlPOVlfWHlqNUpSeUhUOVZzOV90S3EwRnBLWnhCdDM1aUpuck5qNmlmRVEyYjJ6dkxyUkQ?oc=5",
-        "source": "新京报",
-        "published": "2026-11-26T10:16:00+00:00",
-        "source_count": 1,
-        "sources": [
-          "新京报"
-        ],
-        "score": 6.835,
-        "topic": "科技产业",
-        "editorial_reference": true
-      },
-      {
-        "title": "2026年11月26日外交部发言人郭嘉昆主持例行记者会_中华人民共和国外交部",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5nbWdPUURQaHI2cklKTWRUdHBSbjJ0QnNyWGJHVGxtM1hyTFBoZVk3UEt1UGVkNnNTdzRWNXd1SnI3SHIzVjEzaFBQM2trM0ZmdVJMWTAtTXZ5RGRaY3hScHEzVjNFQWdydVNxSFlkQ1U4OFJPSEE?oc=5",
-        "source": "中华人民共和国外交部",
-        "published": "2026-11-26T11:35:00+00:00",
+        "title": "吃过啥药、谁家药便宜一查便知！最全医保上新功能使用手册来了",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-28/10739098.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-27T22:57:07+00:00",
         "source_count": 2,
         "sources": [
-          "中华人民共和国外交部",
-          "驻洛杉矶总领事馆"
+          "中国新闻网",
+          "京报网"
         ],
-        "score": 7.574,
-        "topic": "政策政务",
+        "score": 7.54,
+        "topic": "经济民生",
         "editorial_reference": false
       },
       {
-        "title": "新闻8点见丨北京对重点群体给予社保补贴；U17男足世界杯中国队晋级淘汰赛",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hTUdhVldjNmtfZW9jZFE5RWRBR05ZcFlZd0pTNHVpMFFub1NqMEdEV1kxYXM2R1kwUndrZzVienZuLURyclB2Z3hFNXZfXzJLalBndk1UOUtYUjRtcEl5REFGR3A?oc=5",
-        "source": "新京报",
-        "published": "2026-11-26T23:56:00+00:00",
-        "source_count": 1,
+        "title": "定了！吉林省十四届人大六次会议于2027年1月下旬召开",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MZlBEeDFQSUVTd29Vd2RCZnk3RFNXU2txdGh0ZFptdnNUZHc4a3p2ajlkTlVubC1IV0laS2hHeXRJSUNHTWxrSHNSbXlDVDNLbmtVUTdxZU5XNzRyWUpXVGdoTFJsQUtLQ3NR?oc=5",
+        "source": "吉林新闻",
+        "published": "2026-11-28T00:27:00+00:00",
+        "source_count": 2,
         "sources": [
-          "新京报"
+          "21财经",
+          "吉林新闻"
         ],
-        "score": 8.124,
-        "topic": "经济民生",
+        "score": 6.579,
+        "topic": "其他要闻",
         "editorial_reference": true
       },
       {
-        "title": "美国批准马斯克旗下公司部署百万卫星 建太空数据中心",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-26/10738140.shtml",
+        "title": "央行：个人投资人认购大额存单起点金额修改为不低于10万元",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9peVdWX18zLU1PNkxMZER4VkVQUlJyZHdqVkhjdmYtWGxESEtzZGt4YkhOSXduYUlkV2dDSUEzc0lBS0Qydy1SR3AtNkYxNWhuMi1rcjRDU0xxQWNUNV9fLQ?oc=5",
+        "source": "东方财富",
+        "published": "2026-11-27T10:23:56+00:00",
+        "source_count": 1,
+        "sources": [
+          "东方财富"
+        ],
+        "score": 8.244,
+        "topic": "政策政务",
+        "editorial_reference": true
+      },
+      {
+        "title": "最高法公开宣判利乐垄断后继民事诉讼两案 合计判赔4.92亿元",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738686.shtml",
         "source": "中国新闻网",
-        "published": "2026-11-26T08:06:01+00:00",
+        "published": "2026-11-27T06:14:22+00:00",
         "source_count": 1,
         "sources": [
           "中国新闻网"
         ],
-        "score": 6.593,
-        "topic": "科技产业",
-        "editorial_reference": true
+        "score": 5.866,
+        "topic": "其他要闻",
+        "editorial_reference": false
       }
     ],
     "world": [
       {
-        "title": "俄乌新一轮阵亡人员遗体交换在白俄罗斯进行",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RUkFMa0tZamJFUURjMnFCWVY5VVc2SFE5Zm8wQzE2TVI0cnB2S1lWa1A2RTdfckVRY2R1a1NVX3ZuVnRiS2lIM2xLREFNMUU2cXc5dURUSEdLVTNxenpKRkM5U3Z0Y3hweUllNFZ3bXV4OGRKeUJJVlBlZTU?oc=5",
-        "source": "中国日报网",
-        "published": "2026-11-26T14:09:00+00:00",
-        "source_count": 4,
+        "title": "乌外长强调无意将俄乌冲突扩至利比亚",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWHBhZ3M0Mk5BRXR5bnJQMTVhSjI3cGlZN0ppNW5WYlo0Q21Ecm5wTXN6ZWhJdnFjYTlWM1hMRmtEZ0g1cDE2SnJXZEZVdDFFelpTR0VSaWxYYWxKalRkTkFIYU40VHUzbm9JajNWY19DOVFLVUNmRmlMbE5sTXR1eUtOeUFaUjJiRnZzbFZWOVhlbXJN?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-27T03:38:00+00:00",
+        "source_count": 6,
         "sources": [
-          "中国日报网",
-          "中安在线",
-          "京报网",
+          "上观新闻",
+          "央视网",
+          "新浪新闻",
           "海外媒体"
         ],
-        "score": 10.782,
+        "score": 10.403,
         "topic": "冲突与安全",
         "editorial_reference": false
       },
       {
-        "title": "联合国贸发会议报告：2026年全球海运贸易量预计零增长",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc1VRT1hTT3BydkdkRGZSdF9ob2Facklmd2tPZ3BpeDFzYkFNbi00RjR5QzZxLWdqaDJWN0ZmZXkxTjc2ZXpoTXU5aXhOUklMMk10NVBiNFNVaXVPcXdPdDFnVkRud0VEOVV5MFRYU2hta3RyaHFWbk1hcGVfV0RKLWhTMzRQM1BXYzdoSA?oc=5",
-        "source": "海外媒体",
-        "published": "2026-11-26T23:16:00+00:00",
-        "source_count": 3,
+        "title": "联合国气候变化执行秘书西蒙·斯蒂尔：COP31谈判受挫令人失望，但全球气候行动不会停步_新浪财经",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLR3A4VUdZajU3MFZ2T1ZySUNoQzVHRFYxbjZxUnM4TzhsWjJ1bm5JZUY1RTNERFJfelVpTTZzaU4zQXlfMTN6SGVYc3hEbHduUmhhTWdOWXMzYUpabFE?oc=5",
+        "source": "同花顺财经",
+        "published": "2026-11-27T11:44:28+00:00",
+        "source_count": 1,
         "sources": [
-          "东方财富",
-          "海外媒体",
-          "腾讯新闻"
+          "同花顺财经"
         ],
-        "score": 10.629,
+        "score": 8.707,
         "topic": "国际政治",
         "editorial_reference": false
       },
       {
-        "title": "巴西副总统：美国对巴西加征新关税完全不合理",
-        "url": "https://www.chinanews.com.cn/gj/2026/11-27/10738476.shtml",
-        "source": "中国新闻网",
-        "published": "2026-11-26T22:57:06+00:00",
+        "title": "南非总统：对华出口零关税提升南非产品竞争力",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9HanFVSHdEWFFZUkV1SmpGSFlyV21GVnNLejMwVXFOalFHUFhYMTg4SHFUTnppWHFUa3FpY1JzOXh5UHdrZnhLTmFZeUJvN1VjcHpvRmlyZURrU0tvQ0NGamdrdVo?oc=5",
+        "source": "中新经纬",
+        "published": "2026-11-27T03:15:48+00:00",
         "source_count": 2,
         "sources": [
           "中国新闻网",
-          "新浪新闻"
+          "中新经纬"
         ],
-        "score": 9.3,
+        "score": 8.563,
         "topic": "国际政治",
         "editorial_reference": false
       },
       {
-        "title": "COP31安塔利亚气候大会谈判失败 未通过政治宣言",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wSTA5bGN1aWc4VEVaVXBaV1dkWXlUZGgtNVQ0bDZiUVdPQVZUYUtHVWxsek44XzYyQ0FYaEpaYzRFc0hUUGp4NWpzd3BaNGhDS2c?oc=5",
-        "source": "凤凰网",
-        "published": "2026-11-26T09:00:00+00:00",
-        "source_count": 1,
-        "sources": [
-          "凤凰网"
-        ],
-        "score": 8.617,
-        "topic": "全球社会",
-        "editorial_reference": false
-      },
-      {
-        "title": "商务部：坚决反对美对中国等经济体加征301关税",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvUGpGMDkyTW9tVkY2UkxFTC1ZMU82ZW55WkduSHVJbWk1R3YzbU4zbjI4elZWUnN1YXAxdkItOFg2eXpjaG5UN2I0MF9oT2RKWEhjM2NHblpXT09DdmhVZw?oc=5",
-        "source": "东方财富",
-        "published": "2026-11-26T23:27:54+00:00",
-        "source_count": 3,
-        "sources": [
-          "东方财富",
-          "天津日报",
-          "财新"
-        ],
-        "score": 8.488,
-        "topic": "国际经济",
-        "editorial_reference": false
-      },
-      {
-        "title": "乌克兰情报机构：俄罗斯和朝鲜外交现裂痕，朝鲜暂停向俄运送导弹",
-        "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNSUtNX0xQWVhkSmpjMWhnRkp1TEpza191RU41dGVWaUtaM0VMdkVhV2xFQXh3b0c4UWdOTTBRX0o5WDBTemlqMEExa05PRWk5c0U4NjJ2MmlZY3VVWTZicC1HTjdGc3JMaDYxblBvaWE0MEZWSzJQQ1I2VXRBdUphSmpiQW05MlpRUEt0MmktVFVNLUhCazFQNThjQ0hmOHRPTm0zX001UFlzdDBFeVBjNGktd2lic21UUS1zcy0xc1RpRHlnSnRNdVBGZFR6WE1BckNBYmkzODU4RjVEZnBmcXpFS3oxWGtkSjNsRFpZWVdXVG93MEo2WlAyQU10QnIwYU1vdVZXUk1NZElvLTRoRl95VXZNMHktSzJvRkRFbHNleEQ0b3hGOWRfdnlHalVId2JMcjFuc3ZCdHZnZnREZ2RhU29FQkJOLVV4SFlpekE2empzRmhUcjdPeXB0b0MzblFBX0xzMExycHZYSXFIQ2xrLUl5MVFaWXNkX1NDR0Vsd2x1aHpVWnZQa1d4eWgtLTczV0prVmdvNU1BMnNsU2FyOFl3LWxRS1BaZzFneFZsbHFUR0gtX3E5WnM?oc=5",
+        "title": "直击“史上最失败气候大会”：战争越来越多，还有人在乎全球变暖吗？",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIZ0FjMVM2NGdqd1Y3MUc4dlJ3TDNGVHZnV0lmRTN1cnpubUlLVU9SclRpSF9RU0lrZDJPRnRlU2dwcmtOYUduaFh3SlhVekJHVURvWml3?oc=5",
         "source": "海外媒体",
-        "published": "2026-11-26T23:48:00+00:00",
+        "published": "2026-11-27T02:48:00+00:00",
         "source_count": 1,
         "sources": [
           "海外媒体"
         ],
-        "score": 7.482,
+        "score": 8.526,
         "topic": "冲突与安全",
         "editorial_reference": false
       },
       {
-        "title": "美国拟征新关税 多数受影响方表遗憾但盼谈判解决",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1obnp6SUtneWJfLUE4OEtxT3E4ckE5ODBfUXZJSFpkNDQ3bkhIM1dFTXN5bEdkN282YUFrWjNXVVFBbFA3aXN6aEVVZU1RZEFmd0hfcGhXd1lGS2JVaUt0T3pUazk4bTRkWnFuYw?oc=5",
-        "source": "早晨报",
-        "published": "2026-11-26T23:36:00+00:00",
+        "title": "中华人民共和国国际贸易谈判副代表张力会见德国拜耳集团处方药事业部全球总裁斯蒂芬·奥尔里奇",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY21KYWZEM3YtNXh0QW5zQ25vZ0hoSnB5UW9xSmZkX1UyZnQzVmx3SVY0bG4zRkU4ZWJ1S3hlR2xDaEtzVkdnMVRrLXhVdzh2U3NrRjZuY2llNHliMFRpblhlQ0NnVkJocmRxRl83SkxrMHFKcDJlSDFqT1VLWHJ2d09JRUx4RG1E?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-27T11:00:00+00:00",
         "source_count": 1,
         "sources": [
-          "早晨报"
+          "海外媒体"
         ],
-        "score": 7.21,
+        "score": 7.026,
         "topic": "国际经济",
         "editorial_reference": false
       },
       {
-        "title": "土耳其球迷与格鲁吉亚警方发生冲突，欧联杯比赛引发外交争端",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GMlZpc0lNS0RvRUhmeWNoTk9sWHNkT0Q0WURIUmh6MDRzaF8yZjRMQ2M1RWhzUGhWSlhZVm1wbnBLdW1hSEFhYXp0Q2F3aHVvbWE4Z2Q4dWFJbTJJMXAtQ0I2MlRxUUEzVW1pNUlVN2VXOG8?oc=5",
-        "source": "观察者网",
-        "published": "2026-11-27T00:48:00+00:00",
+        "title": "科威特召见伊朗大使 抗议伊“持续袭击”",
+        "url": "https://www.chinanews.com.cn/gj/2026/11-28/10739097.shtml",
+        "source": "中国新闻网",
+        "published": "2026-11-27T22:46:38+00:00",
         "source_count": 1,
         "sources": [
-          "观察者网"
+          "中国新闻网"
         ],
-        "score": 7.517,
-        "topic": "国际政治",
-        "editorial_reference": false
-      },
-      {
-        "title": "感恩节重磅行情！全球股市大反攻、美元涨势暂停、贵金属分道扬镳中东突发袭击推高油价_金市直播",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BR2laRFFRZkhobUpuRmNFQXVFa2xQTnEzZUloLUtUU0N0VGV1M1VNeUJvWF9xbGdoSWVnS3NFTTE5UGFfeDBrbzRNVnN1MTJfUVNxMkFuZ0Z2RXdHSWFIM0ZmWUJqUVhV?oc=5",
-        "source": "黄金网",
-        "published": "2026-11-27T00:46:09+00:00",
-        "source_count": 1,
-        "sources": [
-          "黄金网"
-        ],
-        "score": 7.327,
+        "score": 7.638,
         "topic": "冲突与安全",
         "editorial_reference": false
       },
       {
-        "title": "美据报威胁对华征40%关税 以保留谈判筹码",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9jbF9yY05KVUVmTDV6ajhucldIQ1FnYkV6ZDZ6bnJNbGUtd1Z0N0pZUm1fbUgzWUJaMlpHSm1INzF4ZFQ4VmpLdmt0dl9reW50TEtZa2hCMUdwQUI1b29rY1RSUVFscFFZN3ZR?oc=5",
-        "source": "联合早报",
-        "published": "2026-11-26T06:37:19+00:00",
+        "title": "[天下财经]联合国贸发会议报告预计2026年全球海运贸易量将零增长",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBRT0xhbzB0LVN3Mm5OUHB0eDlXRzI5bGNtdEdJTFNqdUlSZ3BLWWtRWlJxcmx3T21TZXJHaEtmNl92cnk4TS1Pc1JkZ01TMDhiZEM4N2hRN0k3SGU4LXR0di1zWVJSY1pxQ2tCWmdYa2toaDAxYkE?oc=5",
+        "source": "央视网",
+        "published": "2026-11-27T04:48:00+00:00",
         "source_count": 1,
         "sources": [
-          "联合早报"
+          "央视网"
         ],
-        "score": 6.962,
+        "score": 7.551,
+        "topic": "国际政治",
+        "editorial_reference": true
+      },
+      {
+        "title": "商务部：坚决反对美对中国等经济体加征301关税",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UMGxycnA4RlNHckJNU2RpMXdiMzFTbW9TdDRkMHdKQlBjT04yNnZ6OWtsQ2JaUkxBRm1DWHdCUXVNVXFZT3pBQXVhaEtval94QV9VYWZ3ODFZOHd0bFlxcE1CaDlnRXJZUGZTWFBsVXBZekJLdjZZUkwtazNtZTA?oc=5",
+        "source": "人民日报",
+        "published": "2026-11-27T16:37:45+00:00",
+        "source_count": 2,
+        "sources": [
+          "人民日报",
+          "财新"
+        ],
+        "score": 6.708,
+        "topic": "国际经济",
+        "editorial_reference": false
+      },
+      {
+        "title": "特朗普：如果奥巴马当年不把普京踢出八国集团，可能都不会有俄乌冲突，普京当时觉得自己被狠狠羞辱了",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOE9ISTU5QmVaUFRmb2RTT0dUM0NrNjlDdy1sOXd0Qk5LNm54SGFBU0ZVYUljSVdoUUtSVmJmMnNuTWZqWFpWZUhUVDNIcjZBWVVyaFRVWFkxcHNCbVFfd2wzTnFhUTlUN2ptNVdqUS02bHNad3RhRGxDSGxMMElWcGl6Nm5HVHpsZkxtQl9hbw?oc=5",
+        "source": "21财经",
+        "published": "2026-11-27T12:04:00+00:00",
+        "source_count": 2,
+        "sources": [
+          "21财经",
+          "海外媒体"
+        ],
+        "score": 7.531,
+        "topic": "冲突与安全",
+        "editorial_reference": false
+      },
+      {
+        "title": "金银大涨！交易员缩减美联储加息押注，瑞银建议做多白银",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONW5FWV94dERhZUZQaDdrMlZETFZOdjhWSmY4bzIzRHpRcFdleGpndzJuSEQtQXVDVmNiRFZJajhhVm4xTmp4OVNDRmhVU3c2U0VqZ0xHZ1QwalBYNGJLcjNXOFBnNzFlUmpxQ0NrdlpiLVA2cW9UZ0hwcHNvTWxRWmd1YmlOcTZNdFV2eg?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-28T00:31:00+00:00",
+        "source_count": 2,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 6.653,
         "topic": "国际经济",
         "editorial_reference": false
       }
     ],
     "ent": [
       {
-        "title": "综艺股份（600770）11月26日主力资金净卖出13.61万元",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRlNLSTFXUHRHV0QxLTVfN00zakhreHdQNlYzTW9mYXUtWi00RnBHc3BiUlFMQnktc19VLU53QXM1R2RzcllDQnpZZlNLMmhnd2tPMUdfTmFPdDVCejU1YW1YQlRPcDNneDhHQUp5WFZOeVRzU3diRkZSazVTZUxMYUtrYTJPQktF?oc=5",
-        "source": "海外媒体",
-        "published": "2026-11-27T00:14:23+00:00",
-        "source_count": 2,
-        "sources": [
-          "海外媒体",
-          "证券之星"
-        ],
-        "score": 6.809,
-        "topic": "剧集与综艺",
-        "editorial_reference": false
-      },
-      {
-        "title": "以小城烟火铸治愈良方 电视剧《小城良方》研讨会举行",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKZFQzTUIwVUdyRFlLSkhWdF9GSFdMalNqeTdUT09xTmRBaW9tSk1rRTdIR3dtbVQ5YTNZQXEtZTRhTEU2dVVnRDFqMlp4WW55VUMzaV9lR09hemlwT2hObGpiTm1rZ25rMWI5NVpQeEdoR1FkQUlpcw?oc=5",
-        "source": "新浪财经_金融信息服务商",
-        "published": "2026-11-26T13:38:45+00:00",
-        "source_count": 2,
-        "sources": [
-          "中国新闻网",
-          "新浪财经_金融信息服务商"
-        ],
-        "score": 6.584,
-        "topic": "剧集与综艺",
-        "editorial_reference": false
-      },
-      {
-        "title": "新加坡中国电影节开幕，7部中国电影将展映",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1Z2cEMxTmY0bWhzUWpFVUh6V1RsMFFkcmdQNFk1M1lLNzdjS3dsRVMxV0ZKOFl1TmpWWXlpOGprLTlGOHJhaUFsZWhNSXJ3MEppaWk1UGdfUHhKYkFJVHNlcFJ4RVU3aGJvMEstYl9hVE5jWmFtMzBZZHFTX01JRm9HaGpldXQtS3V6Sk1jb3p0T29T?oc=5",
+        "title": "女演员自曝被导演开黄腔！",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCcWtnREEtOE9ORUgwd3BZa19SM2p3X0xRTmpidmU3aDZDMmdrc3NBWmRQcmJRYVRPTmRBRmNSZHV4RlhneHVjaVFjR0VDMUNYZW1adDZUUHUtbXhkNHQ5bnI2ak11V2x1N256Zk04ZXU?oc=5",
         "source": "新浪新闻_手机新浪网",
-        "published": "2026-11-26T15:37:00+00:00",
-        "source_count": 1,
+        "published": "2026-11-27T10:03:34+00:00",
+        "source_count": 3,
         "sources": [
-          "新浪新闻_手机新浪网"
+          "新浪新闻_手机新浪网",
+          "海外媒体",
+          "观察者网"
         ],
-        "score": 6.063,
+        "score": 7.412,
         "topic": "电影与奖项",
         "editorial_reference": false
       },
       {
-        "title": "袁一琦演唱会逆应援登上抖音种草榜，具体安排引粉丝热议",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM2lpd19BQ2Q4UWwxdjBzRGtwOHczU2lGcGRhMTVVLWxaNURtbm42TE1iSDZ6U21laDdYZE8xTE5XUzVVT1V1VUhhbW5BYlZNMG92OWd1dXNUaktKV2hsandweUtUOGJUbjZFWklGRlBJMk90blhfc1dkY2JUTVBtVU9JX2ZtWWZJSHNFazh6dTl4bXVJc2FXdVpXQlBIWjJUSENQLXh3?oc=5",
+        "title": "周深成为内地最年轻达成百场演唱会的歌手，并且厦门双日票房超7600万[点赞] ​",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DUFNnN21HR1ppWjA2SFd2TWFHUFRmWHpzX0wxUDZYTHFrRzRZQ050dk8wQUszV0FpUFViSkE1RnpFTzEwV1cwY0ZaRTA4V3k1cXZLWURKVVRoeWxvbVpOUkE3TQ?oc=5",
+        "source": "新浪新闻",
+        "published": "2026-11-28T00:49:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "新浪新闻"
+        ],
+        "score": 6.087,
+        "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "侯明昊演唱会现场被喊老公 回应亲戚朋友在场注意分寸",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1nX0gzaVFrS2twQTJENUJCWURCcDloUkcwLU9aeDVnNzJZVVJLZk9WeW9yeUw4UnRTaXFwbkg3cElPaGQzTUJ1UkVZRm1VdG5rZk1VUjVRb2RpY1MtY2NPeVExN0RUbTUxS0Jlb2hyUl9FWDg?oc=5",
         "source": "手机新浪网",
-        "published": "2026-11-26T15:31:27+00:00",
+        "published": "2026-11-27T20:33:11+00:00",
         "source_count": 1,
         "sources": [
           "手机新浪网"
         ],
-        "score": 5.762,
+        "score": 6.085,
         "topic": "音乐与演出",
         "editorial_reference": false
       },
       {
-        "title": "电视剧《我的阿勒泰》阿语配音版登陆突尼斯国家电视台黄金档",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeThIb3pZaFZySUVpeWNOZnBhMVk5d0VwWWc4RkNtby00U1N5NUh3S1VvR3Y4ZzhkdzBCTHBZallIRWxxTC1xMVdGZ1RoM1VqNW5KbzNaVk1CWG5VVjd1eE1TYW5helhBYzRRQXQyRG1UWkJGQ2xQdHNvTmxXVG9iMm9B?oc=5",
-        "source": "新浪财经_金融信息服务商",
-        "published": "2026-11-26T10:30:25+00:00",
-        "source_count": 2,
+        "title": "王俊凯回应粉丝开场前合唱 巡回演唱会新歌专辑版权回归",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBaLWpRV1p1Q0tEUkloNVQwclAtUGVsQ0ZKeGk4djU2LWFseWlFZVZPTS0xZ29iM0RfX1FBWEkxYVVwQ0dYWlF4UXhJdDlUU0hxZjJOcGJiaUcxaU80cGVzdmtiVldhWTg4dzVJaTdIY0o4ODA?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-27T19:04:46+00:00",
+        "source_count": 1,
         "sources": [
-          "中国新闻网",
-          "新浪财经_金融信息服务商"
+          "手机新浪网"
         ],
-        "score": 6.529,
-        "topic": "剧集与综艺",
+        "score": 6.024,
+        "topic": "音乐与演出",
         "editorial_reference": false
       },
       {
-        "title": "歌手胡海泉被曝炒股亏掉1个亿！本人亲自回应",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BeGZnTGd2YWdHSG5uN3A0UkUwTUY2dTU2NDVoZmQ5RWN5UlFtbm1jYzQ1TU5KaUFmWmxwV2tLRGM1S05oSF91cjFxeEdIMDk1TW5lQS0tWFJCdTh6VmRMbnFZYmpOU2tWWkFkLXo5UktpUllzUTVRRHBCejNuQVE?oc=5",
+        "title": "第三届浙江杂技奖揭晓，5位中青年演员获奖",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNV0xpQTJDWTRZQjFhLWJTZ2haNzI3ZkltQ3hZeC1kUmVsLTFrbjQxMnFwVkdOS1g1MzFhdFVnajJGWDdmY1BkbnlkMUozTEdZeWJVQXBrRGsyQzJ4YWRmVjVZdTBYMmlnUVVmNVNaR0Y4TXV5WTQ2aUF4bVpkTEhEc1RoMGpnc19xdmxpMw?oc=5",
+        "source": "海外媒体",
+        "published": "2026-11-27T13:27:04+00:00",
+        "source_count": 1,
+        "sources": [
+          "海外媒体"
+        ],
+        "score": 5.812,
+        "topic": "明星动态",
+        "editorial_reference": false
+      },
+      {
+        "title": "《GTA6》女主演员发声：很感激成为大家生活的一部分",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbVVYa1VTbmJrUzVuTlVUXzZiTHVlWV94SFZaczZrNVlZY1o4eF9fYk1feTU0TFdya1ZEaFJrLTI2NkpTSDJrdGtSSGVXZW9Ja25ldmFjdnBVTFpFUDVzTFJCNU1XLXRTaXRTZENNX0JhRWFyaWtYNzVUYWtNSGlpTjR1ZDBUQQ?oc=5",
         "source": "新浪财经",
-        "published": "2026-11-26T11:28:43+00:00",
+        "published": "2026-11-27T09:11:27+00:00",
         "source_count": 2,
         "sources": [
           "新浪财经",
           "驱动之家"
         ],
-        "score": 5.703,
-        "topic": "音乐与演出",
+        "score": 5.749,
+        "topic": "剧集与综艺",
         "editorial_reference": false
       },
       {
-        "title": "刚刚 | 歌手胡海泉辟谣！",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNam5OWmFWTnlTWGtDaExoalRlN0pJYll1enhReV9obmhxRWZuOC12MkppZEtPWkpHeFota3JFdFllWU5Jck92d3kxVUx1UmdGdzJRcGRnYkJJUXlOa2FWczMwcEFSU25jR2xDWnJjdDE1WmdNQmlfcWdVTjlON3FwMndZRQ?oc=5",
-        "source": "新浪财经_金融信息服务商",
-        "published": "2026-11-26T06:28:52+00:00",
-        "source_count": 2,
-        "sources": [
-          "新浪财经",
-          "新浪财经_金融信息服务商"
-        ],
-        "score": 5.63,
-        "topic": "音乐与演出",
-        "editorial_reference": false
-      },
-      {
-        "title": "人生样本｜厉声喝止“人来疯”，你们以为小演员好惹吗！",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GbzdxU1RTQWdabUNNby1idHg2QndOamZMdFNTc1NaamZBVU15Y1gxd3RMZW9EWE5lZFdUMVZQNGhKWVZYNkM4bFJHTjFoMllkQUFDalJrWWl5QQ?oc=5",
-        "source": "上观新闻",
-        "published": "2026-11-26T23:04:00+00:00",
+        "title": "综艺真的能给演员赋魅！ ​",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1OOXE0OWNIRUNTT1VPWG15eUZKMVBpeDRmTF82bDJsYUZBdkY2dXpodXdvM3VudjMycU1PWGphNkRtZERrNGkxUWszM3dxUjFqSmdwYUIzOElVUGJYd1Zwa2dDQktvV29ZLTJ1aXVSM1hkNE0?oc=5",
+        "source": "手机新浪网",
+        "published": "2026-11-27T06:03:05+00:00",
         "source_count": 1,
         "sources": [
-          "上观新闻"
+          "手机新浪网"
         ],
-        "score": 4.602,
-        "topic": "明星动态",
+        "score": 5.704,
+        "topic": "剧集与综艺",
         "editorial_reference": false
       },
       {
-        "title": "奚美娟忆黄佐临：黄院长塑造了我们这一代演员的气质和精神观",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wdDFfb0s3WlpEN2NNS1F2cTc5Z1FfWnY5VVY2YXpXdzRaX3cyZjZEb2JNZHNBU05MYUlvakM1TUh1T1BIcUNubkFEZDUweWR4TmU3WVRramVEU1ptc0FWRw?oc=5",
-        "source": "海外媒体",
-        "published": "2026-11-26T23:51:31+00:00",
+        "title": "2026新加坡中国电影节在怡丰城拉开帷幕",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9neW1ic3lDd3ZTcUt4OWdURzBJLVFiX2xlYjRoRVRwaFJRZ0ZzX2JPOUdhRmVIMlVYTFhYUGY1UVFHUXBVN29hdnNBWW05ZmFna0VQVjd6WXVIdUE1Mm44V1k2M2YxbmVGNVliN1I1TnN0NkNC?oc=5",
+        "source": "驻新加坡大使馆",
+        "published": "2026-11-27T12:16:23+00:00",
         "source_count": 1,
         "sources": [
-          "海外媒体"
+          "驻新加坡大使馆"
         ],
-        "score": 4.593,
-        "topic": "明星动态",
-        "editorial_reference": false
-      },
-      {
-        "title": "中国电影：融资净偿还1873.74万元，融资余额3.79亿元",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsVVRiSnJ2b2o4SXhmWWtCRDdyVng0VWNNb29VUHpFMmZ3aWtyQUxMelotVDNTc2xISlIxWkpOSXBYYnhtOUZ4dmVicVVyN2pZWkNpMHZzQm5Gc2xwTFNBNE5udkIxUQ?oc=5",
-        "source": "东方财富网",
-        "published": "2026-11-27T00:05:24+00:00",
-        "source_count": 1,
-        "sources": [
-          "东方财富网"
-        ],
-        "score": 4.567,
+        "score": 6.054,
         "topic": "电影与奖项",
+        "editorial_reference": false
+      },
+      {
+        "title": "侯明昊演唱会现场粉丝应援|侯明昊|巡回演唱会|北京话_新浪新闻",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80ZVlmTGZyZkJQRVVpRFZvYnhwVVBLeHdmNnpfeUh2OEpmZHpzSFItVDF2Y2hTbGpIWlZzengySGZXUGgwZXBVR1BXdDhSZEFUQVRtbFc3Rk5BbVhlSWl2R2JGdw?oc=5",
+        "source": "新浪新闻",
+        "published": "2026-11-27T23:58:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "新浪新闻"
+        ],
+        "score": 5.885,
+        "topic": "音乐与演出",
+        "editorial_reference": false
+      },
+      {
+        "title": "粤超年度盛宴倒计时：冠军决战+明星助阵+非遗大秀，11月28日约定你！",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTHpsVkF1NVNONUVJendqdEdoSVB6ZnB2a3R5cXRHcmJJcnZDNzZCV1l6dmhrczhNSGc3eC1ZUWh5aTZZbGs2bzhUNWc5Q1EwQkNySHVJOUlMRU8wZkI3Q0FNak5OXzRnVjFGUUd5MVh3bExfT2ZOdnRjMm9Xemh4N3JwcGpyakZkeDRFY1I0WQ?oc=5",
+        "source": "21财经",
+        "published": "2026-11-27T22:31:00+00:00",
+        "source_count": 1,
+        "sources": [
+          "21财经"
+        ],
+        "score": 4.574,
+        "topic": "明星动态",
         "editorial_reference": false
       }
     ]
